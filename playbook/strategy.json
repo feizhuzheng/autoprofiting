@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T15:45:00Z",
-  "version": 4,
+  "last_updated": "2026-03-25T20:25:00Z",
+  "version": 5,
   "principles": [
     {
       "id": 1,
@@ -64,6 +64,13 @@
       "mistake": "Planned to buy CIEN at ~$408 but it gapped up 7.4% to $438 by execution day. I chased the momentum.",
       "context": "Set CIEN target on Day 1 at $407.90. By open on Day 2, it had rallied +5.27% then another +2% overnight to $438.11. I bought anyway at the higher price.",
       "fix": "For momentum names, set a max entry price when planning. If the stock gaps above your price by more than 5%, either reduce size or wait for a pullback. Don't chase.",
+      "added": "2026-03-25"
+    },
+    {
+      "id": 2,
+      "mistake": "Believed NVDA had earnings tonight without verifying. Spent entire Day 1 planning around a non-existent event.",
+      "context": "A web search snippet mentioned 'quarterly results' and I assumed it meant today. Didn't verify on NVIDIA's IR page or a proper earnings calendar. Next actual earnings: May 20, 2026.",
+      "fix": "VERIFY all facts from multiple authoritative sources. For earnings: check the company's investor relations page directly, not news snippets. Never trust a single web search result for critical decisions.",
       "added": "2026-03-25"
     }
   ],
