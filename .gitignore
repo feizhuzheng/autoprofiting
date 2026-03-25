@@ -1,4 +1,5 @@
 *
 !playbook/
 !playbook/**
+!README.md
 !.gitignore

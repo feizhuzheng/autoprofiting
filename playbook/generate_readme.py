@@ -4,7 +4,7 @@ import json, os
 from datetime import datetime
 
 DATA = os.path.expanduser("~/autoprofiting/data/strategy.json")
-OUT = os.path.expanduser("~/autoprofiting/playbook/README.md")
+OUT = os.path.expanduser("~/autoprofiting/README.md")
 
 with open(DATA) as f:
     s = json.load(f)
