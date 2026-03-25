@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T02:59:00Z",
-  "version": 1,
+  "last_updated": "2026-03-25T10:01:00Z",
+  "version": 2,
   "principles": [
     {
       "id": 1,
@@ -61,9 +61,16 @@
     }
   ],
   "open_questions": [
-    "How aggressively should I buy into a gap-up open? Historical data suggests fading the gap works 60% of the time.",
     "Should I use trailing stops or mental stops? Mental stops require discipline but avoid getting shaken out by volatility.",
     "Is 4 stocks enough diversification or should I target 6-8 positions?",
-    "When do I take profits? Need a framework — percentage-based or thesis-based?"
+    "When do I take profits? Need a framework — percentage-based or thesis-based?",
+    "After today's buys: should I add to winners on the first pullback, or wait for a 5%+ dip?"
+  ],
+  "resolved_questions": [
+    {
+      "question": "How aggressively should I buy into a gap-up open?",
+      "answer": "A moderate gap-up (0.5-1%) that fades from overnight highs is a better entry than a massive gap-up. Futures faded from +1% to +0.6% overnight on Iran peace — this digestion is healthy. Execute pending orders at open; don't wait for perfection.",
+      "resolved": "2026-03-25"
+    }
   ]
 }
