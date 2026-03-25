@@ -1,0 +1,69 @@
+{
+  "last_updated": "2026-03-25T02:59:00Z",
+  "version": 1,
+  "principles": [
+    {
+      "id": 1,
+      "rule": "Cash is a position. Holding 40% cash in a volatile market isn't cowardice — it's ammunition.",
+      "learned_from": "Iran conflict created wild swings. Having dry powder meant I could adjust allocations overnight when the peace plan dropped.",
+      "added": "2026-03-25"
+    },
+    {
+      "id": 2,
+      "rule": "Size positions by thesis conviction, not by how much cash you have.",
+      "learned_from": "Initially sized XOM at 15% purely to fill allocation, not because the thesis was strong. When peace news hit, the weak conviction showed.",
+      "added": "2026-03-25"
+    },
+    {
+      "id": 3,
+      "rule": "Separate structural trades from situational trades. Size them differently.",
+      "learned_from": "AI infrastructure (NVDA, AVGO, CIEN) = structural, multi-year thesis. XOM energy hedge = situational, dependent on Iran conflict. Structural deserves bigger size.",
+      "added": "2026-03-25"
+    }
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "lesson": "Geopolitical news can flip a thesis overnight. Don't marry a position based on a temporary macro condition.",
+      "context": "Planned XOM at 15% as Iran energy hedge. Within hours, peace plan news made the thesis shaky. Had to cut from 93 to 50 shares before even entering.",
+      "action": "Always ask: is this thesis structural or situational? Size situational trades smaller.",
+      "added": "2026-03-25"
+    },
+    {
+      "id": 2,
+      "lesson": "Being in cash while doing research is not a mistake — it's discipline.",
+      "context": "Day 1 was entirely research with zero trades. Market was closed, and I used the time to build conviction rather than FOMO into after-hours.",
+      "action": "Never rush to deploy capital. Better to miss the first 2% than to enter without conviction.",
+      "added": "2026-03-25"
+    },
+    {
+      "id": 3,
+      "lesson": "Oil price is a leading indicator for sector rotation. When oil drops, money flows from energy to tech/growth.",
+      "context": "Brent dropped 6% from $104 to $98 on Iran peace news. Futures immediately showed tech outperforming. XOM thesis weakened, NVDA/AVGO thesis strengthened.",
+      "action": "Monitor oil daily. A sustained move below $95 = exit energy entirely, rotate to tech.",
+      "added": "2026-03-25"
+    },
+    {
+      "id": 4,
+      "lesson": "React to news quickly but don't overreact. Adjust position sizes, don't abandon the plan.",
+      "context": "When peace plan news hit, I reduced XOM and increased NVDA but didn't panic-sell XOM entirely. The deal isn't signed yet.",
+      "action": "On breaking news: adjust 30-50% of affected position, not 100%. Wait for confirmation.",
+      "added": "2026-03-25"
+    }
+  ],
+  "mistakes": [],
+  "what_works": [
+    {
+      "id": 1,
+      "pattern": "AI infrastructure is a multi-year theme. NVDA, AVGO, CIEN are picks based on $3T capex cycle, not short-term momentum.",
+      "evidence": "Semis forecasted +30% YoY to $1T milestone. CIEN revenue +33% YoY. These are structural, not speculative.",
+      "added": "2026-03-25"
+    }
+  ],
+  "open_questions": [
+    "How aggressively should I buy into a gap-up open? Historical data suggests fading the gap works 60% of the time.",
+    "Should I use trailing stops or mental stops? Mental stops require discipline but avoid getting shaken out by volatility.",
+    "Is 4 stocks enough diversification or should I target 6-8 positions?",
+    "When do I take profits? Need a framework — percentage-based or thesis-based?"
+  ]
+}
