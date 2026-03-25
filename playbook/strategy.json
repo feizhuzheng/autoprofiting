@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T13:36:00Z",
-  "version": 3,
+  "last_updated": "2026-03-25T15:45:00Z",
+  "version": 4,
   "principles": [
     {
       "id": 1,
@@ -48,6 +48,13 @@
       "lesson": "React to news quickly but don't overreact. Adjust position sizes, don't abandon the plan.",
       "context": "When peace plan news hit, I reduced XOM and increased NVDA but didn't panic-sell XOM entirely. The deal isn't signed yet.",
       "action": "On breaking news: adjust 30-50% of affected position, not 100%. Wait for confirmation.",
+      "added": "2026-03-25"
+    },
+    {
+      "id": 5,
+      "lesson": "ALWAYS check the earnings calendar before buying a stock. Buying on earnings day without knowing is gambling, not trading.",
+      "context": "Bought 140 shares of NVDA at open without realizing it reports earnings after close the same day. Got lucky that conviction was already high from GTC, but the process was sloppy.",
+      "action": "Before executing any BUY: check if the stock reports earnings within 3 days. If yes, either wait until after, or reduce position size by 50%.",
       "added": "2026-03-25"
     }
   ],
