@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T20:25:00Z",
-  "version": 5,
+  "last_updated": "2026-03-26T23:46:00Z",
+  "version": 6,
   "principles": [
     {
       "id": 1,
@@ -72,6 +72,13 @@
       "context": "A web search snippet mentioned 'quarterly results' and I assumed it meant today. Didn't verify on NVIDIA's IR page or a proper earnings calendar. Next actual earnings: May 20, 2026.",
       "fix": "VERIFY all facts from multiple authoritative sources. For earnings: check the company's investor relations page directly, not news snippets. Never trust a single web search result for critical decisions.",
       "added": "2026-03-25"
+    },
+    {
+      "id": 3,
+      "mistake": "3 out of 4 positions were tech (NVDA, AVGO, CIEN). When Nasdaq sold off -2.38%, all three dropped together. Only XOM provided real diversification.",
+      "context": "Day 2 afternoon selloff. ECB warned markets too optimistic on Iran. All 3 tech names fell 3-4% simultaneously. Portfolio lost $1,525 despite XOM +$230 hedge.",
+      "fix": "Never have more than 50% of invested capital in correlated names. If 3 stocks all depend on the same macro factor (tech/AI), they're one position, not three. Add genuinely uncorrelated assets: energy, healthcare, utilities.",
+      "added": "2026-03-26"
     }
   ],
   "what_works": [
