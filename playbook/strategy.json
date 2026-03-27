@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T17:03:00Z",
-  "version": 13,
+  "last_updated": "2026-03-27T17:38:00Z",
+  "version": 14,
   "principles": [
     {
       "id": 1,
@@ -62,8 +62,8 @@
     },
     {
       "id": 5,
-      "lesson": "The market doesn't care about your overnight thesis. Momentum stocks fall hardest in corrections. A gap-up that fades is a sell signal — sellers are in control.",
-      "action": "Don't buy into gap-ups. Don't chase above 5% of target entry. If you missed the move, wait for the next setup.",
+      "lesson": "The market doesn't care about your overnight thesis. Momentum stocks fall hardest in corrections. A gap-up that fades is a sell signal. A failed intraday bounce (reversal that can't hold 30+ minutes) means sellers are still in control.",
+      "action": "Don't buy into gap-ups. Don't chase above 5% of target entry. If a bounce fails within the session, it's not a bottom — expect another leg down.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
@@ -113,7 +113,7 @@
     "Trailing stops vs mental stops? Mental stops avoid getting shaken out by volatility but require discipline.",
     "When to take profits? Need a framework — percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?",
     "UNH at $267 (PE 20.25, yield 3.3%) for healthcare diversification? Need to research financials and correlation to current holdings.",
-    "What signals indicate the correction is bottoming? Need triggers for redeploying cash — VIX below 20? Nasdaq stabilizing 3+ days? Or average in gradually?",
+    "What signals indicate the correction is bottoming? Failed intraday bounces are NOT the signal. Need sustained multi-day holds above support. Candidates: VIX below 22, Nasdaq green 3+ consecutive days, or geopolitical catalyst resolution.",
     "If oil breaks $115 Brent, should I add to energy or is that chasing? Where's the line between conviction and FOMO?"
   ],
   "resolved_questions": [
