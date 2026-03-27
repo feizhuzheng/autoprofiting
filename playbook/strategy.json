@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T18:53:00Z",
-  "version": 16,
+  "last_updated": "2026-03-27T19:28:00Z",
+  "version": 17,
   "principles": [
     {
       "id": 1,
@@ -69,14 +69,14 @@
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, stay defensive. TESTED: VIX hit 30.35 and 30Y at 4.95% simultaneously \u2014 system triggered correctly.",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, stay defensive. System tested and triggers correctly.",
       "action": "Before any BUY, check all three. If 2+ at stress, stay in cash. Only deploy when at least 2 of 3 normalize (VIX below 25, 30Y below 4.7%).",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
     {
       "id": 7,
-      "lesson": "When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Expect deepening, not reversal. CONFIRMED: Dow entered correction on Day 3.",
+      "lesson": "When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Expect deepening, not reversal.",
       "action": "If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Safe positions: cash and genuine non-equity hedges.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
@@ -102,7 +102,7 @@
     },
     {
       "id": 4,
-      "pattern": "High cash reserve (50%+) is the best risk management during uncertainty. It limits drawdowns AND provides optionality. Week 1 final: -2.34% vs Nasdaq -10%+.",
+      "pattern": "High cash reserve (50%+) is the best risk management during uncertainty. It limits drawdowns AND provides optionality for recovery buys.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
