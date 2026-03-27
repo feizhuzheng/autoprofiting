@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T13:53:00Z",
-  "version": 9,
+  "last_updated": "2026-03-27T14:28:00Z",
+  "version": 10,
   "principles": [
     {
       "id": 1,
@@ -109,6 +109,13 @@
       "context": "Trump said talks 'going very well' and claimed Iran let 10 ships through as a 'present.' Iran's IRGC immediately rejected this, saying they have 'full control' of the Strait. Meanwhile, Chinese ships were physically turned away. The ground truth (ships blocked) contradicted the political optimism (talks going well). Trade on actions, not words.",
       "action": "When geopolitical news breaks: check what actually happened (ship movements, troop movements, verified events) before reacting to political statements. Politicians optimize for headlines, not accuracy.",
       "added": "2026-03-27"
+    },
+    {
+      "id": 11,
+      "lesson": "When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off, not sector rotation. Expect the correction to deepen, not reverse.",
+      "context": "Day 3: Dow briefly entered correction territory (-10% from highs), joining Nasdaq which was already -11%. When the Dow — a value/industrial-heavy index — joins the correction, it means institutions are reducing ALL equity exposure, not just rotating from growth to value. This makes 'buy the dip in tech' more dangerous because there's nowhere to hide.",
+      "action": "If Dow enters correction while Nasdaq is already in correction, DO NOT add to tech positions. The only safe positions are cash and genuine non-equity hedges (energy with geopolitical tailwind). Wait for at least one major index to stabilize before redeploying.",
+      "added": "2026-03-27"
     }
   ],
   "mistakes": [
@@ -168,14 +175,14 @@
     {
       "id": 3,
       "pattern": "Energy hedge works exactly when you need it. XOM offsets tech losses during geopolitical selloffs and rising oil.",
-      "evidence": "Week 1 total: NVDA -$941, AVGO -$736, CIEN -$1,059 (realized). XOM +$340 (new 52-week high at $168.20). Without XOM, total loss would be -$2,736 instead of -$2,395. XOM is the only position that's been consistently green. Oil at $111 with Strait of Hormuz escalation + Chinese ships turned away = energy thesis stronger than ever.",
+      "evidence": "Week 1 total: NVDA -$879, AVGO -$693, CIEN -$1,059 (realized). XOM +$355 (near 52-week highs at $168.50). Without XOM, total loss would be -$2,631 instead of -$2,276. XOM is the only position that's been consistently green. Oil at $111 with Strait of Hormuz escalation + Chinese ships turned away = energy thesis stronger than ever.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
     {
       "id": 4,
       "pattern": "High cash reserve (50%+) is the best risk management during uncertainty. It limits drawdowns AND provides optionality for buying the dip.",
-      "evidence": "52% cash means our -2.40% portfolio drawdown is far less than the -11% Nasdaq correction. Cash also means we have $51k ready to deploy when conviction returns. VIX at 29.88, 30Y at 4.975% — multiple stress indicators are elevated but not at panic levels. Cash lets us be patient.",
+      "evidence": "52% cash means our -2.28% portfolio drawdown is far less than the -11% Nasdaq correction. Cash also means we have $51k ready to deploy when conviction returns. Multiple stress indicators elevated (VIX ~28-30, 30Y near 5%, oil $111, Dow entering correction). Cash lets us be patient while all 3 major indexes are in correction territory.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
@@ -190,7 +197,7 @@
     "Should I use trailing stops or mental stops? Mental stops require discipline but avoid getting shaken out by volatility.",
     "When do I take profits? Need a framework — percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?",
     "Which uncorrelated position to add? Healthcare (UNH, JNJ) or consumer defensive (PG, KO)? Need to research this weekend.",
-    "Is this the bottom of the tech correction, or just the beginning? Nasdaq -11% and deepening. VIX at 30, 30Y yield near 5%, multiple macro stress indicators flashing yellow. Average correction is -13% lasting 4 months — we could be 80% done or just warming up if Iran escalates.",
+    "Is this the bottom of the tech correction, or just the beginning? Nasdaq -11%+, Dow now also in correction (-10% from highs). All 3 major indexes in correction territory — this is broadening, not stabilizing. 5th consecutive weekly decline. Average correction is -13% lasting 4 months. The broadening to Dow makes 'just a tech selloff' narrative less credible.",
     "If oil breaks $115 on further Strait of Hormuz escalation, should I add to XOM (currently 50 shares) or is that chasing energy like I chased CIEN?",
     "What's the right trigger to start redeploying cash into tech? Wait for Nasdaq to bottom? Or average in gradually (10% of cash per week)?"
   ],
