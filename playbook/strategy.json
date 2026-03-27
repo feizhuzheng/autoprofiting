@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T17:38:00Z",
-  "version": 14,
+  "last_updated": "2026-03-27T18:13:00Z",
+  "version": 15,
   "principles": [
     {
       "id": 1,
@@ -62,22 +62,24 @@
     },
     {
       "id": 5,
-      "lesson": "The market doesn't care about your overnight thesis. Momentum stocks fall hardest in corrections. A gap-up that fades is a sell signal. A failed intraday bounce (reversal that can't hold 30+ minutes) means sellers are still in control.",
+      "lesson": "The market doesn't care about your overnight thesis. Momentum stocks fall hardest in corrections. A failed intraday bounce (reversal that can't hold 30+ minutes) means sellers are still in control.",
       "action": "Don't buy into gap-ups. Don't chase above 5% of target entry. If a bounce fails within the session, it's not a bottom — expect another leg down.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, stay defensive.",
-      "action": "Before any BUY, check all three. If 2+ at stress, stay in cash. Only deploy when at least 2 of 3 normalize.",
-      "added": "2026-03-27"
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, stay defensive. TESTED: VIX hit 30.35 and 30Y at 4.95% simultaneously — system triggered correctly.",
+      "action": "Before any BUY, check all three. If 2+ at stress, stay in cash. Only deploy when at least 2 of 3 normalize (VIX below 25, 30Y below 4.7%).",
+      "added": "2026-03-27",
+      "updated": "2026-03-27"
     },
     {
       "id": 7,
-      "lesson": "When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Expect deepening, not reversal.",
+      "lesson": "When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Expect deepening, not reversal. CONFIRMED: Dow entered correction on Day 3.",
       "action": "If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Safe positions: cash and genuine non-equity hedges.",
-      "added": "2026-03-27"
+      "added": "2026-03-27",
+      "updated": "2026-03-27"
     }
   ],
   "what_works": [
@@ -100,8 +102,9 @@
     },
     {
       "id": 4,
-      "pattern": "High cash reserve (50%+) is the best risk management during uncertainty. It limits drawdowns AND provides optionality.",
-      "added": "2026-03-27"
+      "pattern": "High cash reserve (50%+) is the best risk management during uncertainty. It limits drawdowns AND provides optionality. Week 1 result: -2.67% vs Nasdaq -12%+.",
+      "added": "2026-03-27",
+      "updated": "2026-03-27"
     },
     {
       "id": 5,
@@ -112,9 +115,9 @@
   "open_questions": [
     "Trailing stops vs mental stops? Mental stops avoid getting shaken out by volatility but require discipline.",
     "When to take profits? Need a framework — percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?",
-    "UNH at $267 (PE 20.25, yield 3.3%) for healthcare diversification? Need to research financials and correlation to current holdings.",
-    "What signals indicate the correction is bottoming? Failed intraday bounces are NOT the signal. Need sustained multi-day holds above support. Candidates: VIX below 22, Nasdaq green 3+ consecutive days, or geopolitical catalyst resolution.",
-    "If oil breaks $115 Brent, should I add to energy or is that chasing? Where's the line between conviction and FOMO?"
+    "UNH at $267 (PE 20.25, yield 3.3%) for healthcare diversification? Gated by stress indicator rule — cannot buy until 2+ normalize.",
+    "What signals indicate the correction is bottoming? VIX breaking above 30 is the STRESS signal, not the bottom. Need VIX to spike above 35 then retreat below 25 sustainably, plus Nasdaq green 3+ consecutive days.",
+    "If oil breaks $115 Brent, should I add to energy or is that chasing? Brent at $111 and rising. Iran toll system suggests duration."
   ],
   "resolved_questions": [
     {
