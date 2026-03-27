@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T20:42:00Z",
-  "version": 19,
+  "last_updated": "2026-03-27T21:20:00Z",
+  "version": 20,
   "principles": [
     {
       "id": 1,
@@ -63,15 +63,15 @@
     },
     {
       "id": 5,
-      "lesson": "Don't chase gap-ups. A failed intraday bounce (reversal that can't hold 30+ minutes) means sellers are still in control \u2014 expect another leg down.",
-      "action": "Don't buy above 5% of target entry. If a bounce fails within the session, it's not a bottom. New day lows in the final 30 minutes on a Friday signal institutional risk reduction \u2014 expect Monday weakness.",
+      "lesson": "Don't chase gap-ups or failed intraday bounces. New day lows in the final 30 minutes on a Friday signal institutional risk reduction \u2014 expect Monday weakness.",
+      "action": "Don't buy above 5% of target entry. If a bounce fails within the session, sellers are still in control. Friday closing selloffs are the most bearish short-term signal.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115, rate hike probability 65%. When 2+ cluster at stress levels, stay defensive. No new positions until VIX <25 AND 30Y <4.7%.",
-      "action": "Before any BUY, check all four. If 2+ at stress, stay in cash. Rate hike probability crossing 65% for 3+ consecutive days = begin exiting growth positions regardless of price.",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, stay defensive. Rate hike probability crossing 65% for 3+ consecutive days = begin exiting growth positions.",
+      "action": "Before any BUY, check all indicators. If 2+ at stress, stay in cash. No new positions until VIX <25 AND 30Y <4.7%.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
@@ -115,9 +115,9 @@
   ],
   "open_questions": [
     "When to take profits? Need a framework \u2014 percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?",
-    "Rate hike regime: if fed funds futures sustain >65% hike probability, does the AI thesis still justify holding NVDA/AVGO? Higher rates compress growth multiples. Watch April FOMC.",
-    "What signals indicate the correction is bottoming? Need VIX to spike above 35 then retreat below 25 sustainably, plus Nasdaq green 3+ consecutive days.",
-    "Defensive diversification: PG and JNJ as cleaner alternatives to UNH (which has company-specific headwinds). Does consumer defensive provide genuine non-correlation in a broad selloff?"
+    "Rate hike regime: probability at 52% but Fed says 'temporary.' If sustained >65% for 3+ days, does the AI thesis still justify holding NVDA/AVGO? Watch April FOMC closely.",
+    "VIX above 30 historically means correction is ~halfway done (74 days avg excluding outliers). Current correction at 30 days. Does this mean 1-2 more months of pain?",
+    "For defensive diversification, PG looks cleanest (beta 0.34, no litigation risk). What's the right entry \u2014 wait for stress normalization or buy into weakness?"
   ],
   "resolved_questions": [
     {
@@ -143,8 +143,14 @@
       "resolved": "2026-03-27"
     },
     {
-      "question": "When structural support breaks intraday (e.g. NVDA $170), does it reset to the next level?",
-      "answer": "Yes. NVDA broke $170 in the final 30 minutes and closed at $167.44. Support levels cascade \u2014 when one breaks, price moves to the next. The break itself is real, not a false signal, especially when it happens in the final hour.",
+      "question": "When structural support breaks intraday, does it reset to the next level?",
+      "answer": "Yes. Support levels cascade \u2014 when one breaks, price moves to the next. Intraday breaches that recover (like AVGO touching $298.87 before closing at $300.68) signal the level is weakening, not holding.",
+      "resolved": "2026-03-27",
+      "updated": "2026-03-27"
+    },
+    {
+      "question": "Which defensive stock for uncorrelated diversification \u2014 UNH, JNJ, or PG?",
+      "answer": "PG. UNH has company-specific headwinds (losing 1.4M members, Medicaid margin collapse). JNJ has 67,000+ talc lawsuits with massive tail risk. PG has quantifiable, cyclical risks (tariffs) with the highest yield (2.7%) and lowest tail risk.",
       "resolved": "2026-03-27"
     }
   ]
