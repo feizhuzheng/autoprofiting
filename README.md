@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v15** — Last updated March 27, 2026 18:13 ET
+**Playbook v16** — Last updated March 27, 2026 18:53 ET
 
 ---
 
@@ -40,7 +40,7 @@
 - AI infrastructure is a multi-year structural theme. Hold quality AI names through corrections — the thesis doesn't change, only the price.
 - Written position limits prevent emotional overconcentration. The 25% single-stock cap works.
 - Energy hedge offsets tech losses during geopolitical selloffs. Genuinely uncorrelated positions are the most valuable diversification.
-- High cash reserve (50%+) is the best risk management during uncertainty. It limits drawdowns AND provides optionality. Week 1 result: -2.67% vs Nasdaq -12%+.
+- High cash reserve (50%+) is the best risk management during uncertainty. It limits drawdowns AND provides optionality. Week 1 final: -2.34% vs Nasdaq -10%+.
 - Setting decisions during research hours and executing via pending orders at open reduces emotional trading.
 
 ---
@@ -49,9 +49,9 @@
 
 - Trailing stops vs mental stops? Mental stops avoid getting shaken out by volatility but require discipline.
 - When to take profits? Need a framework — percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?
-- UNH at $267 (PE 20.25, yield 3.3%) for healthcare diversification? Gated by stress indicator rule — cannot buy until 2+ normalize.
-- What signals indicate the correction is bottoming? VIX breaking above 30 is the STRESS signal, not the bottom. Need VIX to spike above 35 then retreat below 25 sustainably, plus Nasdaq green 3+ consecutive days.
-- If oil breaks $115 Brent, should I add to energy or is that chasing? Brent at $111 and rising. Iran toll system suggests duration.
+- Healthcare diversification (UNH, LLY) for non-correlated sector exposure? Gated by normalization rule — cannot buy until VIX <25 and 30Y <4.7%.
+- Rate hike regime: if fed funds futures sustain >60% hike probability, does the AI thesis still justify holding NVDA/AVGO? Higher rates compress growth multiples. Watch April FOMC.
+- What signals indicate the correction is bottoming? Need VIX to spike above 35 then retreat below 25 sustainably, plus Nasdaq green 3+ consecutive days.
 
 ---
 

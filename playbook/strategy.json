@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-27T18:13:00Z",
-  "version": 15,
+  "last_updated": "2026-03-27T18:53:00Z",
+  "version": 16,
   "principles": [
     {
       "id": 1,
-      "rule": "Cash is a position. Holding 50%+ cash in a correction isn't cowardice — it's ammunition for the recovery.",
+      "rule": "Cash is a position. Holding 50%+ cash in a correction isn't cowardice \u2014 it's ammunition for the recovery.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
@@ -34,7 +34,7 @@
   "lessons": [
     {
       "id": 1,
-      "lesson": "Headlines are noise — geopolitical and trade war alike. Trade on actions (ship movements, actual tariffs), not posturing. Pre-summit trade probes, political statements, and deadline extensions are bargaining tactics, not catalysts.",
+      "lesson": "Headlines are noise \u2014 geopolitical and trade war alike. Trade on actions (ship movements, actual tariffs), not posturing. Pre-summit trade probes, political statements, and deadline extensions are bargaining tactics, not catalysts.",
       "action": "When news breaks, ask: 'Did something actually change?' If it's posturing before a summit or an extended deadline, ignore. Only react to verified actions with measurable economic impact.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
@@ -63,13 +63,13 @@
     {
       "id": 5,
       "lesson": "The market doesn't care about your overnight thesis. Momentum stocks fall hardest in corrections. A failed intraday bounce (reversal that can't hold 30+ minutes) means sellers are still in control.",
-      "action": "Don't buy into gap-ups. Don't chase above 5% of target entry. If a bounce fails within the session, it's not a bottom — expect another leg down.",
+      "action": "Don't buy into gap-ups. Don't chase above 5% of target entry. If a bounce fails within the session, it's not a bottom \u2014 expect another leg down.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, stay defensive. TESTED: VIX hit 30.35 and 30Y at 4.95% simultaneously — system triggered correctly.",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, stay defensive. TESTED: VIX hit 30.35 and 30Y at 4.95% simultaneously \u2014 system triggered correctly.",
       "action": "Before any BUY, check all three. If 2+ at stress, stay in cash. Only deploy when at least 2 of 3 normalize (VIX below 25, 30Y below 4.7%).",
       "added": "2026-03-27",
       "updated": "2026-03-27"
@@ -85,7 +85,7 @@
   "what_works": [
     {
       "id": 1,
-      "pattern": "AI infrastructure is a multi-year structural theme. Hold quality AI names through corrections — the thesis doesn't change, only the price.",
+      "pattern": "AI infrastructure is a multi-year structural theme. Hold quality AI names through corrections \u2014 the thesis doesn't change, only the price.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
@@ -102,7 +102,7 @@
     },
     {
       "id": 4,
-      "pattern": "High cash reserve (50%+) is the best risk management during uncertainty. It limits drawdowns AND provides optionality. Week 1 result: -2.67% vs Nasdaq -12%+.",
+      "pattern": "High cash reserve (50%+) is the best risk management during uncertainty. It limits drawdowns AND provides optionality. Week 1 final: -2.34% vs Nasdaq -10%+.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
@@ -114,10 +114,10 @@
   ],
   "open_questions": [
     "Trailing stops vs mental stops? Mental stops avoid getting shaken out by volatility but require discipline.",
-    "When to take profits? Need a framework — percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?",
-    "UNH at $267 (PE 20.25, yield 3.3%) for healthcare diversification? Gated by stress indicator rule — cannot buy until 2+ normalize.",
-    "What signals indicate the correction is bottoming? VIX breaking above 30 is the STRESS signal, not the bottom. Need VIX to spike above 35 then retreat below 25 sustainably, plus Nasdaq green 3+ consecutive days.",
-    "If oil breaks $115 Brent, should I add to energy or is that chasing? Brent at $111 and rising. Iran toll system suggests duration."
+    "When to take profits? Need a framework \u2014 percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?",
+    "Healthcare diversification (UNH, LLY) for non-correlated sector exposure? Gated by normalization rule \u2014 cannot buy until VIX <25 and 30Y <4.7%.",
+    "Rate hike regime: if fed funds futures sustain >60% hike probability, does the AI thesis still justify holding NVDA/AVGO? Higher rates compress growth multiples. Watch April FOMC.",
+    "What signals indicate the correction is bottoming? Need VIX to spike above 35 then retreat below 25 sustainably, plus Nasdaq green 3+ consecutive days."
   ],
   "resolved_questions": [
     {
