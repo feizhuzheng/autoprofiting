@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-27T21:20:00Z",
-  "version": 20,
+  "last_updated": "2026-03-27T21:58:00Z",
+  "version": 21,
   "principles": [
     {
       "id": 1,
-      "rule": "Cash is a position. Holding 50%+ cash in a correction isn't cowardice \u2014 it's ammunition for the recovery. Week 1 proved this: -2.95% vs Nasdaq -11%+.",
+      "rule": "Cash is a position. Holding 50%+ cash in a correction isn't cowardice \u2014 it's ammunition for the recovery. Week 1: -2.95% vs Nasdaq -11%+.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
@@ -27,7 +27,7 @@
     },
     {
       "id": 5,
-      "rule": "Verify portfolio prices against live market data before every decision. Stale data masks losses. Always check prices in the final 30 minutes \u2014 closing selloffs can be violent.",
+      "rule": "Verify all data (prices, VIX, yields) against official close sources before every decision. Intraday spikes can distort the picture \u2014 only closing values count for stress thresholds.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     }
@@ -35,14 +35,14 @@
   "lessons": [
     {
       "id": 1,
-      "lesson": "Headlines are noise \u2014 geopolitical and trade war alike. Trade on actions (actual tariffs, Strait closures, troop movements), not posturing or deadline extensions.",
-      "action": "When news breaks, ask: 'Did something actually change?' If it's pre-summit posturing or an extended deadline, ignore. Only react to verified actions with measurable economic impact.",
+      "lesson": "Trade on actions, not posturing. When news breaks, ask: 'Did something actually change?' Deadline extensions and pre-summit talk are noise. Actual blockades, tariffs, and troop movements are signal.",
+      "action": "Only react to verified actions with measurable economic impact. Iran blocking Chinese ships = action. Trump extending a deadline = posturing.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
     {
       "id": 2,
-      "lesson": "Patience is a trading strategy. On breaking news, adjust 30-50% of an affected position, not 100%. Never rush to deploy capital \u2014 better to miss the first 2% than enter without conviction.",
+      "lesson": "Patience is a trading strategy. On breaking news, adjust 30-50% of an affected position, not 100%. Better to miss the first 2% than enter without conviction.",
       "action": "Plan for bull, bear, and sideways scenarios before any trade. If you don't have a plan for all three, you're not ready to trade.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
@@ -63,15 +63,15 @@
     },
     {
       "id": 5,
-      "lesson": "Don't chase gap-ups or failed intraday bounces. New day lows in the final 30 minutes on a Friday signal institutional risk reduction \u2014 expect Monday weakness.",
-      "action": "Don't buy above 5% of target entry. If a bounce fails within the session, sellers are still in control. Friday closing selloffs are the most bearish short-term signal.",
+      "lesson": "Don't chase gap-ups or failed intraday bounces. Stocks closing near the day's low on a Friday signal institutional risk reduction \u2014 expect Monday weakness.",
+      "action": "Don't buy above 5% of target entry. Friday close near day-low is the most bearish short-term signal.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, stay defensive. Rate hike probability crossing 65% for 3+ consecutive days = begin exiting growth positions.",
-      "action": "Before any BUY, check all indicators. If 2+ at stress, stay in cash. No new positions until VIX <25 AND 30Y <4.7%.",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, go fully defensive. Approaching thresholds (within 10%) warrant caution even if not triggered.",
+      "action": "Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. If all 3 approaching within 10%, reduce position sizes.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
@@ -97,13 +97,13 @@
     },
     {
       "id": 3,
-      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs. In Week 1, XOM covered 25% of total tech losses. Genuinely uncorrelated positions are the most valuable diversification.",
+      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs. Genuinely uncorrelated positions are the most valuable diversification.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
     {
       "id": 4,
-      "pattern": "High cash reserve (50%+) during corrections limits drawdowns AND provides optionality for recovery buys. Week 1: -2.95% vs Nasdaq -11%+.",
+      "pattern": "High cash reserve (50%+) during corrections limits drawdowns AND provides optionality for recovery buys.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
@@ -115,14 +115,14 @@
   ],
   "open_questions": [
     "When to take profits? Need a framework \u2014 percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?",
-    "Rate hike regime: probability at 52% but Fed says 'temporary.' If sustained >65% for 3+ days, does the AI thesis still justify holding NVDA/AVGO? Watch April FOMC closely.",
-    "VIX above 30 historically means correction is ~halfway done (74 days avg excluding outliers). Current correction at 30 days. Does this mean 1-2 more months of pain?",
-    "For defensive diversification, PG looks cleanest (beta 0.34, no litigation risk). What's the right entry \u2014 wait for stress normalization or buy into weakness?"
+    "April 6 Iran deadline is a binary catalyst. Bull case: resolution \u2192 oil drops, tech bounces hard. Bear case: escalation \u2192 Brent $120+, further correction. What's the portfolio plan for each scenario?",
+    "RSI at 29 (oversold) historically leads to bounces, but do oversold signals work during active geopolitical crises? Or do they just mean 'oversold can get more oversold'?",
+    "PCE nowcast at 3.14% \u2014 if confirmed, does this force the Fed's hand toward a hike despite 'temporary' language? Watch April FOMC closely."
   ],
   "resolved_questions": [
     {
       "question": "How aggressively should I buy into a gap-up open?",
-      "answer": "Don't. If a stock gaps 5%+ above target, SKIP IT. The gap-up chase cost us $1,059 in Week 1.",
+      "answer": "Don't. If a stock gaps 5%+ above target, SKIP IT.",
       "resolved": "2026-03-25",
       "updated": "2026-03-27"
     },
@@ -144,13 +144,13 @@
     },
     {
       "question": "When structural support breaks intraday, does it reset to the next level?",
-      "answer": "Yes. Support levels cascade \u2014 when one breaks, price moves to the next. Intraday breaches that recover (like AVGO touching $298.87 before closing at $300.68) signal the level is weakening, not holding.",
+      "answer": "Yes. Support levels cascade. Intraday breaches that recover signal weakening, not holding.",
       "resolved": "2026-03-27",
       "updated": "2026-03-27"
     },
     {
       "question": "Which defensive stock for uncorrelated diversification \u2014 UNH, JNJ, or PG?",
-      "answer": "PG. UNH has company-specific headwinds (losing 1.4M members, Medicaid margin collapse). JNJ has 67,000+ talc lawsuits with massive tail risk. PG has quantifiable, cyclical risks (tariffs) with the highest yield (2.7%) and lowest tail risk.",
+      "answer": "PG. Lowest tail risk, highest yield (2.7%), beta 0.34. UNH has membership losses; JNJ has 67K+ talc lawsuits.",
       "resolved": "2026-03-27"
     }
   ]
