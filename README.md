@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v23** — Last updated March 27, 2026 23:15 ET
+**Playbook v24** — Last updated March 27, 2026 23:47 ET
 
 ---
 
@@ -19,7 +19,7 @@
 - Size positions by thesis conviction, not by how much cash you have. Structural trades get full size; situational trades get half.
 - Separate structural trades from situational trades. Cut situational trades first in a correction. 2-strikes rule: if a situational trade is the worst performer for 2 consecutive sessions, sell immediately.
 - Never have more than 50% of invested capital in correlated names. Target 3+ uncorrelated sectors for genuine diversification.
-- Verify all data (prices, VIX, yields) against official close sources before every decision. Intraday spikes can distort the picture — only closing values count for stress thresholds.
+- Use ONE authoritative source per asset class (NASDAQ for stocks, ICE for Brent, CBOE for VIX). Intraday snapshots and cross-referencing multiple web sources create confusion. Only settlement/close values count for decisions.
 
 ---
 

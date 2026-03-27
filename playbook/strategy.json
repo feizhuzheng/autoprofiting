@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T23:15:00Z",
-  "version": 23,
+  "last_updated": "2026-03-27T23:47:00Z",
+  "version": 24,
   "principles": [
     {
       "id": 1,
@@ -27,7 +27,7 @@
     },
     {
       "id": 5,
-      "rule": "Verify all data (prices, VIX, yields) against official close sources before every decision. Intraday spikes can distort the picture \u2014 only closing values count for stress thresholds.",
+      "rule": "Use ONE authoritative source per asset class (NASDAQ for stocks, ICE for Brent, CBOE for VIX). Intraday snapshots and cross-referencing multiple web sources create confusion. Only settlement/close values count for decisions.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     }
