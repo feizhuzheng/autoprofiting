@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-27T19:28:00Z",
-  "version": 17,
+  "last_updated": "2026-03-27T20:04:00Z",
+  "version": 18,
   "principles": [
     {
       "id": 1,
-      "rule": "Cash is a position. Holding 50%+ cash in a correction isn't cowardice \u2014 it's ammunition for the recovery.",
+      "rule": "Cash is a position. Holding 50%+ cash in a correction isn't cowardice — it's ammunition for the recovery. Week 1 proved this: -2.95% vs Nasdaq -11%+.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
@@ -22,27 +22,28 @@
     },
     {
       "id": 4,
-      "rule": "Never have more than 50% of invested capital in correlated names. If 3 stocks depend on the same macro factor, they're one position. Target 3+ uncorrelated sectors.",
+      "rule": "Never have more than 50% of invested capital in correlated names. Target 3+ uncorrelated sectors for genuine diversification.",
       "added": "2026-03-27"
     },
     {
       "id": 5,
-      "rule": "Verify portfolio prices against live market data before every decision. If sources conflict, use the most conservative figure. Stale data masks losses and leads to bad decisions.",
-      "added": "2026-03-27"
+      "rule": "Verify portfolio prices against live market data before every decision. Stale data masks losses. Always check prices in the final 30 minutes — closing selloffs can be violent.",
+      "added": "2026-03-27",
+      "updated": "2026-03-27"
     }
   ],
   "lessons": [
     {
       "id": 1,
-      "lesson": "Headlines are noise \u2014 geopolitical and trade war alike. Trade on actions (ship movements, actual tariffs), not posturing. Pre-summit trade probes, political statements, and deadline extensions are bargaining tactics, not catalysts.",
-      "action": "When news breaks, ask: 'Did something actually change?' If it's posturing before a summit or an extended deadline, ignore. Only react to verified actions with measurable economic impact.",
+      "lesson": "Headlines are noise — geopolitical and trade war alike. Trade on actions (actual tariffs, Strait closures, troop movements), not posturing or deadline extensions.",
+      "action": "When news breaks, ask: 'Did something actually change?' If it's pre-summit posturing or an extended deadline, ignore. Only react to verified actions with measurable economic impact.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
     {
       "id": 2,
-      "lesson": "Patience is a trading strategy. Being in cash while researching is discipline. On breaking news, adjust 30-50% of an affected position, not 100%.",
-      "action": "Never rush to deploy capital. Better to miss the first 2% than enter without conviction. Plan for bull, bear, and sideways scenarios.",
+      "lesson": "Patience is a trading strategy. On breaking news, adjust 30-50% of an affected position, not 100%. Never rush to deploy capital — better to miss the first 2% than enter without conviction.",
+      "action": "Plan for bull, bear, and sideways scenarios before any trade. If you don't have a plan for all three, you're not ready to trade.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
@@ -62,22 +63,22 @@
     },
     {
       "id": 5,
-      "lesson": "The market doesn't care about your overnight thesis. Momentum stocks fall hardest in corrections. A failed intraday bounce (reversal that can't hold 30+ minutes) means sellers are still in control.",
-      "action": "Don't buy into gap-ups. Don't chase above 5% of target entry. If a bounce fails within the session, it's not a bottom \u2014 expect another leg down.",
+      "lesson": "Don't chase gap-ups. A failed intraday bounce (reversal that can't hold 30+ minutes) means sellers are still in control — expect another leg down.",
+      "action": "Don't buy above 5% of target entry. If a bounce fails within the session, it's not a bottom. New day lows in the final 30 minutes on a Friday signal institutional risk reduction — expect Monday weakness.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, stay defensive. System tested and triggers correctly.",
-      "action": "Before any BUY, check all three. If 2+ at stress, stay in cash. Only deploy when at least 2 of 3 normalize (VIX below 25, 30Y below 4.7%).",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, stay defensive. No new positions until VIX <25 AND 30Y <4.7%.",
+      "action": "Before any BUY, check all three. If 2+ at stress, stay in cash. Only deploy when at least 2 of 3 normalize.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
     {
       "id": 7,
       "lesson": "When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Expect deepening, not reversal.",
-      "action": "If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Safe positions: cash and genuine non-equity hedges.",
+      "action": "If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Stay in cash and genuine non-equity hedges.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     }
@@ -85,7 +86,7 @@
   "what_works": [
     {
       "id": 1,
-      "pattern": "AI infrastructure is a multi-year structural theme. Hold quality AI names through corrections \u2014 the thesis doesn't change, only the price.",
+      "pattern": "AI infrastructure is a multi-year structural theme. Hold quality AI names through corrections — the thesis doesn't change, only the price.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
@@ -96,13 +97,13 @@
     },
     {
       "id": 3,
-      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs. Genuinely uncorrelated positions are the most valuable diversification.",
+      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs. In Week 1, XOM covered 25% of total tech losses. Genuinely uncorrelated positions are the most valuable diversification.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
     {
       "id": 4,
-      "pattern": "High cash reserve (50%+) is the best risk management during uncertainty. It limits drawdowns AND provides optionality for recovery buys.",
+      "pattern": "High cash reserve (50%+) during corrections limits drawdowns AND provides optionality for recovery buys. Week 1: -2.95% vs Nasdaq -11%+.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
@@ -113,16 +114,16 @@
     }
   ],
   "open_questions": [
-    "Trailing stops vs mental stops? Mental stops avoid getting shaken out by volatility but require discipline.",
-    "When to take profits? Need a framework \u2014 percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?",
-    "Healthcare diversification (UNH, LLY) for non-correlated sector exposure? Gated by normalization rule \u2014 cannot buy until VIX <25 and 30Y <4.7%.",
+    "When to take profits? Need a framework — percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?",
     "Rate hike regime: if fed funds futures sustain >60% hike probability, does the AI thesis still justify holding NVDA/AVGO? Higher rates compress growth multiples. Watch April FOMC.",
-    "What signals indicate the correction is bottoming? Need VIX to spike above 35 then retreat below 25 sustainably, plus Nasdaq green 3+ consecutive days."
+    "What signals indicate the correction is bottoming? Need VIX to spike above 35 then retreat below 25 sustainably, plus Nasdaq green 3+ consecutive days.",
+    "Healthcare diversification (UNH, LLY) for non-correlated sector exposure — does it add genuine protection, or does everything correlate in a panic?",
+    "When structural support breaks intraday (e.g. NVDA $170), does it reset to the next level ($165), or does the intraday break itself become a false signal?"
   ],
   "resolved_questions": [
     {
       "question": "How aggressively should I buy into a gap-up open?",
-      "answer": "Don't. A moderate gap-up that fades from overnight highs is a better entry. If a stock gaps 5%+ above target, SKIP IT.",
+      "answer": "Don't. If a stock gaps 5%+ above target, SKIP IT. The gap-up chase cost us $1,059 in Week 1.",
       "resolved": "2026-03-25",
       "updated": "2026-03-27"
     },
@@ -133,7 +134,13 @@
     },
     {
       "question": "After selling a loser in a correction: redeploy or keep as cash?",
-      "answer": "Keep as CASH during elevated uncertainty. Don't redeploy until conviction returns.",
+      "answer": "Keep as CASH during elevated uncertainty. Don't redeploy until conviction returns and stress indicators normalize.",
+      "resolved": "2026-03-27",
+      "updated": "2026-03-27"
+    },
+    {
+      "question": "Trailing stops vs mental stops?",
+      "answer": "Mental stops with predefined trigger levels work better in volatile markets — avoids getting shaken out by intraday spikes. But requires discipline to execute.",
       "resolved": "2026-03-27"
     }
   ]

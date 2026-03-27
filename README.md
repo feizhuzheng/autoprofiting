@@ -9,29 +9,29 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v17** — Last updated March 27, 2026 19:28 ET
+**Playbook v18** — Last updated March 27, 2026 20:04 ET
 
 ---
 
 ## Core Principles
 
-- Cash is a position. Holding 50%+ cash in a correction isn't cowardice — it's ammunition for the recovery.
+- Cash is a position. Holding 50%+ cash in a correction isn't cowardice — it's ammunition for the recovery. Week 1 proved this: -2.95% vs Nasdaq -11%+.
 - Size positions by thesis conviction, not by how much cash you have. Structural trades get full size; situational trades get half.
 - Separate structural trades from situational trades. Cut situational trades first in a correction. 2-strikes rule: if a situational trade is the worst performer for 2 consecutive sessions, sell immediately.
-- Never have more than 50% of invested capital in correlated names. If 3 stocks depend on the same macro factor, they're one position. Target 3+ uncorrelated sectors.
-- Verify portfolio prices against live market data before every decision. If sources conflict, use the most conservative figure. Stale data masks losses and leads to bad decisions.
+- Never have more than 50% of invested capital in correlated names. Target 3+ uncorrelated sectors for genuine diversification.
+- Verify portfolio prices against live market data before every decision. Stale data masks losses. Always check prices in the final 30 minutes — closing selloffs can be violent.
 
 ---
 
 ## Lessons Learned
 
-- Headlines are noise — geopolitical and trade war alike. Trade on actions (ship movements, actual tariffs), not posturing. Pre-summit trade probes, political statements, and deadline extensions are bargaining tactics, not catalysts. → *When news breaks, ask: 'Did something actually change?' If it's posturing before a summit or an extended deadline, ignore. Only react to verified actions with measurable economic impact.*
-- Patience is a trading strategy. Being in cash while researching is discipline. On breaking news, adjust 30-50% of an affected position, not 100%. → *Never rush to deploy capital. Better to miss the first 2% than enter without conviction. Plan for bull, bear, and sideways scenarios.*
+- Headlines are noise — geopolitical and trade war alike. Trade on actions (actual tariffs, Strait closures, troop movements), not posturing or deadline extensions. → *When news breaks, ask: 'Did something actually change?' If it's pre-summit posturing or an extended deadline, ignore. Only react to verified actions with measurable economic impact.*
+- Patience is a trading strategy. On breaking news, adjust 30-50% of an affected position, not 100%. Never rush to deploy capital — better to miss the first 2% than enter without conviction. → *Plan for bull, bear, and sideways scenarios before any trade. If you don't have a plan for all three, you're not ready to trade.*
 - Oil price is a leading indicator for sector rotation. When oil spikes, money flows from tech/growth to energy/defensive. → *Monitor oil daily. Above $110 Brent = stay in energy, reduce tech. Below $95 = exit energy, rotate to tech.*
 - Always check the earnings calendar before buying. Verify on the company's IR page, not news snippets. → *Before any BUY: check if stock reports earnings within 3 days. If yes, wait or reduce size by 50%.*
-- The market doesn't care about your overnight thesis. Momentum stocks fall hardest in corrections. A failed intraday bounce (reversal that can't hold 30+ minutes) means sellers are still in control. → *Don't buy into gap-ups. Don't chase above 5% of target entry. If a bounce fails within the session, it's not a bottom — expect another leg down.*
-- Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, stay defensive. System tested and triggers correctly. → *Before any BUY, check all three. If 2+ at stress, stay in cash. Only deploy when at least 2 of 3 normalize (VIX below 25, 30Y below 4.7%).*
-- When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Expect deepening, not reversal. → *If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Safe positions: cash and genuine non-equity hedges.*
+- Don't chase gap-ups. A failed intraday bounce (reversal that can't hold 30+ minutes) means sellers are still in control — expect another leg down. → *Don't buy above 5% of target entry. If a bounce fails within the session, it's not a bottom. New day lows in the final 30 minutes on a Friday signal institutional risk reduction — expect Monday weakness.*
+- Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, stay defensive. No new positions until VIX <25 AND 30Y <4.7%. → *Before any BUY, check all three. If 2+ at stress, stay in cash. Only deploy when at least 2 of 3 normalize.*
+- When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Expect deepening, not reversal. → *If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Stay in cash and genuine non-equity hedges.*
 
 ---
 
@@ -39,19 +39,19 @@
 
 - AI infrastructure is a multi-year structural theme. Hold quality AI names through corrections — the thesis doesn't change, only the price.
 - Written position limits prevent emotional overconcentration. The 25% single-stock cap works.
-- Energy hedge offsets tech losses during geopolitical selloffs. Genuinely uncorrelated positions are the most valuable diversification.
-- High cash reserve (50%+) is the best risk management during uncertainty. It limits drawdowns AND provides optionality for recovery buys.
+- Energy hedge offsets tech losses during geopolitical selloffs. In Week 1, XOM covered 25% of total tech losses. Genuinely uncorrelated positions are the most valuable diversification.
+- High cash reserve (50%+) during corrections limits drawdowns AND provides optionality for recovery buys. Week 1: -2.95% vs Nasdaq -11%+.
 - Setting decisions during research hours and executing via pending orders at open reduces emotional trading.
 
 ---
 
 ## Open Questions
 
-- Trailing stops vs mental stops? Mental stops avoid getting shaken out by volatility but require discipline.
 - When to take profits? Need a framework — percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?
-- Healthcare diversification (UNH, LLY) for non-correlated sector exposure? Gated by normalization rule — cannot buy until VIX <25 and 30Y <4.7%.
 - Rate hike regime: if fed funds futures sustain >60% hike probability, does the AI thesis still justify holding NVDA/AVGO? Higher rates compress growth multiples. Watch April FOMC.
 - What signals indicate the correction is bottoming? Need VIX to spike above 35 then retreat below 25 sustainably, plus Nasdaq green 3+ consecutive days.
+- Healthcare diversification (UNH, LLY) for non-correlated sector exposure — does it add genuine protection, or does everything correlate in a panic?
+- When structural support breaks intraday (e.g. NVDA $170), does it reset to the next level ($165), or does the intraday break itself become a false signal?
 
 ---
 
