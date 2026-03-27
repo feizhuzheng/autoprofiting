@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T13:35:00Z",
-  "version": 8,
+  "last_updated": "2026-03-27T13:53:00Z",
+  "version": 9,
   "principles": [
     {
       "id": 1,
@@ -95,6 +95,20 @@
       "context": "Day 3: NVDA opened at $176.07 (up from $172.06 close) but faded to $171.24 by mid-morning. The gap-up failure signals that sellers are still dominant despite any overnight optimism.",
       "action": "Don't buy into a gap-up. If a stock gaps up and starts fading, that's a sell signal, not a buy signal. Wait for confirmation that the gap holds before adding.",
       "added": "2026-03-27"
+    },
+    {
+      "id": 9,
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, oil $115 Brent. When multiple thresholds cluster, risk is elevated and you should be defensive, not opportunistic.",
+      "context": "Day 3 mid-morning: VIX 29.88 (+8.89%), 30Y at 4.975%, oil $111 Brent. All three approaching stress levels simultaneously. When multiple indicators cluster near thresholds, the probability of a cascading move increases. This isn't the time to 'buy the dip' — it's the time to protect capital.",
+      "action": "Before any BUY, check VIX, 30Y yield, and oil. If 2+ are at stress levels, stay in cash. Only deploy when at least 2 of 3 have normalized.",
+      "added": "2026-03-27"
+    },
+    {
+      "id": 10,
+      "lesson": "Diplomacy headlines can be noise. What matters is actions on the ground — ship movements, military operations, actual negotiations — not statements from politicians.",
+      "context": "Trump said talks 'going very well' and claimed Iran let 10 ships through as a 'present.' Iran's IRGC immediately rejected this, saying they have 'full control' of the Strait. Meanwhile, Chinese ships were physically turned away. The ground truth (ships blocked) contradicted the political optimism (talks going well). Trade on actions, not words.",
+      "action": "When geopolitical news breaks: check what actually happened (ship movements, troop movements, verified events) before reacting to political statements. Politicians optimize for headlines, not accuracy.",
+      "added": "2026-03-27"
     }
   ],
   "mistakes": [
@@ -154,14 +168,14 @@
     {
       "id": 3,
       "pattern": "Energy hedge works exactly when you need it. XOM offsets tech losses during geopolitical selloffs and rising oil.",
-      "evidence": "Week 1 total: NVDA -$879, AVGO -$693, CIEN -$1,059 (realized). XOM +$305. Without XOM, total loss would be -$2,631 instead of -$2,326. XOM is the only position that's been consistently green. Oil at $111 with Strait of Hormuz escalation = XOM thesis stronger than ever.",
+      "evidence": "Week 1 total: NVDA -$941, AVGO -$736, CIEN -$1,059 (realized). XOM +$340 (new 52-week high at $168.20). Without XOM, total loss would be -$2,736 instead of -$2,395. XOM is the only position that's been consistently green. Oil at $111 with Strait of Hormuz escalation + Chinese ships turned away = energy thesis stronger than ever.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
     {
       "id": 4,
       "pattern": "High cash reserve (50%+) is the best risk management during uncertainty. It limits drawdowns AND provides optionality for buying the dip.",
-      "evidence": "52% cash means our -2.33% portfolio drawdown is far less than the -10.7% Nasdaq correction. Cash also means we have $51k ready to deploy when conviction returns. In a correction, cash is the highest-conviction position.",
+      "evidence": "52% cash means our -2.40% portfolio drawdown is far less than the -11% Nasdaq correction. Cash also means we have $51k ready to deploy when conviction returns. VIX at 29.88, 30Y at 4.975% — multiple stress indicators are elevated but not at panic levels. Cash lets us be patient.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
@@ -176,7 +190,7 @@
     "Should I use trailing stops or mental stops? Mental stops require discipline but avoid getting shaken out by volatility.",
     "When do I take profits? Need a framework — percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?",
     "Which uncorrelated position to add? Healthcare (UNH, JNJ) or consumer defensive (PG, KO)? Need to research this weekend.",
-    "Is this the bottom of the tech correction, or just the beginning? Nasdaq -10.7% vs average correction of -13% lasting 4 months.",
+    "Is this the bottom of the tech correction, or just the beginning? Nasdaq -11% and deepening. VIX at 30, 30Y yield near 5%, multiple macro stress indicators flashing yellow. Average correction is -13% lasting 4 months — we could be 80% done or just warming up if Iran escalates.",
     "If oil breaks $115 on further Strait of Hormuz escalation, should I add to XOM (currently 50 shares) or is that chasing energy like I chased CIEN?",
     "What's the right trigger to start redeploying cash into tech? Wait for Nasdaq to bottom? Or average in gradually (10% of cash per week)?"
   ],
