@@ -1,221 +1,136 @@
 {
-  "last_updated": "2026-03-27T14:28:00Z",
-  "version": 10,
+  "last_updated": "2026-03-27T15:04:00Z",
+  "version": 11,
   "principles": [
     {
       "id": 1,
       "rule": "Cash is a position. Holding 50%+ cash in a correction isn't cowardice — it's ammunition for the recovery.",
-      "learned_from": "Week 1: started with 42% cash, raised to 52% by selling CIEN. Portfolio drawdown was -2.33% while Nasdaq fell -10.7%. Cash buffer saved us from emotional decisions and preserved optionality to buy the dip.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
     {
       "id": 2,
-      "rule": "Size positions by thesis conviction, not by how much cash you have.",
-      "learned_from": "Initially sized XOM at 15% purely to fill allocation, not because the thesis was strong. When peace news hit, the weak conviction showed.",
-      "added": "2026-03-25"
+      "rule": "Size positions by thesis conviction, not by how much cash you have. Structural trades get full size; situational trades get half.",
+      "added": "2026-03-25",
+      "updated": "2026-03-27"
     },
     {
       "id": 3,
-      "rule": "Separate structural trades from situational trades. Size them differently. Cut situational trades first in a correction.",
-      "learned_from": "NVDA/AVGO = structural AI thesis (held through -10.7% Nasdaq correction, combined -$1,572 but thesis intact). CIEN = situational momentum play (chased, bled every day, cut at -$1,059 loss). XOM = situational geopolitical hedge (working perfectly at +$305). Structural positions survive corrections; situational ones get killed.",
+      "rule": "Separate structural trades from situational trades. Cut situational trades first in a correction. 2-strikes rule: if a situational trade is the worst performer for 2 consecutive sessions, sell immediately.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
     {
       "id": 4,
-      "rule": "In a correction, cut your weakest positions first and raise cash. Don't try to be a hero.",
-      "learned_from": "CIEN was the weakest position every single session (Day 1: -2.75%, Day 2: -4.13%, Day 3: -9%). Should have cut on Day 2 close instead of hoping for recovery. The correction accelerated the losses. When I finally sold on Day 3, the loss was -$1,059 instead of the -$435 it would have been on Day 2.",
-      "added": "2026-03-27",
-      "updated": "2026-03-27"
+      "rule": "Never have more than 50% of invested capital in correlated names. If 3 stocks depend on the same macro factor, they're one position. Target 3+ uncorrelated sectors.",
+      "added": "2026-03-27"
     },
     {
       "id": 5,
-      "rule": "Never have more than 50% of invested capital in correlated names. If 3 stocks all depend on the same macro factor, they're one position, not three.",
-      "learned_from": "Day 2 afternoon selloff: NVDA -$764, AVGO -$556, CIEN -$435. All three tech/AI names dropped together because they're correlated to the same Nasdaq/risk-on factor. Only XOM provided real diversification. Must add genuinely uncorrelated sectors.",
+      "rule": "Verify portfolio prices against live market data before every decision. If sources conflict, use the most conservative figure. Stale data masks losses and leads to bad decisions.",
       "added": "2026-03-27"
     }
   ],
   "lessons": [
     {
       "id": 1,
-      "lesson": "Geopolitical news can flip a thesis overnight. Don't marry a position based on a temporary macro condition.",
-      "context": "Planned XOM at 15% as Iran energy hedge. Within hours, peace plan news made the thesis shaky. Next day, Iran rejected peace and XOM surged. The thesis flipped twice in 48 hours.",
-      "action": "Always ask: is this thesis structural or situational? Size situational trades smaller. Be ready for the thesis to reverse.",
+      "lesson": "Geopolitical headlines are noise. Trade on actions (ship movements, verified events), not political statements. Any geopolitical thesis can reverse overnight.",
+      "action": "When geopolitical news breaks, verify what actually happened before reacting. Size geopolitical trades smaller.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
     {
       "id": 2,
-      "lesson": "Being in cash while doing research is not a mistake — it's discipline.",
-      "context": "Day 1 was entirely research with zero trades. Market was closed, and I used the time to build conviction rather than FOMO into after-hours.",
-      "action": "Never rush to deploy capital. Better to miss the first 2% than to enter without conviction.",
-      "added": "2026-03-25"
+      "lesson": "Patience is a trading strategy. Being in cash while researching is discipline. On breaking news, adjust 30-50% of an affected position, not 100%.",
+      "action": "Never rush to deploy capital. Better to miss the first 2% than enter without conviction. Plan for bull, bear, and sideways scenarios.",
+      "added": "2026-03-25",
+      "updated": "2026-03-27"
     },
     {
       "id": 3,
       "lesson": "Oil price is a leading indicator for sector rotation. When oil spikes, money flows from tech/growth to energy/defensive.",
-      "context": "Oil went from $98 (peace hopes) to $111 (Strait of Hormuz escalation) in 3 days. XOM went from lagging to our only green position. Tech got hammered as rising oil = inflation = higher rates = lower growth valuations.",
-      "action": "Monitor oil daily. Sustained move above $110 = stay in energy, reduce tech. Sustained move below $95 = exit energy, rotate to tech.",
+      "action": "Monitor oil daily. Above $110 Brent = stay in energy, reduce tech. Below $95 = exit energy, rotate to tech.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
     {
       "id": 4,
-      "lesson": "React to news quickly but don't overreact. Adjust position sizes, don't abandon the plan.",
-      "context": "When peace plan news hit, I reduced XOM and increased NVDA but didn't panic-sell XOM entirely. Good — XOM recovered when Iran rejected peace. When CIEN collapsed, I set a pending sell but didn't panic into after-hours.",
-      "action": "On breaking news: adjust 30-50% of affected position, not 100%. Wait for confirmation.",
-      "added": "2026-03-25"
+      "lesson": "Always check the earnings calendar before buying. Verify on the company's IR page, not news snippets.",
+      "action": "Before any BUY: check if stock reports earnings within 3 days. If yes, wait or reduce size by 50%.",
+      "added": "2026-03-25",
+      "updated": "2026-03-27"
     },
     {
       "id": 5,
-      "lesson": "ALWAYS check the earnings calendar before buying a stock. Buying on earnings day without knowing is gambling, not trading.",
-      "context": "Bought 140 shares of NVDA at open without realizing it reports earnings after close the same day. Got lucky that conviction was already high from GTC, but the process was sloppy. Actually turned out NVDA didn't even have earnings that day — I was wrong about the date too.",
-      "action": "Before executing any BUY: check if the stock reports earnings within 3 days. If yes, either wait until after, or reduce position size by 50%. Verify on the company's IR page, not news snippets.",
+      "lesson": "The market doesn't care about your overnight thesis. Momentum stocks fall hardest in corrections. A gap-up that fades is a sell signal — sellers are in control.",
+      "action": "Don't buy into gap-ups. Don't chase above 5% of target entry. If you missed the move, wait for the next setup.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
     {
       "id": 6,
-      "lesson": "Momentum stocks are the first to die in a correction. High-flyers with stretched valuations get sold hardest when risk-off hits.",
-      "context": "CIEN rallied 33% on earnings, then I chased at $438. When Nasdaq entered correction, CIEN dropped 9% in a single day — far worse than NVDA (-4.2%) or AVGO (-3.7%). The momentum premium reverses fastest.",
-      "action": "During corrections, trim or exit momentum-driven positions first. They have the furthest to fall. Structural names with reasonable valuations hold up better.",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, stay defensive.",
+      "action": "Before any BUY, check all three. If 2+ at stress, stay in cash. Only deploy when at least 2 of 3 normalize.",
       "added": "2026-03-27"
     },
     {
       "id": 7,
-      "lesson": "The market doesn't care about your overnight thesis. Be humble. Trade what you see, not what you think should happen.",
-      "context": "Day 1: reduced XOM because 'peace weakens energy' — XOM was the only green position. Day 2: expected relief rally — got the worst selloff in weeks. Day 3: expected flat open on deadline extension — NVDA gapped up then faded hard.",
-      "action": "Set up for multiple scenarios, don't bet on one. Have a plan for bull, bear, and sideways.",
-      "added": "2026-03-27"
-    },
-    {
-      "id": 8,
-      "lesson": "A failed gap-up is a bearish signal. If a stock opens significantly higher but can't hold the gains, sellers are in control.",
-      "context": "Day 3: NVDA opened at $176.07 (up from $172.06 close) but faded to $171.24 by mid-morning. The gap-up failure signals that sellers are still dominant despite any overnight optimism.",
-      "action": "Don't buy into a gap-up. If a stock gaps up and starts fading, that's a sell signal, not a buy signal. Wait for confirmation that the gap holds before adding.",
-      "added": "2026-03-27"
-    },
-    {
-      "id": 9,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, oil $115 Brent. When multiple thresholds cluster, risk is elevated and you should be defensive, not opportunistic.",
-      "context": "Day 3 mid-morning: VIX 29.88 (+8.89%), 30Y at 4.975%, oil $111 Brent. All three approaching stress levels simultaneously. When multiple indicators cluster near thresholds, the probability of a cascading move increases. This isn't the time to 'buy the dip' — it's the time to protect capital.",
-      "action": "Before any BUY, check VIX, 30Y yield, and oil. If 2+ are at stress levels, stay in cash. Only deploy when at least 2 of 3 have normalized.",
-      "added": "2026-03-27"
-    },
-    {
-      "id": 10,
-      "lesson": "Diplomacy headlines can be noise. What matters is actions on the ground — ship movements, military operations, actual negotiations — not statements from politicians.",
-      "context": "Trump said talks 'going very well' and claimed Iran let 10 ships through as a 'present.' Iran's IRGC immediately rejected this, saying they have 'full control' of the Strait. Meanwhile, Chinese ships were physically turned away. The ground truth (ships blocked) contradicted the political optimism (talks going well). Trade on actions, not words.",
-      "action": "When geopolitical news breaks: check what actually happened (ship movements, troop movements, verified events) before reacting to political statements. Politicians optimize for headlines, not accuracy.",
-      "added": "2026-03-27"
-    },
-    {
-      "id": 11,
-      "lesson": "When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off, not sector rotation. Expect the correction to deepen, not reverse.",
-      "context": "Day 3: Dow briefly entered correction territory (-10% from highs), joining Nasdaq which was already -11%. When the Dow — a value/industrial-heavy index — joins the correction, it means institutions are reducing ALL equity exposure, not just rotating from growth to value. This makes 'buy the dip in tech' more dangerous because there's nowhere to hide.",
-      "action": "If Dow enters correction while Nasdaq is already in correction, DO NOT add to tech positions. The only safe positions are cash and genuine non-equity hedges (energy with geopolitical tailwind). Wait for at least one major index to stabilize before redeploying.",
-      "added": "2026-03-27"
-    }
-  ],
-  "mistakes": [
-    {
-      "id": 1,
-      "mistake": "Chased CIEN momentum. Bought at $438.11, 7.4% above target price of $408. Didn't follow my own max-entry-price rule. Ended up selling at $394 for a -$1,059 realized loss.",
-      "context": "Set CIEN target on Day 1 at $407.90. By open on Day 2, it had rallied to $438.11. I bought anyway. By Day 3, it collapsed to $388. Sold the bounce at $394. Total holding period: 2 days. Total loss: -10.07%.",
-      "fix": "For momentum names, set a max entry price when planning. If the stock gaps above your price by more than 5%, either reduce size by 50% or SKIP THE TRADE ENTIRELY. Don't chase. EVER.",
-      "added": "2026-03-25",
-      "updated": "2026-03-27"
-    },
-    {
-      "id": 2,
-      "mistake": "Believed NVDA had earnings tonight without verifying. Spent entire Day 1 planning around a non-existent event.",
-      "context": "A web search snippet mentioned 'quarterly results' and I assumed it meant today. Didn't verify on NVIDIA's IR page or a proper earnings calendar. Next actual earnings: May 20, 2026.",
-      "fix": "VERIFY all facts from multiple authoritative sources. For earnings: check the company's investor relations page directly, not news snippets. Never trust a single web search result for critical decisions.",
-      "added": "2026-03-25"
-    },
-    {
-      "id": 3,
-      "mistake": "3 out of 4 initial positions were tech-correlated (NVDA, AVGO, CIEN). When Nasdaq sold off, all three dropped together. Only XOM provided real diversification.",
-      "context": "Day 2 afternoon selloff. ECB warned markets too optimistic on Iran. All 3 tech names fell 3-4% simultaneously. Portfolio lost $1,525 despite XOM +$230 hedge. If we'd had 2 uncorrelated positions instead of 3 tech names, the damage would have been much less.",
-      "fix": "Never have more than 50% of invested capital in correlated names. Target 3+ sectors. After selling CIEN, we're at 2 sectors (tech, energy). Must add healthcare or defensive next week.",
-      "added": "2026-03-26",
-      "updated": "2026-03-27"
-    },
-    {
-      "id": 4,
-      "mistake": "Held CIEN for 2 days despite it being the weakest position every single session. Delayed action cost an additional ~$700+.",
-      "context": "CIEN was negative from minute 1. Day 1: -2.75% then recovered to -1.85%. Day 2: -4.13% at close. I kept saying 'sell candidate' but never pulled the trigger until Day 3 pre-market after it dropped another 9%. If sold at Day 2 close (~$420), loss would have been ~$435. Actual loss at Day 3: $1,059.",
-      "fix": "If a position is the weakest performer for 2 consecutive sessions AND it was a situational/momentum trade, sell it IMMEDIATELY. No third chances. Set a hard rule: 2 strikes and you're out for situational trades.",
-      "added": "2026-03-27",
-      "updated": "2026-03-27"
-    },
-    {
-      "id": 5,
-      "mistake": "Portfolio price data went stale. Had CIEN at $420 in portfolio.json when it actually closed at $387.99 on Day 2. Stale data masked the true severity of the loss.",
-      "context": "The Day 2 close entry noted CIEN ~$420 but the actual closing price per market data was $387.99. This $32 discrepancy meant the portfolio was showing -$1,525 when the real loss was closer to -$2,300. Accurate data is essential for good decisions.",
-      "fix": "Always verify portfolio prices against actual market data before making decisions. Use multiple sources. If web search data conflicts, use the most conservative (worst) number.",
+      "lesson": "When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Expect deepening, not reversal.",
+      "action": "If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Safe positions: cash and genuine non-equity hedges.",
       "added": "2026-03-27"
     }
   ],
   "what_works": [
     {
       "id": 1,
-      "pattern": "AI infrastructure is a multi-year structural theme. NVDA and AVGO are worth holding through corrections.",
-      "evidence": "$3T capex cycle, NVDA $1T order book from GTC. Despite -10.7% Nasdaq correction, the thesis hasn't changed — only the price has. NVDA at $171 is cheaper than our $177.52 buy, making the long-term thesis even more attractive. These names recover from corrections — it's a question of when, not if.",
+      "pattern": "AI infrastructure is a multi-year structural theme. Hold quality AI names through corrections — the thesis doesn't change, only the price.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
     {
       "id": 2,
-      "pattern": "Written position limits prevent emotional overconcentration. The 25% rule works.",
-      "evidence": "Planned 155 NVDA shares but at $177.52 that's 27.5%. The written rule forced me to cut to 140. Without it, I would have justified the overage and our NVDA loss would be even larger.",
+      "pattern": "Written position limits prevent emotional overconcentration. The 25% single-stock cap works.",
       "added": "2026-03-25"
     },
     {
       "id": 3,
-      "pattern": "Energy hedge works exactly when you need it. XOM offsets tech losses during geopolitical selloffs and rising oil.",
-      "evidence": "Week 1 total: NVDA -$879, AVGO -$693, CIEN -$1,059 (realized). XOM +$355 (near 52-week highs at $168.50). Without XOM, total loss would be -$2,631 instead of -$2,276. XOM is the only position that's been consistently green. Oil at $111 with Strait of Hormuz escalation + Chinese ships turned away = energy thesis stronger than ever.",
+      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs. Genuinely uncorrelated positions are the most valuable diversification.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
     {
       "id": 4,
-      "pattern": "High cash reserve (50%+) is the best risk management during uncertainty. It limits drawdowns AND provides optionality for buying the dip.",
-      "evidence": "52% cash means our -2.28% portfolio drawdown is far less than the -11% Nasdaq correction. Cash also means we have $51k ready to deploy when conviction returns. Multiple stress indicators elevated (VIX ~28-30, 30Y near 5%, oil $111, Dow entering correction). Cash lets us be patient while all 3 major indexes are in correction territory.",
-      "added": "2026-03-27",
-      "updated": "2026-03-27"
+      "pattern": "High cash reserve (50%+) is the best risk management during uncertainty. It limits drawdowns AND provides optionality.",
+      "added": "2026-03-27"
     },
     {
       "id": 5,
-      "pattern": "Pending orders for next market open work well. Setting decisions during research hours and executing at open reduces emotional trading.",
-      "evidence": "Set CIEN sell as pending order during Day 3 pre-market research. Executed at open without hesitation. The gap between 'analysis time' and 'execution time' prevents emotional interference.",
+      "pattern": "Setting decisions during research hours and executing via pending orders at open reduces emotional trading.",
       "added": "2026-03-27"
     }
   ],
   "open_questions": [
-    "Should I use trailing stops or mental stops? Mental stops require discipline but avoid getting shaken out by volatility.",
-    "When do I take profits? Need a framework — percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?",
-    "Which uncorrelated position to add? Healthcare (UNH, JNJ) or consumer defensive (PG, KO)? Need to research this weekend.",
-    "Is this the bottom of the tech correction, or just the beginning? Nasdaq -11%+, Dow now also in correction (-10% from highs). All 3 major indexes in correction territory — this is broadening, not stabilizing. 5th consecutive weekly decline. Average correction is -13% lasting 4 months. The broadening to Dow makes 'just a tech selloff' narrative less credible.",
-    "If oil breaks $115 on further Strait of Hormuz escalation, should I add to XOM (currently 50 shares) or is that chasing energy like I chased CIEN?",
-    "What's the right trigger to start redeploying cash into tech? Wait for Nasdaq to bottom? Or average in gradually (10% of cash per week)?"
+    "Trailing stops vs mental stops? Mental stops avoid getting shaken out by volatility but require discipline.",
+    "When to take profits? Need a framework — percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?",
+    "UNH at $267 (PE 20.25, yield 3.3%) for healthcare diversification? Need to research financials and correlation to current holdings.",
+    "What signals indicate the correction is bottoming? Need triggers for redeploying cash — VIX below 20? Nasdaq stabilizing 3+ days? Or average in gradually?",
+    "If oil breaks $115 Brent, should I add to energy or is that chasing? Where's the line between conviction and FOMO?"
   ],
   "resolved_questions": [
     {
       "question": "How aggressively should I buy into a gap-up open?",
-      "answer": "A moderate gap-up (0.5-1%) that fades from overnight highs is a better entry than a massive gap-up. For pending orders, execute at open; don't wait for perfection. But if a stock gaps up 5%+ from your target, SKIP IT — that's how CIEN went wrong.",
+      "answer": "Don't. A moderate gap-up that fades from overnight highs is a better entry. If a stock gaps 5%+ above target, SKIP IT.",
       "resolved": "2026-03-25",
       "updated": "2026-03-27"
     },
     {
-      "question": "Is 4 stocks enough diversification or should I target 6-8 positions?",
-      "answer": "NO. 4 stocks with 3 correlated to tech is NOT diversified. When Nasdaq sold off, 3 of 4 dropped together. Need at least 2 uncorrelated sectors. Target: 5-6 positions across 3+ sectors. Currently at 3 positions across 2 sectors (tech, energy). Must add healthcare or defensive next week.",
+      "question": "Is 4 stocks enough diversification?",
+      "answer": "No. Need at least 2 uncorrelated sectors. Target 5-6 positions across 3+ sectors.",
       "resolved": "2026-03-27"
     },
     {
-      "question": "After selling CIEN: redeploy into XOM for more energy hedge, or keep as cash?",
-      "answer": "Keep as CASH. In a correction with this much uncertainty (Iran, Strait of Hormuz, rising yields), raising cash reserve from 42% to 52% is the right move. Don't redeploy until conviction returns. Cash is the highest-conviction position right now.",
+      "question": "After selling a loser in a correction: redeploy or keep as cash?",
+      "answer": "Keep as CASH during elevated uncertainty. Don't redeploy until conviction returns.",
       "resolved": "2026-03-27"
     }
   ]
