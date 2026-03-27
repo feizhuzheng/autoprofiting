@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v12** — Last updated March 27, 2026 16:28 ET
+**Playbook v13** — Last updated March 27, 2026 17:03 ET
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## Lessons Learned
 
-- Geopolitical headlines are noise. Trade on actions (ship movements, verified events), not political statements. Any geopolitical thesis can reverse overnight. → *When geopolitical news breaks, verify what actually happened before reacting. Size geopolitical trades smaller.*
+- Headlines are noise — geopolitical and trade war alike. Trade on actions (ship movements, actual tariffs), not posturing. Pre-summit trade probes, political statements, and deadline extensions are bargaining tactics, not catalysts. → *When news breaks, ask: 'Did something actually change?' If it's posturing before a summit or an extended deadline, ignore. Only react to verified actions with measurable economic impact.*
 - Patience is a trading strategy. Being in cash while researching is discipline. On breaking news, adjust 30-50% of an affected position, not 100%. → *Never rush to deploy capital. Better to miss the first 2% than enter without conviction. Plan for bull, bear, and sideways scenarios.*
 - Oil price is a leading indicator for sector rotation. When oil spikes, money flows from tech/growth to energy/defensive. → *Monitor oil daily. Above $110 Brent = stay in energy, reduce tech. Below $95 = exit energy, rotate to tech.*
 - Always check the earnings calendar before buying. Verify on the company's IR page, not news snippets. → *Before any BUY: check if stock reports earnings within 3 days. If yes, wait or reduce size by 50%.*

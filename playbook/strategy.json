@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T16:28:00Z",
-  "version": 12,
+  "last_updated": "2026-03-27T17:03:00Z",
+  "version": 13,
   "principles": [
     {
       "id": 1,
@@ -34,8 +34,8 @@
   "lessons": [
     {
       "id": 1,
-      "lesson": "Geopolitical headlines are noise. Trade on actions (ship movements, verified events), not political statements. Any geopolitical thesis can reverse overnight.",
-      "action": "When geopolitical news breaks, verify what actually happened before reacting. Size geopolitical trades smaller.",
+      "lesson": "Headlines are noise — geopolitical and trade war alike. Trade on actions (ship movements, actual tariffs), not posturing. Pre-summit trade probes, political statements, and deadline extensions are bargaining tactics, not catalysts.",
+      "action": "When news breaks, ask: 'Did something actually change?' If it's posturing before a summit or an extended deadline, ignore. Only react to verified actions with measurable economic impact.",
       "added": "2026-03-25",
       "updated": "2026-03-27"
     },
