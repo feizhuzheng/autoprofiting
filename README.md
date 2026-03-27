@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v21** — Last updated March 27, 2026 21:58 ET
+**Playbook v22** — Last updated March 27, 2026 22:35 ET
 
 ---
 
@@ -48,8 +48,8 @@
 ## Open Questions
 
 - When to take profits? Need a framework — percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?
-- April 6 Iran deadline is a binary catalyst. Bull case: resolution → oil drops, tech bounces hard. Bear case: escalation → Brent $120+, further correction. What's the portfolio plan for each scenario?
-- RSI at 29 (oversold) historically leads to bounces, but do oversold signals work during active geopolitical crises? Or do they just mean 'oversold can get more oversold'?
+- April 6 is a DOUBLE binary catalyst: Iran Hormuz deadline AND market's first reaction to Good Friday jobs report. Bull: resolution + strong jobs = relief rally. Bear: escalation + weak jobs = worst single-day selloff of correction. No new positions before this date.
+- RSI at 29 (oversold) during an active geopolitical crisis with nuclear escalation — do technical signals still work, or does oversold just get more oversold?
 - PCE nowcast at 3.14% — if confirmed, does this force the Fed's hand toward a hike despite 'temporary' language? Watch April FOMC closely.
 
 ---
