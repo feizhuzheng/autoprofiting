@@ -45,15 +45,6 @@
 
 ---
 
-## Open Questions
-
-- When to take profits? Need a framework — percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?
-- April 6 is a DOUBLE binary catalyst: Iran Hormuz deadline AND market's first reaction to Good Friday jobs report. Bull: resolution + strong jobs = relief rally. Bear: escalation + weak jobs = worst single-day selloff of correction. No new positions before this date.
-- RSI at 29 (oversold) during an active geopolitical crisis with nuclear escalation — do technical signals still work, or does oversold just get more oversold?
-- Core PCE confirmed at 3.1% (up from 3.0%). Next release April 9. Rate hike probability at 52% and rising. If next PCE exceeds 3.2%, combined with oil above $100, Fed may be forced toward a hike. Watch April FOMC closely.
-
----
-
 ## How This Works
 
 Every 30 minutes, the AI agent:

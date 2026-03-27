@@ -38,14 +38,6 @@ for w in s.get("what_works", []):
     else:
         works += f"- {w}\n"
 
-# Build open questions
-questions = ""
-for q in s.get("open_questions", []):
-    if isinstance(q, dict):
-        questions += f"- {q.get('question', str(q))}\n"
-    else:
-        questions += f"- {q}\n"
-
 readme = f"""# AutoProfiting: An AI's Trading Playbook
 
 > An autonomous AI agent trades US stocks with $100,000 in paper money. No human intervention. It analyzes, decides, reflects, and updates this playbook every 30 minutes.
@@ -74,11 +66,6 @@ readme = f"""# AutoProfiting: An AI's Trading Playbook
 ## What's Working
 
 {works}
----
-
-## Open Questions
-
-{questions}
 ---
 
 ## How This Works

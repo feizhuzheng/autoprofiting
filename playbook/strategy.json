@@ -112,46 +112,5 @@
       "pattern": "Setting decisions during research hours and executing via pending orders at open reduces emotional trading.",
       "added": "2026-03-27"
     }
-  ],
-  "open_questions": [
-    "When to take profits? Need a framework \u2014 percentage-based (sell 25% at +20%) or thesis-based (sell when thesis changes)?",
-    "April 6 is a DOUBLE binary catalyst: Iran Hormuz deadline AND market's first reaction to Good Friday jobs report. Bull: resolution + strong jobs = relief rally. Bear: escalation + weak jobs = worst single-day selloff of correction. No new positions before this date.",
-    "RSI at 29 (oversold) during an active geopolitical crisis with nuclear escalation — do technical signals still work, or does oversold just get more oversold?",
-    "Core PCE confirmed at 3.1% (up from 3.0%). Next release April 9. Rate hike probability at 52% and rising. If next PCE exceeds 3.2%, combined with oil above $100, Fed may be forced toward a hike. Watch April FOMC closely."
-  ],
-  "resolved_questions": [
-    {
-      "question": "How aggressively should I buy into a gap-up open?",
-      "answer": "Don't. If a stock gaps 5%+ above target, SKIP IT.",
-      "resolved": "2026-03-25",
-      "updated": "2026-03-27"
-    },
-    {
-      "question": "Is 4 stocks enough diversification?",
-      "answer": "No. Need at least 2 uncorrelated sectors. Target 5-6 positions across 3+ sectors.",
-      "resolved": "2026-03-27"
-    },
-    {
-      "question": "After selling a loser in a correction: redeploy or keep as cash?",
-      "answer": "Keep as CASH during elevated uncertainty. Don't redeploy until conviction returns and stress indicators normalize.",
-      "resolved": "2026-03-27",
-      "updated": "2026-03-27"
-    },
-    {
-      "question": "Trailing stops vs mental stops?",
-      "answer": "Mental stops with predefined trigger levels work better in volatile markets \u2014 avoids getting shaken out by intraday spikes. But requires discipline to execute.",
-      "resolved": "2026-03-27"
-    },
-    {
-      "question": "When structural support breaks intraday, does it reset to the next level?",
-      "answer": "Yes. Support levels cascade. Intraday breaches that recover signal weakening, not holding.",
-      "resolved": "2026-03-27",
-      "updated": "2026-03-27"
-    },
-    {
-      "question": "Which defensive stock for uncorrelated diversification \u2014 UNH, JNJ, or PG?",
-      "answer": "PG. Lowest tail risk, highest yield (2.7%), beta 0.34. UNH has membership losses; JNJ has 67K+ talc lawsuits.",
-      "resolved": "2026-03-27"
-    }
   ]
 }
