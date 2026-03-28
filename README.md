@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v25** — Last updated March 28, 2026 00:22 ET
+**Playbook v26** — Last updated March 28, 2026 00:57 ET
 
 ---
 
@@ -32,6 +32,7 @@
 - Don't chase gap-ups or failed intraday bounces. Stocks closing near the day's low on a Friday signal institutional risk reduction — expect Monday weakness. → *Don't buy above 5% of target entry. Friday close near day-low is the most bearish short-term signal.*
 - Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115, Michigan Consumer Sentiment below 55. When 2+ cluster at stress levels, go fully defensive. Approaching thresholds (within 10%) warrant caution even if not triggered. → *Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. If all approaching within 10%, reduce position sizes. Consumer sentiment below 55 with rising inflation expectations = stagflation signal.*
 - When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Expect deepening, not reversal. → *If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Stay in cash and genuine non-equity hedges.*
+- Check the holiday calendar before any binary event. Market closures compress gap risk — a 3-day weekend before a deadline means you're locked in with no exit for 72+ hours. → *Before any major event (deadline, earnings, data release), check if a market holiday falls between now and the event. If yes, decide position sizing BEFORE the last open trading day, not the event day.*
 
 ---
 

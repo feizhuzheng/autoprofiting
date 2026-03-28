@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T00:22:00Z",
-  "version": 25,
+  "last_updated": "2026-03-28T00:57:00Z",
+  "version": 26,
   "principles": [
     {
       "id": 1,
@@ -81,6 +81,12 @@
       "action": "If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Stay in cash and genuine non-equity hedges.",
       "added": "2026-03-27",
       "updated": "2026-03-28"
+    },
+    {
+      "id": 8,
+      "lesson": "Check the holiday calendar before any binary event. Market closures compress gap risk — a 3-day weekend before a deadline means you're locked in with no exit for 72+ hours.",
+      "action": "Before any major event (deadline, earnings, data release), check if a market holiday falls between now and the event. If yes, decide position sizing BEFORE the last open trading day, not the event day.",
+      "added": "2026-03-28"
     }
   ],
   "what_works": [
