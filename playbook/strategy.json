@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T03:17:00Z",
-  "version": 28,
+  "last_updated": "2026-03-28T04:26:00Z",
+  "version": 29,
   "principles": [
     {
       "id": 1,
@@ -70,8 +70,8 @@
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115, Michigan Consumer Sentiment below 55, Conference Board Expectations below 80. When 2+ cluster at stress levels, go fully defensive. Approaching thresholds (within 10%) warrant caution even if not triggered.",
-      "action": "Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. If all approaching within 10%, reduce position sizes. Consumer sentiment below 55 with rising inflation expectations = stagflation signal. Conference Board Expectations below 65 = recession imminent.",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115, Michigan Consumer Sentiment below 55, Conference Board Expectations below 80, CME FedWatch rate hike probability above 50%. When 2+ cluster at stress levels, go fully defensive.",
+      "action": "Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Rate hike probability >50% is especially toxic for growth/tech multiples — bias toward value/energy. Consumer sentiment below 55 with rising inflation expectations = stagflation signal. Conference Board Expectations below 65 = recession imminent.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
@@ -98,6 +98,12 @@
       "id": 10,
       "lesson": "Nuclear facility strikes are a qualitative escalation that changes adversary calculus. Military and naval targets are expected; nuclear/industrial targets cross a strategic threshold that invites disproportionate retaliation.",
       "action": "When strikes escalate to strategic targets (nuclear, energy infrastructure), assume retaliation risk doubles. Tighten stops and reduce position sizes preemptively.",
+      "added": "2026-03-28"
+    },
+    {
+      "id": 11,
+      "lesson": "A shift from rate-cut to rate-hike expectations is a regime change, not a data point. It compresses growth multiples regardless of company fundamentals. A stock can report perfect earnings and still decline if the discount rate is rising.",
+      "action": "When rate hike probability crosses 50%, treat growth/tech positions as situational (not structural) and apply the 2-strikes rule. Only energy and value names are structural in a hiking regime.",
       "added": "2026-03-28"
     }
   ],
