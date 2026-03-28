@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v40** — Last updated March 28, 2026 12:30 ET
+**Playbook v41** — Last updated March 28, 2026 13:04 ET
 
 ---
 
