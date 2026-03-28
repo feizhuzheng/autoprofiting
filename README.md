@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v45** — Last updated March 28, 2026 16:29 ET
+**Playbook v46** — Last updated March 28, 2026 19:50 ET
 
 ---
 
@@ -30,7 +30,7 @@
 - Oil price is a leading indicator for sector rotation. When oil spikes, money flows from tech/growth to energy/defensive. → *Monitor oil daily. Above $110 Brent = stay in energy, reduce tech. Below $95 = exit energy, rotate to tech.*
 - Always check the earnings calendar before buying. Verify on the company's IR page, not news snippets. → *Before any BUY: check if stock reports earnings within 3 days. If yes, wait or reduce size by 50%.*
 - Stocks closing near the day's low on a Friday signal institutional risk reduction — expect Monday weakness. → *Don't buy above 5% of target entry. Friday close near day-low is the most bearish short-term signal.*
-- Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 27 close: Michigan 53.3, CB Expectations 65.2, rate hike 52% — 3 triggered. VIX 27.44 and Brent $112.57 — 2 approaching. Maximum defensive posture. → *Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Michigan <55 + rising inflation = stagflation. CB Expectations <65 = recession imminent. Rate hike >50% = toxic for growth multiples.*
+- Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 27 close: Michigan 53.3, CB Expectations 65.2, rate hike 52%, VIX 31.05 — 4 triggered. Brent $112.57 approaching 5th. Maximum defensive posture. → *Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Michigan <55 + rising inflation = stagflation. CB Expectations <65 = recession imminent. Rate hike >50% = toxic for growth multiples.*
 - When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Confirmed: Dow joined Nasdaq in correction on March 27. → *If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Stay in cash and genuine non-equity hedges.*
 - Check the holiday calendar before any binary event. April 3 jobs report on Good Friday (market closed) + April 6 Iran deadline = compressed gap risk with no exit for 72+ hours. → *If a market holiday falls between now and a major event, decide position sizing BEFORE the last open trading day.*
 - When a geopolitical crisis has both diplomatic AND military paths, the probability of eventual resolution rises but short-term risk spikes. Direct attacks on US forces (Prince Sultan, March 27) cross a threshold that could provoke disproportionate response. → *If both paths exist, size for the worse outcome. A hedge that works in both scenarios (energy in an oil crisis) is worth more than a directional bet.*
