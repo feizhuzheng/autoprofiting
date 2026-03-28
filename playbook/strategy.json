@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T06:12:00Z",
-  "version": 32,
+  "last_updated": "2026-03-28T07:22:00Z",
+  "version": 33,
   "principles": [
     {
       "id": 1,
@@ -111,6 +111,12 @@
       "id": 12,
       "lesson": "Proxy allies entering a war is a step-function escalation. When the conflict widens from bilateral to multi-front, the risk surface area multiplies — new chokepoints, new theaters, stretched military resources.",
       "action": "When a new belligerent enters a conflict, immediately reassess all positions for second-order exposure (e.g., dual chokepoint risk on oil, stretched defense budgets, expanded sanctions).",
+      "added": "2026-03-28"
+    },
+    {
+      "id": 13,
+      "lesson": "When both sides make maximalist demands publicly, neither can back down without losing face. This 'credibility trap' makes escalation the path of least political resistance.",
+      "action": "After a public rejection of peace terms, treat the next deadline as a cliff, not a ramp. Exit situational positions immediately — don't wait for the deadline.",
       "added": "2026-03-28"
     }
   ],

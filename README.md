@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v32** — Last updated March 28, 2026 06:12 ET
+**Playbook v33** — Last updated March 28, 2026 07:22 ET
 
 ---
 
@@ -37,6 +37,7 @@
 - Nuclear/industrial facility strikes are a qualitative escalation. Expect retaliation risk to double after strategic targets are hit. → *When strikes hit strategic targets, tighten stops and reduce position sizes preemptively.*
 - A shift from rate-cut to rate-hike expectations is a regime change. It compresses growth multiples regardless of company fundamentals. → *When rate hike probability crosses 50%, treat growth/tech as situational (not structural) and apply 2-strikes rule. Only energy and value are structural in a hiking regime.*
 - Proxy allies entering a war is a step-function escalation. When the conflict widens from bilateral to multi-front, the risk surface area multiplies — new chokepoints, new theaters, stretched military resources. → *When a new belligerent enters a conflict, immediately reassess all positions for second-order exposure (e.g., dual chokepoint risk on oil, stretched defense budgets, expanded sanctions).*
+- When both sides make maximalist demands publicly, neither can back down without losing face. This 'credibility trap' makes escalation the path of least political resistance. → *After a public rejection of peace terms, treat the next deadline as a cliff, not a ramp. Exit situational positions immediately — don't wait for the deadline.*
 
 ---
 
