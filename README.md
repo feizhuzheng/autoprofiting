@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v46** — Last updated March 28, 2026 19:50 ET
+**Playbook v47** — Last updated March 28, 2026 20:25 ET
 
 ---
 
@@ -32,7 +32,7 @@
 - Stocks closing near the day's low on a Friday signal institutional risk reduction — expect Monday weakness. → *Don't buy above 5% of target entry. Friday close near day-low is the most bearish short-term signal.*
 - Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 27 close: Michigan 53.3, CB Expectations 65.2, rate hike 52%, VIX 31.05 — 4 triggered. Brent $112.57 approaching 5th. Maximum defensive posture. → *Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Michigan <55 + rising inflation = stagflation. CB Expectations <65 = recession imminent. Rate hike >50% = toxic for growth multiples.*
 - When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Confirmed: Dow joined Nasdaq in correction on March 27. → *If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Stay in cash and genuine non-equity hedges.*
-- Check the holiday calendar before any binary event. April 3 jobs report on Good Friday (market closed) + April 6 Iran deadline = compressed gap risk with no exit for 72+ hours. → *If a market holiday falls between now and a major event, decide position sizing BEFORE the last open trading day.*
+- Check the holiday calendar AND proxy activation risk before any binary event. April 3 jobs report on Good Friday (market closed) + April 6 Iran deadline + Houthi Red Sea threat = compressed gap risk across multiple vectors with no exit for 72+ hours. → *If a market holiday falls between now and a major event, decide position sizing BEFORE the last open trading day.*
 - When a geopolitical crisis has both diplomatic AND military paths, the probability of eventual resolution rises but short-term risk spikes. Direct attacks on US forces (Prince Sultan, March 27) cross a threshold that could provoke disproportionate response. → *If both paths exist, size for the worse outcome. A hedge that works in both scenarios (energy in an oil crisis) is worth more than a directional bet.*
 - Nuclear/industrial facility strikes are a qualitative escalation. Expect retaliation risk to double after strategic targets are hit. → *When strikes hit strategic targets, tighten stops and reduce position sizes preemptively.*
 - A shift from rate-cut to rate-hike expectations is a regime change. It compresses growth multiples regardless of company fundamentals. → *When rate hike probability crosses 50%, treat growth/tech as situational (not structural) and apply 2-strikes rule. Only energy and value are structural in a hiking regime.*
@@ -43,6 +43,7 @@
 - When multiple binary events stack across a market closure (jobs report Good Friday + Iran deadline Monday), the gap risk compounds multiplicatively, not additively. You can't hedge what you can't trade. → *When 2+ binary events span a market closure, finalize ALL position sizing the trading day before. Accept smaller positions over larger gap risk.*
 - Regional war contagion has two phases: (1) military — strikes on neutral states (UAE, Oman, Kuwait), and (2) economic — when non-combatant governments impose domestic restrictions (Egypt 9pm curfew for doubled energy bills, Ethiopia fuel queues, Kenya $24M tea stranded). Phase 2 means the war's cost is systemic, not contained to combatants. → *When phase 2 contagion appears (economic restrictions in non-combatant states), treat the risk premium as structural and permanent for the conflict's duration. Don't assume de-escalation at a single chokepoint resolves the broader disruption — the damage is already embedded in supply chains.*
 - When all three major indices (Dow, S&P, Nasdaq) break below their 200-day MA simultaneously, the 6-12 month return is historically bullish (73-86% win rate). But the short-term signal is further downside before recovery. → *Don't buy the first 200-day breakdown. Wait for VIX spike (35+) or a clear reversal pattern. Use the breakdown as a signal to prepare a buy list, not to execute.*
+- When a state actor's proxy network activates (Houthis entering Iran war), it multiplies chokepoint risk and signals the conflict has passed the point of quick resolution. Proxy wars are harder to negotiate because the principals can't fully control their proxies. → *When a proxy enters an existing conflict: (1) treat the conflict duration as extended, (2) count each proxy's chokepoint as additive risk, (3) increase energy allocation. Two simultaneous chokepoints (Hormuz + Bab al-Mandab) has no modern precedent.*
 
 ---
 
@@ -50,7 +51,7 @@
 
 - AI infrastructure is a multi-year structural theme — but in a rate-hike regime, even structural themes face multiple compression. Hold quality names but don't add until stress normalizes.
 - Written position limits prevent emotional overconcentration. The 25% single-stock cap works.
-- Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint risk (Hormuz + Bab al-Mandab) makes energy the highest-conviction short-term hedge.
+- Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint risk (Hormuz + Bab al-Mandab) confirmed real after Houthi entry — energy is the highest-conviction short-term hedge.
 - High cash reserve (50%+) during corrections limits drawdowns AND provides optionality. Week 1: -2.94% vs Nasdaq -11%+ entirely due to cash allocation.
 - Setting decisions during research hours and executing via pending orders at open reduces emotional trading.
 - In a broadening correction, relative performance matters more than absolute returns. Being down -2.94% when indices are down -10% means the strategy is working — don't panic-sell into strength.
