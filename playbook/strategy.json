@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T11:56:00Z",
-  "version": 39,
+  "last_updated": "2026-03-28T12:30:00Z",
+  "version": 40,
   "principles": [
     {
       "id": 1,
@@ -140,8 +140,15 @@
     },
     {
       "id": 17,
-      "lesson": "When a regional war spills to uninvolved neutral states (Oman, Kuwait), geographic containment is lost. Shipping insurance, airline routing, and trade disruption shift from chokepoint-specific to region-wide. The risk premium becomes structural, not event-driven.",
-      "action": "When neutral states report kinetic attacks, treat the risk premium as permanent for the conflict's duration. Don't assume de-escalation at a single chokepoint resolves the broader disruption.",
+      "lesson": "When a regional war spills to uninvolved neutral states (Oman, Kuwait, UAE), geographic containment is lost. Iran hit UAE with 20 ballistic missiles — this is deliberate, not stray fire. Shipping insurance, airline routing, and trade disruption shift from chokepoint-specific to region-wide.",
+      "action": "When neutral states report kinetic attacks, treat the risk premium as permanent for the conflict's duration. Three neutral states hit = regional war, not bilateral conflict. Don't assume de-escalation at a single chokepoint resolves the broader disruption.",
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
+    },
+    {
+      "id": 18,
+      "lesson": "When all three major indices (Dow, S&P, Nasdaq) break below their 200-day MA simultaneously, the 6-12 month return is historically bullish (73-86% win rate). But the short-term signal is further downside before recovery.",
+      "action": "Don't buy the first 200-day breakdown. Wait for VIX spike (35+) or a clear reversal pattern. Use the breakdown as a signal to prepare a buy list, not to execute.",
       "added": "2026-03-28"
     }
   ],

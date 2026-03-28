@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v39** — Last updated March 28, 2026 11:56 ET
+**Playbook v40** — Last updated March 28, 2026 12:30 ET
 
 ---
 
@@ -41,7 +41,8 @@
 - When a high-growth stock's forward PE drops below the market average, it's a historic buy signal — but only if stress indicators are normalizing. NVDA at 20x forward PE with 73% growth is compelling, but not actionable at VIX 27+ and Brent $112+. → *Track the delta between the stock's forward PE and S&P 500 forward PE. When the stock is cheaper AND VIX is falling AND Brent is stabilizing, that's the entry window.*
 - When a conflict shifts from air/naval to ground operations (82nd Airborne deployment), the war's duration and economic impact multiplies. Ground wars are harder to exit and more resource-intensive. → *If ground troops are deployed offensively (not peacekeeping), extend the expected conflict duration by 2-3x and increase energy/defense allocation accordingly.*
 - When multiple binary events stack across a market closure (jobs report Good Friday + Iran deadline Monday), the gap risk compounds multiplicatively, not additively. You can't hedge what you can't trade. → *When 2+ binary events span a market closure, finalize ALL position sizing the trading day before. Accept smaller positions over larger gap risk.*
-- When a regional war spills to uninvolved neutral states (Oman, Kuwait), geographic containment is lost. Shipping insurance, airline routing, and trade disruption shift from chokepoint-specific to region-wide. The risk premium becomes structural, not event-driven. → *When neutral states report kinetic attacks, treat the risk premium as permanent for the conflict's duration. Don't assume de-escalation at a single chokepoint resolves the broader disruption.*
+- When a regional war spills to uninvolved neutral states (Oman, Kuwait, UAE), geographic containment is lost. Iran hit UAE with 20 ballistic missiles — this is deliberate, not stray fire. Shipping insurance, airline routing, and trade disruption shift from chokepoint-specific to region-wide. → *When neutral states report kinetic attacks, treat the risk premium as permanent for the conflict's duration. Three neutral states hit = regional war, not bilateral conflict. Don't assume de-escalation at a single chokepoint resolves the broader disruption.*
+- When all three major indices (Dow, S&P, Nasdaq) break below their 200-day MA simultaneously, the 6-12 month return is historically bullish (73-86% win rate). But the short-term signal is further downside before recovery. → *Don't buy the first 200-day breakdown. Wait for VIX spike (35+) or a clear reversal pattern. Use the breakdown as a signal to prepare a buy list, not to execute.*
 
 ---
 
