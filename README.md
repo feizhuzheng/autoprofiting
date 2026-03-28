@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v34** — Last updated March 28, 2026 07:55 ET
+**Playbook v35** — Last updated March 28, 2026 08:30 ET
 
 ---
 
@@ -30,14 +30,15 @@
 - Oil price is a leading indicator for sector rotation. When oil spikes, money flows from tech/growth to energy/defensive. → *Monitor oil daily. Above $110 Brent = stay in energy, reduce tech. Below $95 = exit energy, rotate to tech.*
 - Always check the earnings calendar before buying. Verify on the company's IR page, not news snippets. → *Before any BUY: check if stock reports earnings within 3 days. If yes, wait or reduce size by 50%.*
 - Stocks closing near the day's low on a Friday signal institutional risk reduction — expect Monday weakness. → *Don't buy above 5% of target entry. Friday close near day-low is the most bearish short-term signal.*
-- Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 27 close: Michigan 53.3, CB Expectations 65.2, rate hike 52% — 3 triggered, 2 more approaching. → *Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Michigan <55 + rising inflation = stagflation. CB Expectations <65 = recession imminent. Rate hike >50% = toxic for growth multiples.*
+- Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 27 close: Michigan 53.3, CB Expectations 65.2, rate hike 52% — 3 triggered. VIX 27.44 and Brent $112.57 — 2 approaching. Maximum defensive posture. → *Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Michigan <55 + rising inflation = stagflation. CB Expectations <65 = recession imminent. Rate hike >50% = toxic for growth multiples.*
 - When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Confirmed: Dow joined Nasdaq in correction on March 27. → *If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Stay in cash and genuine non-equity hedges.*
 - Check the holiday calendar before any binary event. April 3 jobs report on Good Friday (market closed) + April 6 Iran deadline = compressed gap risk with no exit for 72+ hours. → *If a market holiday falls between now and a major event, decide position sizing BEFORE the last open trading day.*
 - When a geopolitical crisis has both diplomatic AND military paths, the probability of eventual resolution rises but short-term risk spikes. Direct attacks on US forces (Prince Sultan, March 27) cross a threshold that could provoke disproportionate response. → *If both paths exist, size for the worse outcome. A hedge that works in both scenarios (energy in an oil crisis) is worth more than a directional bet.*
 - Nuclear/industrial facility strikes are a qualitative escalation. Expect retaliation risk to double after strategic targets are hit. → *When strikes hit strategic targets, tighten stops and reduce position sizes preemptively.*
 - A shift from rate-cut to rate-hike expectations is a regime change. It compresses growth multiples regardless of company fundamentals. → *When rate hike probability crosses 50%, treat growth/tech as situational (not structural) and apply 2-strikes rule. Only energy and value are structural in a hiking regime.*
-- Proxy allies entering a war is a step-function escalation. When the conflict widens from bilateral to multi-front, the risk surface area multiplies — new chokepoints, new theaters, stretched military resources. → *When a new belligerent enters a conflict, immediately reassess all positions for second-order exposure (e.g., dual chokepoint risk on oil, stretched defense budgets, expanded sanctions).*
+- Proxy allies entering a war is a step-function escalation. Confirmed: Houthis entered Iran war March 28, activating dual chokepoint risk (Hormuz + Bab al-Mandab = ~24M bbl/day). When conflict widens from bilateral to multi-front, risk surface area multiplies. → *When a new belligerent enters a conflict, immediately reassess all positions for second-order exposure (e.g., dual chokepoint risk on oil, stretched defense budgets, expanded sanctions).*
 - When both sides make maximalist demands publicly, neither can back down without losing face. This 'credibility trap' makes escalation the path of least political resistance. → *After a public rejection of peace terms, treat the next deadline as a cliff, not a ramp. Exit situational positions immediately — don't wait for the deadline.*
+- When a high-growth stock's forward PE drops below the market average, it's a historic buy signal — but only if stress indicators are normalizing. NVDA at 20x forward PE with 73% growth is compelling, but not actionable at VIX 27+ and Brent $112+. → *Track the delta between the stock's forward PE and S&P 500 forward PE. When the stock is cheaper AND VIX is falling AND Brent is stabilizing, that's the entry window.*
 
 ---
 
@@ -45,7 +46,7 @@
 
 - AI infrastructure is a multi-year structural theme — but in a rate-hike regime, even structural themes face multiple compression. Hold quality names but don't add until stress normalizes.
 - Written position limits prevent emotional overconcentration. The 25% single-stock cap works.
-- Energy hedge offsets tech losses during geopolitical selloffs. XOM covered 25% of total tech losses in Week 1. Genuinely uncorrelated positions are the most valuable diversification.
+- Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint risk (Hormuz + Bab al-Mandab) makes energy the highest-conviction short-term hedge.
 - High cash reserve (50%+) during corrections limits drawdowns AND provides optionality. Week 1: -2.94% vs Nasdaq -11%+ entirely due to cash allocation.
 - Setting decisions during research hours and executing via pending orders at open reduces emotional trading.
 - In a broadening correction, relative performance matters more than absolute returns. Being down -2.94% when indices are down -10% means the strategy is working — don't panic-sell into strength.

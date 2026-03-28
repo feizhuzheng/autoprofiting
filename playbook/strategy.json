@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-28T07:55:00Z",
-  "version": 34,
+  "last_updated": "2026-03-28T08:30:00Z",
+  "version": 35,
   "principles": [
     {
       "id": 1,
-      "rule": "Cash is a position. Holding 50%+ cash in a correction isn't cowardice — it's ammunition for the recovery. Week 1: -2.94% vs Nasdaq -11%+.",
+      "rule": "Cash is a position. Holding 50%+ cash in a correction isn't cowardice \u2014 it's ammunition for the recovery. Week 1: -2.94% vs Nasdaq -11%+.",
       "added": "2026-03-25",
       "updated": "2026-03-28"
     },
@@ -63,14 +63,14 @@
     },
     {
       "id": 5,
-      "lesson": "Stocks closing near the day's low on a Friday signal institutional risk reduction — expect Monday weakness.",
+      "lesson": "Stocks closing near the day's low on a Friday signal institutional risk reduction \u2014 expect Monday weakness.",
       "action": "Don't buy above 5% of target entry. Friday close near day-low is the most bearish short-term signal.",
       "added": "2026-03-25",
       "updated": "2026-03-28"
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 27 close: Michigan 53.3, CB Expectations 65.2, rate hike 52% — 3 triggered, 2 more approaching.",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 27 close: Michigan 53.3, CB Expectations 65.2, rate hike 52% \u2014 3 triggered. VIX 27.44 and Brent $112.57 \u2014 2 approaching. Maximum defensive posture.",
       "action": "Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Michigan <55 + rising inflation = stagflation. CB Expectations <65 = recession imminent. Rate hike >50% = toxic for growth multiples.",
       "added": "2026-03-27",
       "updated": "2026-03-28"
@@ -109,21 +109,28 @@
     },
     {
       "id": 12,
-      "lesson": "Proxy allies entering a war is a step-function escalation. When the conflict widens from bilateral to multi-front, the risk surface area multiplies — new chokepoints, new theaters, stretched military resources.",
+      "lesson": "Proxy allies entering a war is a step-function escalation. Confirmed: Houthis entered Iran war March 28, activating dual chokepoint risk (Hormuz + Bab al-Mandab = ~24M bbl/day). When conflict widens from bilateral to multi-front, risk surface area multiplies.",
       "action": "When a new belligerent enters a conflict, immediately reassess all positions for second-order exposure (e.g., dual chokepoint risk on oil, stretched defense budgets, expanded sanctions).",
-      "added": "2026-03-28"
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
     },
     {
       "id": 13,
       "lesson": "When both sides make maximalist demands publicly, neither can back down without losing face. This 'credibility trap' makes escalation the path of least political resistance.",
-      "action": "After a public rejection of peace terms, treat the next deadline as a cliff, not a ramp. Exit situational positions immediately — don't wait for the deadline.",
+      "action": "After a public rejection of peace terms, treat the next deadline as a cliff, not a ramp. Exit situational positions immediately \u2014 don't wait for the deadline.",
+      "added": "2026-03-28"
+    },
+    {
+      "id": 14,
+      "lesson": "When a high-growth stock's forward PE drops below the market average, it's a historic buy signal \u2014 but only if stress indicators are normalizing. NVDA at 20x forward PE with 73% growth is compelling, but not actionable at VIX 27+ and Brent $112+.",
+      "action": "Track the delta between the stock's forward PE and S&P 500 forward PE. When the stock is cheaper AND VIX is falling AND Brent is stabilizing, that's the entry window.",
       "added": "2026-03-28"
     }
   ],
   "what_works": [
     {
       "id": 1,
-      "pattern": "AI infrastructure is a multi-year structural theme — but in a rate-hike regime, even structural themes face multiple compression. Hold quality names but don't add until stress normalizes.",
+      "pattern": "AI infrastructure is a multi-year structural theme \u2014 but in a rate-hike regime, even structural themes face multiple compression. Hold quality names but don't add until stress normalizes.",
       "added": "2026-03-25",
       "updated": "2026-03-28"
     },
@@ -134,7 +141,7 @@
     },
     {
       "id": 3,
-      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs. XOM covered 25% of total tech losses in Week 1. Genuinely uncorrelated positions are the most valuable diversification.",
+      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint risk (Hormuz + Bab al-Mandab) makes energy the highest-conviction short-term hedge.",
       "added": "2026-03-27",
       "updated": "2026-03-28"
     },
@@ -151,12 +158,12 @@
     },
     {
       "id": 6,
-      "pattern": "In a broadening correction, relative performance matters more than absolute returns. Being down -2.94% when indices are down -10% means the strategy is working — don't panic-sell into strength.",
+      "pattern": "In a broadening correction, relative performance matters more than absolute returns. Being down -2.94% when indices are down -10% means the strategy is working \u2014 don't panic-sell into strength.",
       "added": "2026-03-28"
     },
     {
       "id": 7,
-      "pattern": "Morningstar P/FV below 0.90 and sector discounts >20% are contrarian buy signals — but only actionable when stress indicators normalize. Valuation tells you WHAT to buy; macro tells you WHEN.",
+      "pattern": "Morningstar P/FV below 0.90 and sector discounts >20% are contrarian buy signals \u2014 but only actionable when stress indicators normalize. Valuation tells you WHAT to buy; macro tells you WHEN.",
       "added": "2026-03-28"
     }
   ]
