@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-28T13:39:00Z",
-  "version": 42,
+  "version": 43,
   "principles": [
     {
       "id": 1,
@@ -109,8 +109,8 @@
     },
     {
       "id": 12,
-      "lesson": "A selective blockade is more powerful than a total one. Iran allows 5 nations' ships through Hormuz with naval escort while blocking adversaries. This gives Iran diplomatic leverage AND makes military 'freedom of navigation' harder to justify. Some oil flows (~10-15% of normal), but disruption is still catastrophic.",
-      "action": "Distinguish selective vs total blockades. Selective = ~85-90% disruption with a diplomatic off-ramp. Oil ceiling is lower ($115-120 vs $147+). Watch which nations gain/lose Hormuz access as a leading indicator of diplomatic progress or breakdown.",
+      "lesson": "A selective blockade that gets legislated becomes structural. Iran's Hormuz toll system (yuan-denominated, $2M/transit, parliament legislating) is harder to reverse than a military blockade. Once codified, even a ceasefire may not reopen normal traffic.",
+      "action": "When a blockade shifts from military ad hoc to legal/institutional, treat the supply disruption as permanent for modeling purposes. Oil ceiling stays elevated longer than the conflict itself.",
       "added": "2026-03-28",
       "updated": "2026-03-28"
     },
