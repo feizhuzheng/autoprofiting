@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T00:57:00Z",
-  "version": 26,
+  "last_updated": "2026-03-28T02:08:00Z",
+  "version": 27,
   "principles": [
     {
       "id": 1,
@@ -70,8 +70,8 @@
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115, Michigan Consumer Sentiment below 55. When 2+ cluster at stress levels, go fully defensive. Approaching thresholds (within 10%) warrant caution even if not triggered.",
-      "action": "Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. If all approaching within 10%, reduce position sizes. Consumer sentiment below 55 with rising inflation expectations = stagflation signal.",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115, Michigan Consumer Sentiment below 55, Conference Board Expectations below 80. When 2+ cluster at stress levels, go fully defensive. Approaching thresholds (within 10%) warrant caution even if not triggered.",
+      "action": "Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. If all approaching within 10%, reduce position sizes. Consumer sentiment below 55 with rising inflation expectations = stagflation signal. Conference Board Expectations below 65 = recession imminent.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
@@ -86,6 +86,12 @@
       "id": 8,
       "lesson": "Check the holiday calendar before any binary event. Market closures compress gap risk — a 3-day weekend before a deadline means you're locked in with no exit for 72+ hours.",
       "action": "Before any major event (deadline, earnings, data release), check if a market holiday falls between now and the event. If yes, decide position sizing BEFORE the last open trading day, not the event day.",
+      "added": "2026-03-28"
+    },
+    {
+      "id": 9,
+      "lesson": "When a geopolitical crisis has both diplomatic AND military resolution paths, the probability of eventual resolution rises but the path through military confrontation spikes short-term risk. Don't assume the peaceful path is the likely one.",
+      "action": "If both paths exist, size positions for the worse outcome. A hedge that works in both scenarios (like energy in an oil crisis) is worth more than a directional bet on peace or war.",
       "added": "2026-03-28"
     }
   ],
