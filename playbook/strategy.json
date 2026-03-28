@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T15:55:00Z",
-  "version": 44,
+  "last_updated": "2026-03-28T16:29:00Z",
+  "version": 45,
   "principles": [
     {
       "id": 1,
@@ -140,8 +140,8 @@
     },
     {
       "id": 17,
-      "lesson": "When a regional war spills to uninvolved neutral states (Oman, Kuwait, UAE), geographic containment is lost. Iran hit UAE with 20 ballistic missiles — this is deliberate, not stray fire. Shipping insurance, airline routing, and trade disruption shift from chokepoint-specific to region-wide.",
-      "action": "When neutral states report kinetic attacks, treat the risk premium as permanent for the conflict's duration. Three neutral states hit = regional war, not bilateral conflict. Don't assume de-escalation at a single chokepoint resolves the broader disruption.",
+      "lesson": "Regional war contagion has two phases: (1) military — strikes on neutral states (UAE, Oman, Kuwait), and (2) economic — when non-combatant governments impose domestic restrictions (Egypt 9pm curfew for doubled energy bills, Ethiopia fuel queues, Kenya $24M tea stranded). Phase 2 means the war's cost is systemic, not contained to combatants.",
+      "action": "When phase 2 contagion appears (economic restrictions in non-combatant states), treat the risk premium as structural and permanent for the conflict's duration. Don't assume de-escalation at a single chokepoint resolves the broader disruption — the damage is already embedded in supply chains.",
       "added": "2026-03-28",
       "updated": "2026-03-28"
     },
