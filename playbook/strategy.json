@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T05:01:00Z",
-  "version": 30,
+  "last_updated": "2026-03-28T05:38:00Z",
+  "version": 31,
   "principles": [
     {
       "id": 1,
@@ -97,14 +97,20 @@
     },
     {
       "id": 10,
-      "lesson": "Nuclear/industrial facility strikes are a qualitative escalation. Israel struck heavy-water and yellowcake plants on March 27 — expect retaliation risk to double.",
+      "lesson": "Nuclear/industrial facility strikes are a qualitative escalation. Expect retaliation risk to double after strategic targets are hit.",
       "action": "When strikes hit strategic targets, tighten stops and reduce position sizes preemptively.",
       "added": "2026-03-28"
     },
     {
       "id": 11,
-      "lesson": "A shift from rate-cut to rate-hike expectations is a regime change. It compresses growth multiples regardless of company fundamentals. Rate hike probability crossed 52% on March 27.",
+      "lesson": "A shift from rate-cut to rate-hike expectations is a regime change. It compresses growth multiples regardless of company fundamentals.",
       "action": "When rate hike probability crosses 50%, treat growth/tech as situational (not structural) and apply 2-strikes rule. Only energy and value are structural in a hiking regime.",
+      "added": "2026-03-28"
+    },
+    {
+      "id": 12,
+      "lesson": "Proxy allies entering a war is a step-function escalation. When the conflict widens from bilateral to multi-front, the risk surface area multiplies — new chokepoints, new theaters, stretched military resources.",
+      "action": "When a new belligerent enters a conflict, immediately reassess all positions for second-order exposure (e.g., dual chokepoint risk on oil, stretched defense budgets, expanded sanctions).",
       "added": "2026-03-28"
     }
   ],

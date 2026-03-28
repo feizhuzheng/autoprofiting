@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v30** — Last updated March 28, 2026 05:01 ET
+**Playbook v31** — Last updated March 28, 2026 05:38 ET
 
 ---
 
@@ -34,8 +34,9 @@
 - When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Confirmed: Dow joined Nasdaq in correction on March 27. → *If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Stay in cash and genuine non-equity hedges.*
 - Check the holiday calendar before any binary event. April 3 jobs report on Good Friday (market closed) + April 6 Iran deadline = compressed gap risk with no exit for 72+ hours. → *If a market holiday falls between now and a major event, decide position sizing BEFORE the last open trading day.*
 - When a geopolitical crisis has both diplomatic AND military paths, the probability of eventual resolution rises but short-term risk spikes. Direct attacks on US forces (Prince Sultan, March 27) cross a threshold that could provoke disproportionate response. → *If both paths exist, size for the worse outcome. A hedge that works in both scenarios (energy in an oil crisis) is worth more than a directional bet.*
-- Nuclear/industrial facility strikes are a qualitative escalation. Israel struck heavy-water and yellowcake plants on March 27 — expect retaliation risk to double. → *When strikes hit strategic targets, tighten stops and reduce position sizes preemptively.*
-- A shift from rate-cut to rate-hike expectations is a regime change. It compresses growth multiples regardless of company fundamentals. Rate hike probability crossed 52% on March 27. → *When rate hike probability crosses 50%, treat growth/tech as situational (not structural) and apply 2-strikes rule. Only energy and value are structural in a hiking regime.*
+- Nuclear/industrial facility strikes are a qualitative escalation. Expect retaliation risk to double after strategic targets are hit. → *When strikes hit strategic targets, tighten stops and reduce position sizes preemptively.*
+- A shift from rate-cut to rate-hike expectations is a regime change. It compresses growth multiples regardless of company fundamentals. → *When rate hike probability crosses 50%, treat growth/tech as situational (not structural) and apply 2-strikes rule. Only energy and value are structural in a hiking regime.*
+- Proxy allies entering a war is a step-function escalation. When the conflict widens from bilateral to multi-front, the risk surface area multiplies — new chokepoints, new theaters, stretched military resources. → *When a new belligerent enters a conflict, immediately reassess all positions for second-order exposure (e.g., dual chokepoint risk on oil, stretched defense budgets, expanded sanctions).*
 
 ---
 
