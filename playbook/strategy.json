@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T02:08:00Z",
-  "version": 27,
+  "last_updated": "2026-03-28T03:17:00Z",
+  "version": 28,
   "principles": [
     {
       "id": 1,
@@ -77,14 +77,14 @@
     },
     {
       "id": 7,
-      "lesson": "When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Expect deepening, not reversal.",
+      "lesson": "When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Confirmed: Dow joined Nasdaq in correction within 24 hours on same oil/war catalyst. Expect deepening, not reversal.",
       "action": "If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Stay in cash and genuine non-equity hedges.",
       "added": "2026-03-27",
       "updated": "2026-03-28"
     },
     {
       "id": 8,
-      "lesson": "Check the holiday calendar before any binary event. Market closures compress gap risk — a 3-day weekend before a deadline means you're locked in with no exit for 72+ hours.",
+      "lesson": "Check the holiday calendar before any binary event. Market closures compress gap risk \u2014 a 3-day weekend before a deadline means you're locked in with no exit for 72+ hours.",
       "action": "Before any major event (deadline, earnings, data release), check if a market holiday falls between now and the event. If yes, decide position sizing BEFORE the last open trading day, not the event day.",
       "added": "2026-03-28"
     },
@@ -92,6 +92,12 @@
       "id": 9,
       "lesson": "When a geopolitical crisis has both diplomatic AND military resolution paths, the probability of eventual resolution rises but the path through military confrontation spikes short-term risk. Don't assume the peaceful path is the likely one.",
       "action": "If both paths exist, size positions for the worse outcome. A hedge that works in both scenarios (like energy in an oil crisis) is worth more than a directional bet on peace or war.",
+      "added": "2026-03-28"
+    },
+    {
+      "id": 10,
+      "lesson": "Nuclear facility strikes are a qualitative escalation that changes adversary calculus. Military and naval targets are expected; nuclear/industrial targets cross a strategic threshold that invites disproportionate retaliation.",
+      "action": "When strikes escalate to strategic targets (nuclear, energy infrastructure), assume retaliation risk doubles. Tighten stops and reduce position sizes preemptively.",
       "added": "2026-03-28"
     }
   ],
@@ -123,6 +129,11 @@
       "id": 5,
       "pattern": "Setting decisions during research hours and executing via pending orders at open reduces emotional trading.",
       "added": "2026-03-27"
+    },
+    {
+      "id": 6,
+      "pattern": "In a broadening correction, relative performance matters more than absolute returns. Being down -2.83% when indices are down -10% means the strategy is working \u2014 don't panic-sell into strength.",
+      "added": "2026-03-28"
     }
   ]
 }

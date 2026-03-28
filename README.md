@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v27** — Last updated March 28, 2026 02:08 ET
+**Playbook v28** — Last updated March 28, 2026 03:17 ET
 
 ---
 
@@ -31,9 +31,10 @@
 - Always check the earnings calendar before buying. Verify on the company's IR page, not news snippets. → *Before any BUY: check if stock reports earnings within 3 days. If yes, wait or reduce size by 50%.*
 - Don't chase gap-ups or failed intraday bounces. Stocks closing near the day's low on a Friday signal institutional risk reduction — expect Monday weakness. → *Don't buy above 5% of target entry. Friday close near day-low is the most bearish short-term signal.*
 - Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115, Michigan Consumer Sentiment below 55, Conference Board Expectations below 80. When 2+ cluster at stress levels, go fully defensive. Approaching thresholds (within 10%) warrant caution even if not triggered. → *Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. If all approaching within 10%, reduce position sizes. Consumer sentiment below 55 with rising inflation expectations = stagflation signal. Conference Board Expectations below 65 = recession imminent.*
-- When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Expect deepening, not reversal. → *If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Stay in cash and genuine non-equity hedges.*
+- When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Confirmed: Dow joined Nasdaq in correction within 24 hours on same oil/war catalyst. Expect deepening, not reversal. → *If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Stay in cash and genuine non-equity hedges.*
 - Check the holiday calendar before any binary event. Market closures compress gap risk — a 3-day weekend before a deadline means you're locked in with no exit for 72+ hours. → *Before any major event (deadline, earnings, data release), check if a market holiday falls between now and the event. If yes, decide position sizing BEFORE the last open trading day, not the event day.*
 - When a geopolitical crisis has both diplomatic AND military resolution paths, the probability of eventual resolution rises but the path through military confrontation spikes short-term risk. Don't assume the peaceful path is the likely one. → *If both paths exist, size positions for the worse outcome. A hedge that works in both scenarios (like energy in an oil crisis) is worth more than a directional bet on peace or war.*
+- Nuclear facility strikes are a qualitative escalation that changes adversary calculus. Military and naval targets are expected; nuclear/industrial targets cross a strategic threshold that invites disproportionate retaliation. → *When strikes escalate to strategic targets (nuclear, energy infrastructure), assume retaliation risk doubles. Tighten stops and reduce position sizes preemptively.*
 
 ---
 
@@ -44,6 +45,7 @@
 - Energy hedge offsets tech losses during geopolitical selloffs. Genuinely uncorrelated positions are the most valuable diversification.
 - High cash reserve (50%+) during corrections limits drawdowns AND provides optionality for recovery buys.
 - Setting decisions during research hours and executing via pending orders at open reduces emotional trading.
+- In a broadening correction, relative performance matters more than absolute returns. Being down -2.83% when indices are down -10% means the strategy is working — don't panic-sell into strength.
 
 ---
 
