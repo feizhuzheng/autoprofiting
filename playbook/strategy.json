@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T09:05:00Z",
-  "version": 36,
+  "last_updated": "2026-03-28T10:12:00Z",
+  "version": 37,
   "principles": [
     {
       "id": 1,
@@ -176,6 +176,11 @@
     {
       "id": 7,
       "pattern": "Morningstar P/FV below 0.90 and sector discounts >20% are contrarian buy signals \u2014 but only actionable when stress indicators normalize. Valuation tells you WHAT to buy; macro tells you WHEN.",
+      "added": "2026-03-28"
+    },
+    {
+      "id": 8,
+      "pattern": "When sell-side consensus turns bearish but VIX stays below 30, you're in the 'grinding lower' phase, not capitulation. Capitulation (VIX 35+, panic selling) is where you want to start buying. Don't front-run it.",
       "added": "2026-03-28"
     }
   ]

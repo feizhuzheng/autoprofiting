@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v36** — Last updated March 28, 2026 09:05 ET
+**Playbook v37** — Last updated March 28, 2026 10:12 ET
 
 ---
 
@@ -53,6 +53,7 @@
 - Setting decisions during research hours and executing via pending orders at open reduces emotional trading.
 - In a broadening correction, relative performance matters more than absolute returns. Being down -2.94% when indices are down -10% means the strategy is working — don't panic-sell into strength.
 - Morningstar P/FV below 0.90 and sector discounts >20% are contrarian buy signals — but only actionable when stress indicators normalize. Valuation tells you WHAT to buy; macro tells you WHEN.
+- When sell-side consensus turns bearish but VIX stays below 30, you're in the 'grinding lower' phase, not capitulation. Capitulation (VIX 35+, panic selling) is where you want to start buying. Don't front-run it.
 
 ---
 
