@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T13:04:00Z",
-  "version": 41,
+  "last_updated": "2026-03-28T13:39:00Z",
+  "version": 42,
   "principles": [
     {
       "id": 1,
@@ -109,8 +109,8 @@
     },
     {
       "id": 12,
-      "lesson": "Proxy allies entering a war is a step-function escalation. Corporate actions (shipping pauses, route cancellations) confirm risk faster than government statements. When even allied nations'  ships turn back despite safe-passage guarantees, a blockade is total, not selective.",
-      "action": "When major shipping/commodity companies change behavior (pausing routes, invoking force majeure), treat that as confirmation of the risk. When allied-nation ships can't transit, the economic impact is total \u2014 price accordingly.",
+      "lesson": "A selective blockade is more powerful than a total one. Iran allows 5 nations' ships through Hormuz with naval escort while blocking adversaries. This gives Iran diplomatic leverage AND makes military 'freedom of navigation' harder to justify. Some oil flows (~10-15% of normal), but disruption is still catastrophic.",
+      "action": "Distinguish selective vs total blockades. Selective = ~85-90% disruption with a diplomatic off-ramp. Oil ceiling is lower ($115-120 vs $147+). Watch which nations gain/lose Hormuz access as a leading indicator of diplomatic progress or breakdown.",
       "added": "2026-03-28",
       "updated": "2026-03-28"
     },
