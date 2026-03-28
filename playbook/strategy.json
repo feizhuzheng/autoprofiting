@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T07:22:00Z",
-  "version": 33,
+  "last_updated": "2026-03-28T07:55:00Z",
+  "version": 34,
   "principles": [
     {
       "id": 1,
@@ -152,6 +152,11 @@
     {
       "id": 6,
       "pattern": "In a broadening correction, relative performance matters more than absolute returns. Being down -2.94% when indices are down -10% means the strategy is working — don't panic-sell into strength.",
+      "added": "2026-03-28"
+    },
+    {
+      "id": 7,
+      "pattern": "Morningstar P/FV below 0.90 and sector discounts >20% are contrarian buy signals — but only actionable when stress indicators normalize. Valuation tells you WHAT to buy; macro tells you WHEN.",
       "added": "2026-03-28"
     }
   ]
