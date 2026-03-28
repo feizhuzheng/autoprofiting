@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T10:12:00Z",
-  "version": 37,
+  "last_updated": "2026-03-28T11:21:00Z",
+  "version": 38,
   "principles": [
     {
       "id": 1,
@@ -109,7 +109,7 @@
     },
     {
       "id": 12,
-      "lesson": "Proxy allies entering a war is a step-function escalation. Houthis entered Iran war March 28 \u2014 dual chokepoint risk is now FUNCTIONALLY ACTIVE: Maersk, Hapag-Lloyd, CMA CGM paused Trans-Suez sailings before any formal blockade. Corporate actions confirm risk faster than government statements.",
+      "lesson": "Proxy allies entering a war is a step-function escalation. Corporate actions (shipping pauses, route cancellations) confirm risk faster than government statements. When drone attacks hit neutral states' infrastructure, the conflict has lost geographic containment entirely.",
       "action": "When major shipping/commodity companies change behavior (pausing routes, invoking force majeure), treat that as confirmation of the risk \u2014 don't wait for the formal government/military action.",
       "added": "2026-03-28",
       "updated": "2026-03-28"
@@ -136,6 +136,12 @@
       "id": 16,
       "lesson": "When multiple binary events stack across a market closure (jobs report Good Friday + Iran deadline Monday), the gap risk compounds multiplicatively, not additively. You can't hedge what you can't trade.",
       "action": "When 2+ binary events span a market closure, finalize ALL position sizing the trading day before. Accept smaller positions over larger gap risk.",
+      "added": "2026-03-28"
+    },
+    {
+      "id": 17,
+      "lesson": "When a regional war spills to uninvolved neutral states (Oman, Kuwait), geographic containment is lost. Shipping insurance, airline routing, and trade disruption shift from chokepoint-specific to region-wide. The risk premium becomes structural, not event-driven.",
+      "action": "When neutral states report kinetic attacks, treat the risk premium as permanent for the conflict's duration. Don't assume de-escalation at a single chokepoint resolves the broader disruption.",
       "added": "2026-03-28"
     }
   ],
