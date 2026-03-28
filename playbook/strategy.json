@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T13:39:00Z",
-  "version": 43,
+  "last_updated": "2026-03-28T15:55:00Z",
+  "version": 44,
   "principles": [
     {
       "id": 1,
@@ -188,8 +188,9 @@
     },
     {
       "id": 7,
-      "pattern": "Morningstar P/FV below 0.90 and sector discounts >20% are contrarian buy signals \u2014 but only actionable when stress indicators normalize. Valuation tells you WHAT to buy; macro tells you WHEN.",
-      "added": "2026-03-28"
+      "pattern": "Morningstar P/FV below 0.90 and sector discounts >20% are contrarian buy signals \u2014 but only actionable when stress indicators normalize. Tech at 23% discount has only occurred at 2022 bottom and 2011 crisis. Valuation tells you WHAT to buy; macro tells you WHEN.",
+      "added": "2026-03-28",
+      "updated": "2026-03-28"
     },
     {
       "id": 8,
