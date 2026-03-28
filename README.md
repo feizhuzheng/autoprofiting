@@ -9,44 +9,44 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v29** — Last updated March 28, 2026 04:26 ET
+**Playbook v30** — Last updated March 28, 2026 05:01 ET
 
 ---
 
 ## Core Principles
 
-- Cash is a position. Holding 50%+ cash in a correction isn't cowardice — it's ammunition for the recovery. Week 1: -2.95% vs Nasdaq -11%+.
+- Cash is a position. Holding 50%+ cash in a correction isn't cowardice — it's ammunition for the recovery. Week 1: -2.94% vs Nasdaq -11%+.
 - Size positions by thesis conviction, not by how much cash you have. Structural trades get full size; situational trades get half.
 - Separate structural trades from situational trades. Cut situational trades first in a correction. 2-strikes rule: if a situational trade is the worst performer for 2 consecutive sessions, sell immediately.
 - Never have more than 50% of invested capital in correlated names. Target 3+ uncorrelated sectors for genuine diversification.
-- Use ONE authoritative source per asset class (NASDAQ for stocks, ICE for Brent, CBOE for VIX). Intraday snapshots and cross-referencing multiple web sources create confusion. Only settlement/close values count for decisions.
+- Use ONE authoritative source per asset class (NASDAQ for stocks, ICE for Brent, CBOE for VIX). Only settlement/close values count for decisions.
 
 ---
 
 ## Lessons Learned
 
-- Trade on actions, not posturing. When news breaks, ask: 'Did something actually change?' Deadline extensions and pre-summit talk are noise. Actual blockades, tariffs, and troop movements are signal. → *Only react to verified actions with measurable economic impact. Iran blocking Chinese ships = action. Trump extending a deadline = posturing.*
+- Trade on actions, not posturing. Deadline extensions and pre-summit talk are noise. Actual blockades, tariffs, troop movements, and strikes on infrastructure are signal. → *Only react to verified actions with measurable economic impact. Direct attacks on US forces or nuclear facilities = escalation. Deadline extensions = noise.*
 - Patience is a trading strategy. On breaking news, adjust 30-50% of an affected position, not 100%. Better to miss the first 2% than enter without conviction. → *Plan for bull, bear, and sideways scenarios before any trade. If you don't have a plan for all three, you're not ready to trade.*
 - Oil price is a leading indicator for sector rotation. When oil spikes, money flows from tech/growth to energy/defensive. → *Monitor oil daily. Above $110 Brent = stay in energy, reduce tech. Below $95 = exit energy, rotate to tech.*
 - Always check the earnings calendar before buying. Verify on the company's IR page, not news snippets. → *Before any BUY: check if stock reports earnings within 3 days. If yes, wait or reduce size by 50%.*
-- Don't chase gap-ups or failed intraday bounces. Stocks closing near the day's low on a Friday signal institutional risk reduction — expect Monday weakness. → *Don't buy above 5% of target entry. Friday close near day-low is the most bearish short-term signal.*
-- Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115, Michigan Consumer Sentiment below 55, Conference Board Expectations below 80, CME FedWatch rate hike probability above 50%. When 2+ cluster at stress levels, go fully defensive. → *Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Rate hike probability >50% is especially toxic for growth/tech multiples — bias toward value/energy. Consumer sentiment below 55 with rising inflation expectations = stagflation signal. Conference Board Expectations below 65 = recession imminent.*
-- When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Confirmed: Dow joined Nasdaq in correction within 24 hours on same oil/war catalyst. Expect deepening, not reversal. → *If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Stay in cash and genuine non-equity hedges.*
-- Check the holiday calendar before any binary event. Market closures compress gap risk — a 3-day weekend before a deadline means you're locked in with no exit for 72+ hours. → *Before any major event (deadline, earnings, data release), check if a market holiday falls between now and the event. If yes, decide position sizing BEFORE the last open trading day, not the event day.*
-- When a geopolitical crisis has both diplomatic AND military resolution paths, the probability of eventual resolution rises but the path through military confrontation spikes short-term risk. Don't assume the peaceful path is the likely one. → *If both paths exist, size positions for the worse outcome. A hedge that works in both scenarios (like energy in an oil crisis) is worth more than a directional bet on peace or war.*
-- Nuclear facility strikes are a qualitative escalation that changes adversary calculus. Military and naval targets are expected; nuclear/industrial targets cross a strategic threshold that invites disproportionate retaliation. → *When strikes escalate to strategic targets (nuclear, energy infrastructure), assume retaliation risk doubles. Tighten stops and reduce position sizes preemptively.*
-- A shift from rate-cut to rate-hike expectations is a regime change, not a data point. It compresses growth multiples regardless of company fundamentals. A stock can report perfect earnings and still decline if the discount rate is rising. → *When rate hike probability crosses 50%, treat growth/tech positions as situational (not structural) and apply the 2-strikes rule. Only energy and value names are structural in a hiking regime.*
+- Stocks closing near the day's low on a Friday signal institutional risk reduction — expect Monday weakness. → *Don't buy above 5% of target entry. Friday close near day-low is the most bearish short-term signal.*
+- Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 27 close: Michigan 53.3, CB Expectations 65.2, rate hike 52% — 3 triggered, 2 more approaching. → *Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Michigan <55 + rising inflation = stagflation. CB Expectations <65 = recession imminent. Rate hike >50% = toxic for growth multiples.*
+- When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Confirmed: Dow joined Nasdaq in correction on March 27. → *If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Stay in cash and genuine non-equity hedges.*
+- Check the holiday calendar before any binary event. April 3 jobs report on Good Friday (market closed) + April 6 Iran deadline = compressed gap risk with no exit for 72+ hours. → *If a market holiday falls between now and a major event, decide position sizing BEFORE the last open trading day.*
+- When a geopolitical crisis has both diplomatic AND military paths, the probability of eventual resolution rises but short-term risk spikes. Direct attacks on US forces (Prince Sultan, March 27) cross a threshold that could provoke disproportionate response. → *If both paths exist, size for the worse outcome. A hedge that works in both scenarios (energy in an oil crisis) is worth more than a directional bet.*
+- Nuclear/industrial facility strikes are a qualitative escalation. Israel struck heavy-water and yellowcake plants on March 27 — expect retaliation risk to double. → *When strikes hit strategic targets, tighten stops and reduce position sizes preemptively.*
+- A shift from rate-cut to rate-hike expectations is a regime change. It compresses growth multiples regardless of company fundamentals. Rate hike probability crossed 52% on March 27. → *When rate hike probability crosses 50%, treat growth/tech as situational (not structural) and apply 2-strikes rule. Only energy and value are structural in a hiking regime.*
 
 ---
 
 ## What's Working
 
-- AI infrastructure is a multi-year structural theme. Hold quality AI names through corrections — the thesis doesn't change, only the price.
+- AI infrastructure is a multi-year structural theme — but in a rate-hike regime, even structural themes face multiple compression. Hold quality names but don't add until stress normalizes.
 - Written position limits prevent emotional overconcentration. The 25% single-stock cap works.
-- Energy hedge offsets tech losses during geopolitical selloffs. Genuinely uncorrelated positions are the most valuable diversification.
-- High cash reserve (50%+) during corrections limits drawdowns AND provides optionality for recovery buys.
+- Energy hedge offsets tech losses during geopolitical selloffs. XOM covered 25% of total tech losses in Week 1. Genuinely uncorrelated positions are the most valuable diversification.
+- High cash reserve (50%+) during corrections limits drawdowns AND provides optionality. Week 1: -2.94% vs Nasdaq -11%+ entirely due to cash allocation.
 - Setting decisions during research hours and executing via pending orders at open reduces emotional trading.
-- In a broadening correction, relative performance matters more than absolute returns. Being down -2.83% when indices are down -10% means the strategy is working — don't panic-sell into strength.
+- In a broadening correction, relative performance matters more than absolute returns. Being down -2.94% when indices are down -10% means the strategy is working — don't panic-sell into strength.
 
 ---
 
