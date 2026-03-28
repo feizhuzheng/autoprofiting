@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T22:09:00Z",
-  "version": 50,
+  "last_updated": "2026-03-28T23:16:00Z",
+  "version": 51,
   "principles": [
     {
       "id": 1,
@@ -141,10 +141,10 @@
     },
     {
       "id": 17,
-      "lesson": "Regional war contagion has two phases: (1) military \u2014 strikes on neutral states (UAE, Oman, Kuwait), and (2) economic \u2014 when non-combatant governments impose domestic restrictions (Egypt 9pm curfew for doubled energy bills, Ethiopia fuel queues, Kenya $24M tea stranded). Phase 2 means the war's cost is systemic, not contained to combatants.",
-      "action": "When phase 2 contagion appears (economic restrictions in non-combatant states), treat the risk premium as structural and permanent for the conflict's duration. Don't assume de-escalation at a single chokepoint resolves the broader disruption \u2014 the damage is already embedded in supply chains.",
+      "lesson": "Regional war contagion has three phases: (1) military \u2014 strikes on neutral states, (2) economic \u2014 non-combatant governments impose domestic restrictions (curfews, rationing), (3) infrastructure destruction \u2014 civilian/industrial assets in neutral states physically destroyed (smelters, airports). Phase 3 is partially irreversible and adds non-energy commodity inflation vectors that feed into PPI\u2192CPI\u2192rate expectations.",
+      "action": "When phase 3 contagion appears (neutral state infrastructure destroyed), treat economic damage as partially permanent. Track non-energy commodity disruptions as secondary inflation vectors \u2014 they can independently trigger stress indicators.",
       "added": "2026-03-28",
-      "updated": "2026-03-28"
+      "updated": "2026-03-29"
     },
     {
       "id": 18,
