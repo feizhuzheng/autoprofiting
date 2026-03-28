@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T23:16:00Z",
-  "version": 51,
+  "last_updated": "2026-03-28T23:52:00Z",
+  "version": 52,
   "principles": [
     {
       "id": 1,
@@ -163,6 +163,12 @@
       "lesson": "Corporate risk management (shipping companies pausing routes) is a more reliable signal than official government/military announcements. Maersk et al. paused Bab al-Mandab before Houthis officially closed it — they priced in the risk and acted. When corporations flee, the disruption is already real.",
       "action": "When major shipping/logistics companies suspend a route, treat that chokepoint as closed for portfolio purposes — don't wait for an official military/political closure.",
       "added": "2026-03-28"
+    },
+    {
+      "id": 21,
+      "lesson": "Weekend research has sharply diminishing returns after 2 sessions per day. Sessions 3-6 on Day 4 Saturday added zero actionable information. The plan was confirmed 29 times without changing once.",
+      "action": "Cap weekend research at 2 sessions per day (morning + evening). If the plan hasn't changed after 2 sessions, stop. Additional sessions burn time and create false urgency.",
+      "added": "2026-03-29"
     }
   ],
   "what_works": [
