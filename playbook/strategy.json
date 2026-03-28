@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T21:00:00Z",
-  "version": 48,
+  "last_updated": "2026-03-28T21:34:00Z",
+  "version": 49,
   "principles": [
     {
       "id": 1,
@@ -157,6 +157,12 @@
       "lesson": "When a state actor's proxy network activates (Houthis entering Iran war), it multiplies chokepoint risk and signals the conflict has passed the point of quick resolution. Proxy wars are harder to negotiate because the principals can't fully control their proxies.",
       "action": "When a proxy enters an existing conflict: (1) treat the conflict duration as extended, (2) count each proxy's chokepoint as additive risk, (3) increase energy allocation. Two simultaneous chokepoints (Hormuz + Bab al-Mandab) has no modern precedent.",
       "added": "2026-03-28"
+    },
+    {
+      "id": 20,
+      "lesson": "Corporate risk management (shipping companies pausing routes) is a more reliable signal than official government/military announcements. Maersk et al. paused Bab al-Mandab before Houthis officially closed it — they priced in the risk and acted. When corporations flee, the disruption is already real.",
+      "action": "When major shipping/logistics companies suspend a route, treat that chokepoint as closed for portfolio purposes — don't wait for an official military/political closure.",
+      "added": "2026-03-28"
     }
   ],
   "what_works": [
@@ -173,7 +179,7 @@
     },
     {
       "id": 3,
-      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint now active (Hormuz toll system + Houthis weighing Bab al-Mandab closure). Iran's permanent Hormuz sovereignty demand + parliamentary codification means oil premium may outlast the conflict itself.",
+      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint now de facto operational: Maersk, Hapag-Lloyd, CMA CGM paused Trans-Suez sailings (Bab al-Mandab) + Hormuz closed since March 2. Shipping companies acted on risk before official closure — corporate risk management confirmed the military threat. Oil premium may outlast the conflict.",
       "added": "2026-03-27",
       "updated": "2026-03-28"
     },

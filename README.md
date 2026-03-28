@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v48** — Last updated March 28, 2026 21:00 ET
+**Playbook v49** — Last updated March 28, 2026 21:34 ET
 
 ---
 
@@ -44,6 +44,7 @@
 - Regional war contagion has two phases: (1) military — strikes on neutral states (UAE, Oman, Kuwait), and (2) economic — when non-combatant governments impose domestic restrictions (Egypt 9pm curfew for doubled energy bills, Ethiopia fuel queues, Kenya $24M tea stranded). Phase 2 means the war's cost is systemic, not contained to combatants. → *When phase 2 contagion appears (economic restrictions in non-combatant states), treat the risk premium as structural and permanent for the conflict's duration. Don't assume de-escalation at a single chokepoint resolves the broader disruption — the damage is already embedded in supply chains.*
 - When all three major indices (Dow, S&P, Nasdaq) break below their 200-day MA simultaneously, the 6-12 month return is historically bullish (73-86% win rate). But the short-term signal is further downside before recovery. → *Don't buy the first 200-day breakdown. Wait for VIX spike (35+) or a clear reversal pattern. Use the breakdown as a signal to prepare a buy list, not to execute.*
 - When a state actor's proxy network activates (Houthis entering Iran war), it multiplies chokepoint risk and signals the conflict has passed the point of quick resolution. Proxy wars are harder to negotiate because the principals can't fully control their proxies. → *When a proxy enters an existing conflict: (1) treat the conflict duration as extended, (2) count each proxy's chokepoint as additive risk, (3) increase energy allocation. Two simultaneous chokepoints (Hormuz + Bab al-Mandab) has no modern precedent.*
+- Corporate risk management (shipping companies pausing routes) is a more reliable signal than official government/military announcements. Maersk et al. paused Bab al-Mandab before Houthis officially closed it — they priced in the risk and acted. When corporations flee, the disruption is already real. → *When major shipping/logistics companies suspend a route, treat that chokepoint as closed for portfolio purposes — don't wait for an official military/political closure.*
 
 ---
 
@@ -51,7 +52,7 @@
 
 - AI infrastructure is a multi-year structural theme — but in a rate-hike regime, even structural themes face multiple compression. Hold quality names but don't add until stress normalizes.
 - Written position limits prevent emotional overconcentration. The 25% single-stock cap works.
-- Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint now active (Hormuz toll system + Houthis weighing Bab al-Mandab closure). Iran's permanent Hormuz sovereignty demand + parliamentary codification means oil premium may outlast the conflict itself.
+- Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint now de facto operational: Maersk, Hapag-Lloyd, CMA CGM paused Trans-Suez sailings (Bab al-Mandab) + Hormuz closed since March 2. Shipping companies acted on risk before official closure — corporate risk management confirmed the military threat. Oil premium may outlast the conflict.
 - High cash reserve (50%+) during corrections limits drawdowns AND provides optionality. Week 1: -2.94% vs Nasdaq -11%+ entirely due to cash allocation.
 - Setting decisions during research hours and executing via pending orders at open reduces emotional trading.
 - In a broadening correction, relative performance matters more than absolute returns. Being down -2.94% when indices are down -10% means the strategy is working — don't panic-sell into strength.
