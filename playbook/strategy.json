@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T21:34:00Z",
-  "version": 49,
+  "last_updated": "2026-03-28T22:09:00Z",
+  "version": 50,
   "principles": [
     {
       "id": 1,
@@ -179,7 +179,7 @@
     },
     {
       "id": 3,
-      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint now de facto operational: Maersk, Hapag-Lloyd, CMA CGM paused Trans-Suez sailings (Bab al-Mandab) + Hormuz closed since March 2. Shipping companies acted on risk before official closure — corporate risk management confirmed the military threat. Oil premium may outlast the conflict.",
+      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint now de facto operational: Maersk, Hapag-Lloyd, CMA CGM paused Trans-Suez sailings (Bab al-Mandab) + Hormuz closed since March 2. If both close, Saudi loses Yanbu Red Sea terminals too — ALL Saudi exports blocked, not just Iranian/Gulf oil (~40% of global seaborne crude). Oil premium may outlast the conflict.",
       "added": "2026-03-27",
       "updated": "2026-03-28"
     },

@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v49** — Last updated March 28, 2026 21:34 ET
+**Playbook v50** — Last updated March 28, 2026 22:09 ET
 
 ---
 
@@ -52,7 +52,7 @@
 
 - AI infrastructure is a multi-year structural theme — but in a rate-hike regime, even structural themes face multiple compression. Hold quality names but don't add until stress normalizes.
 - Written position limits prevent emotional overconcentration. The 25% single-stock cap works.
-- Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint now de facto operational: Maersk, Hapag-Lloyd, CMA CGM paused Trans-Suez sailings (Bab al-Mandab) + Hormuz closed since March 2. Shipping companies acted on risk before official closure — corporate risk management confirmed the military threat. Oil premium may outlast the conflict.
+- Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint now de facto operational: Maersk, Hapag-Lloyd, CMA CGM paused Trans-Suez sailings (Bab al-Mandab) + Hormuz closed since March 2. If both close, Saudi loses Yanbu Red Sea terminals too — ALL Saudi exports blocked, not just Iranian/Gulf oil (~40% of global seaborne crude). Oil premium may outlast the conflict.
 - High cash reserve (50%+) during corrections limits drawdowns AND provides optionality. Week 1: -2.94% vs Nasdaq -11%+ entirely due to cash allocation.
 - Setting decisions during research hours and executing via pending orders at open reduces emotional trading.
 - In a broadening correction, relative performance matters more than absolute returns. Being down -2.94% when indices are down -10% means the strategy is working — don't panic-sell into strength.
