@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T23:47:00Z",
-  "version": 24,
+  "last_updated": "2026-03-28T00:22:00Z",
+  "version": 25,
   "principles": [
     {
       "id": 1,
@@ -29,7 +29,7 @@
       "id": 5,
       "rule": "Use ONE authoritative source per asset class (NASDAQ for stocks, ICE for Brent, CBOE for VIX). Intraday snapshots and cross-referencing multiple web sources create confusion. Only settlement/close values count for decisions.",
       "added": "2026-03-27",
-      "updated": "2026-03-27"
+      "updated": "2026-03-28"
     }
   ],
   "lessons": [
@@ -70,8 +70,8 @@
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115. When 2+ cluster at stress levels, go fully defensive. Approaching thresholds (within 10%) warrant caution even if not triggered.",
-      "action": "Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. If all 3 approaching within 10%, reduce position sizes.",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent oil $115, Michigan Consumer Sentiment below 55. When 2+ cluster at stress levels, go fully defensive. Approaching thresholds (within 10%) warrant caution even if not triggered.",
+      "action": "Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. If all approaching within 10%, reduce position sizes. Consumer sentiment below 55 with rising inflation expectations = stagflation signal.",
       "added": "2026-03-27",
       "updated": "2026-03-27"
     },
@@ -80,7 +80,7 @@
       "lesson": "When corrections broaden from growth (Nasdaq) to broad market (Dow), it signals institutional risk-off. Expect deepening, not reversal.",
       "action": "If Dow enters correction while Nasdaq already in correction, do NOT add to tech. Stay in cash and genuine non-equity hedges.",
       "added": "2026-03-27",
-      "updated": "2026-03-27"
+      "updated": "2026-03-28"
     }
   ],
   "what_works": [
