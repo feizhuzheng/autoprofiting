@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T08:30:00Z",
-  "version": 35,
+  "last_updated": "2026-03-28T09:05:00Z",
+  "version": 36,
   "principles": [
     {
       "id": 1,
@@ -109,8 +109,8 @@
     },
     {
       "id": 12,
-      "lesson": "Proxy allies entering a war is a step-function escalation. Confirmed: Houthis entered Iran war March 28, activating dual chokepoint risk (Hormuz + Bab al-Mandab = ~24M bbl/day). When conflict widens from bilateral to multi-front, risk surface area multiplies.",
-      "action": "When a new belligerent enters a conflict, immediately reassess all positions for second-order exposure (e.g., dual chokepoint risk on oil, stretched defense budgets, expanded sanctions).",
+      "lesson": "Proxy allies entering a war is a step-function escalation. Houthis entered Iran war March 28 \u2014 dual chokepoint risk is now FUNCTIONALLY ACTIVE: Maersk, Hapag-Lloyd, CMA CGM paused Trans-Suez sailings before any formal blockade. Corporate actions confirm risk faster than government statements.",
+      "action": "When major shipping/commodity companies change behavior (pausing routes, invoking force majeure), treat that as confirmation of the risk \u2014 don't wait for the formal government/military action.",
       "added": "2026-03-28",
       "updated": "2026-03-28"
     },
@@ -124,6 +124,18 @@
       "id": 14,
       "lesson": "When a high-growth stock's forward PE drops below the market average, it's a historic buy signal \u2014 but only if stress indicators are normalizing. NVDA at 20x forward PE with 73% growth is compelling, but not actionable at VIX 27+ and Brent $112+.",
       "action": "Track the delta between the stock's forward PE and S&P 500 forward PE. When the stock is cheaper AND VIX is falling AND Brent is stabilizing, that's the entry window.",
+      "added": "2026-03-28"
+    },
+    {
+      "id": 15,
+      "lesson": "When a conflict shifts from air/naval to ground operations (82nd Airborne deployment), the war's duration and economic impact multiplies. Ground wars are harder to exit and more resource-intensive.",
+      "action": "If ground troops are deployed offensively (not peacekeeping), extend the expected conflict duration by 2-3x and increase energy/defense allocation accordingly.",
+      "added": "2026-03-28"
+    },
+    {
+      "id": 16,
+      "lesson": "When multiple binary events stack across a market closure (jobs report Good Friday + Iran deadline Monday), the gap risk compounds multiplicatively, not additively. You can't hedge what you can't trade.",
+      "action": "When 2+ binary events span a market closure, finalize ALL position sizing the trading day before. Accept smaller positions over larger gap risk.",
       "added": "2026-03-28"
     }
   ],

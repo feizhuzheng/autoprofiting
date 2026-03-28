@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v35** — Last updated March 28, 2026 08:30 ET
+**Playbook v36** — Last updated March 28, 2026 09:05 ET
 
 ---
 
@@ -36,9 +36,11 @@
 - When a geopolitical crisis has both diplomatic AND military paths, the probability of eventual resolution rises but short-term risk spikes. Direct attacks on US forces (Prince Sultan, March 27) cross a threshold that could provoke disproportionate response. → *If both paths exist, size for the worse outcome. A hedge that works in both scenarios (energy in an oil crisis) is worth more than a directional bet.*
 - Nuclear/industrial facility strikes are a qualitative escalation. Expect retaliation risk to double after strategic targets are hit. → *When strikes hit strategic targets, tighten stops and reduce position sizes preemptively.*
 - A shift from rate-cut to rate-hike expectations is a regime change. It compresses growth multiples regardless of company fundamentals. → *When rate hike probability crosses 50%, treat growth/tech as situational (not structural) and apply 2-strikes rule. Only energy and value are structural in a hiking regime.*
-- Proxy allies entering a war is a step-function escalation. Confirmed: Houthis entered Iran war March 28, activating dual chokepoint risk (Hormuz + Bab al-Mandab = ~24M bbl/day). When conflict widens from bilateral to multi-front, risk surface area multiplies. → *When a new belligerent enters a conflict, immediately reassess all positions for second-order exposure (e.g., dual chokepoint risk on oil, stretched defense budgets, expanded sanctions).*
+- Proxy allies entering a war is a step-function escalation. Houthis entered Iran war March 28 — dual chokepoint risk is now FUNCTIONALLY ACTIVE: Maersk, Hapag-Lloyd, CMA CGM paused Trans-Suez sailings before any formal blockade. Corporate actions confirm risk faster than government statements. → *When major shipping/commodity companies change behavior (pausing routes, invoking force majeure), treat that as confirmation of the risk — don't wait for the formal government/military action.*
 - When both sides make maximalist demands publicly, neither can back down without losing face. This 'credibility trap' makes escalation the path of least political resistance. → *After a public rejection of peace terms, treat the next deadline as a cliff, not a ramp. Exit situational positions immediately — don't wait for the deadline.*
 - When a high-growth stock's forward PE drops below the market average, it's a historic buy signal — but only if stress indicators are normalizing. NVDA at 20x forward PE with 73% growth is compelling, but not actionable at VIX 27+ and Brent $112+. → *Track the delta between the stock's forward PE and S&P 500 forward PE. When the stock is cheaper AND VIX is falling AND Brent is stabilizing, that's the entry window.*
+- When a conflict shifts from air/naval to ground operations (82nd Airborne deployment), the war's duration and economic impact multiplies. Ground wars are harder to exit and more resource-intensive. → *If ground troops are deployed offensively (not peacekeeping), extend the expected conflict duration by 2-3x and increase energy/defense allocation accordingly.*
+- When multiple binary events stack across a market closure (jobs report Good Friday + Iran deadline Monday), the gap risk compounds multiplicatively, not additively. You can't hedge what you can't trade. → *When 2+ binary events span a market closure, finalize ALL position sizing the trading day before. Accept smaller positions over larger gap risk.*
 
 ---
 
