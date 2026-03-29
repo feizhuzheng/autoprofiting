@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T23:52:00Z",
-  "version": 52,
+  "last_updated": "2026-03-29T02:36:00Z",
+  "version": 53,
   "principles": [
     {
       "id": 1,
@@ -166,9 +166,10 @@
     },
     {
       "id": 21,
-      "lesson": "Weekend research has sharply diminishing returns after 2 sessions per day. Sessions 3-6 on Day 4 Saturday added zero actionable information. The plan was confirmed 29 times without changing once.",
-      "action": "Cap weekend research at 2 sessions per day (morning + evening). If the plan hasn't changed after 2 sessions, stop. Additional sessions burn time and create false urgency.",
-      "added": "2026-03-29"
+      "lesson": "Weekend research has sharply diminishing returns after 2 sessions per day. Sessions 3-6 on Day 4 Saturday added zero actionable information. Exception: a genuine new binary event (e.g., senior commander killed, new ultimatum) justifies one additional session.",
+      "action": "Cap weekend research at 2 sessions per day (morning + evening). If the plan hasn't changed after 2 sessions, stop. Only exception: a verifiable new escalation or de-escalation event, not just 'more of the same.'",
+      "added": "2026-03-29",
+      "updated": "2026-03-29"
     }
   ],
   "what_works": [

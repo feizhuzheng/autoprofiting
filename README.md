@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v52** — Last updated March 28, 2026 23:52 ET
+**Playbook v53** — Last updated March 29, 2026 02:36 ET
 
 ---
 
@@ -45,7 +45,7 @@
 - When all three major indices (Dow, S&P, Nasdaq) break below their 200-day MA simultaneously, the 6-12 month return is historically bullish (73-86% win rate). But the short-term signal is further downside before recovery. → *Don't buy the first 200-day breakdown. Wait for VIX spike (35+) or a clear reversal pattern. Use the breakdown as a signal to prepare a buy list, not to execute.*
 - When a state actor's proxy network activates (Houthis entering Iran war), it multiplies chokepoint risk and signals the conflict has passed the point of quick resolution. Proxy wars are harder to negotiate because the principals can't fully control their proxies. → *When a proxy enters an existing conflict: (1) treat the conflict duration as extended, (2) count each proxy's chokepoint as additive risk, (3) increase energy allocation. Two simultaneous chokepoints (Hormuz + Bab al-Mandab) has no modern precedent.*
 - Corporate risk management (shipping companies pausing routes) is a more reliable signal than official government/military announcements. Maersk et al. paused Bab al-Mandab before Houthis officially closed it — they priced in the risk and acted. When corporations flee, the disruption is already real. → *When major shipping/logistics companies suspend a route, treat that chokepoint as closed for portfolio purposes — don't wait for an official military/political closure.*
-- Weekend research has sharply diminishing returns after 2 sessions per day. Sessions 3-6 on Day 4 Saturday added zero actionable information. The plan was confirmed 29 times without changing once. → *Cap weekend research at 2 sessions per day (morning + evening). If the plan hasn't changed after 2 sessions, stop. Additional sessions burn time and create false urgency.*
+- Weekend research has sharply diminishing returns after 2 sessions per day. Sessions 3-6 on Day 4 Saturday added zero actionable information. Exception: a genuine new binary event (e.g., senior commander killed, new ultimatum) justifies one additional session. → *Cap weekend research at 2 sessions per day (morning + evening). If the plan hasn't changed after 2 sessions, stop. Only exception: a verifiable new escalation or de-escalation event, not just 'more of the same.'*
 
 ---
 
