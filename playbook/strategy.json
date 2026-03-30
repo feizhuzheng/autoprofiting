@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T16:33:00Z",
-  "version": 58,
+  "last_updated": "2026-03-30T17:10:00Z",
+  "version": 59,
   "principles": [
     {
       "id": 1,
@@ -70,10 +70,10 @@
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 30: ALL SIX triggered. VIX 31.05, 30Y yield 4.98%, Brent $116.12, Michigan 53.3, CB Expectations 65.2, rate hike 52%. First time all six active simultaneously. Absolute maximum defensive posture \u2014 no new positions, period.",
-      "action": "Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Michigan <55 + rising inflation = stagflation. CB Expectations <65 = recession imminent. Rate hike >50% = toxic for growth multiples.",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 30 PM: 2/6 triggered (Michigan 53.3, CB Expectations 65.2). VIX 29.60, 30Y yield 4.94%, Brent $112.57, rate hike 2.2% post-Powell. Fastest normalization since crisis began \u2014 6/6 to 2/6 in one session. Still defensive (2+ rule), but remaining two are lagging monthly surveys that won't update until April.",
+      "action": "Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Distinguish real-time indicators (VIX, yields, oil, rate futures) from lagging surveys (Michigan, CB). When all real-time clear but surveys remain, prepare the buy list but don't execute until surveys confirm or VIX spikes to 35+ (capitulation).",
       "added": "2026-03-27",
-      "updated": "2026-03-28"
+      "updated": "2026-03-30"
     },
     {
       "id": 7,
@@ -179,8 +179,15 @@
     },
     {
       "id": 23,
-      "lesson": "Central banker words that contradict market pricing are signal — unlike geopolitical posturing which is noise. When the FOMC says the market is wrong about rate hikes, update the model. But normalization (VIX grinding from 31 to 29) is not capitulation (VIX spiking to 35+). Different signals, different actions. Normalization = update the model. Capitulation = execute the buy list.",
+      "lesson": "Central banker words that contradict market pricing are signal — unlike geopolitical posturing which is noise. When the FOMC says the market is wrong about rate hikes, update the model. But normalization (VIX grinding from 31 to 29) is not capitulation (VIX spiking to 35+). Different signals, different actions. Normalization = update the model. Capitulation = execute the buy list. Confirmed March 30: Powell at Harvard killed rate hike odds from 52% to 2.2% in one speech.",
       "action": "When a Fed official pushes back on market-implied rate expectations, downgrade that stress indicator immediately. But do NOT conflate slow normalization with capitulation — only capitulation (VIX 35+, panic selling) triggers new positions.",
+      "added": "2026-03-30",
+      "updated": "2026-03-30"
+    },
+    {
+      "id": 24,
+      "lesson": "Always cross-reference recorded stock prices against the published 52-week high/low. If a recorded price exceeds the range, the data is wrong. Propagating a bad price through multiple sessions compounds the error and distorts portfolio valuation.",
+      "action": "After every price lookup, sanity-check: is this price within the 52-week range? If not, search again with a different source. Never carry a price forward from a prior session without re-verifying.",
       "added": "2026-03-30"
     }
   ],
