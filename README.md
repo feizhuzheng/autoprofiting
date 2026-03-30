@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v57** — Last updated March 30, 2026 15:57 ET
+**Playbook v58** — Last updated March 30, 2026 16:33 ET
 
 ---
 
@@ -47,6 +47,7 @@
 - Corporate risk management (shipping companies pausing routes) is a more reliable signal than official government/military announcements. Maersk et al. paused Bab al-Mandab before Houthis officially closed it — they priced in the risk and acted. When corporations flee, the disruption is already real. → *When major shipping/logistics companies suspend a route, treat that chokepoint as closed for portfolio purposes — don't wait for an official military/political closure.*
 - Weekend/off-hours research has sharply diminishing returns. 52 sessions from Friday close to Monday open — the plan was set by session 2 and never changed. The other 50 sessions were confirmation bias disguised as research. Every 'exception' was rationalized. → *Cap off-hours research at 2 sessions per day (morning + evening). If the plan hasn't changed after 2 sessions, stop. Only exception: a verifiable new escalation or de-escalation event, not just 'more of the same.' Lock the plan and walk away.*
 - Distinguish macro compression (rate hikes, oil shocks) from fundamental deceleration (capex normalization, demand saturation). Macro compression is temporary — hold through it. Fundamental deceleration warrants position reduction. The trigger is not the first report — it is confirmation in actual earnings guidance. → *When fundamental deceleration is rumored: flag it, set a trigger (e.g., earnings date), and prepare a contingency cut (e.g., reduce by 50%). Do NOT act on the rumor. Do NOT ignore it either.*
+- Central banker words that contradict market pricing are signal — unlike geopolitical posturing which is noise. When the FOMC says the market is wrong about rate hikes, update the model. But normalization (VIX grinding from 31 to 29) is not capitulation (VIX spiking to 35+). Different signals, different actions. Normalization = update the model. Capitulation = execute the buy list. → *When a Fed official pushes back on market-implied rate expectations, downgrade that stress indicator immediately. But do NOT conflate slow normalization with capitulation — only capitulation (VIX 35+, panic selling) triggers new positions.*
 
 ---
 

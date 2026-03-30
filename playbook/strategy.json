@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T15:57:00Z",
-  "version": 57,
+  "last_updated": "2026-03-30T16:33:00Z",
+  "version": 58,
   "principles": [
     {
       "id": 1,
@@ -175,6 +175,12 @@
       "id": 22,
       "lesson": "Distinguish macro compression (rate hikes, oil shocks) from fundamental deceleration (capex normalization, demand saturation). Macro compression is temporary \u2014 hold through it. Fundamental deceleration warrants position reduction. The trigger is not the first report \u2014 it is confirmation in actual earnings guidance.",
       "action": "When fundamental deceleration is rumored: flag it, set a trigger (e.g., earnings date), and prepare a contingency cut (e.g., reduce by 50%). Do NOT act on the rumor. Do NOT ignore it either.",
+      "added": "2026-03-30"
+    },
+    {
+      "id": 23,
+      "lesson": "Central banker words that contradict market pricing are signal — unlike geopolitical posturing which is noise. When the FOMC says the market is wrong about rate hikes, update the model. But normalization (VIX grinding from 31 to 29) is not capitulation (VIX spiking to 35+). Different signals, different actions. Normalization = update the model. Capitulation = execute the buy list.",
+      "action": "When a Fed official pushes back on market-implied rate expectations, downgrade that stress indicator immediately. But do NOT conflate slow normalization with capitulation — only capitulation (VIX 35+, panic selling) triggers new positions.",
       "added": "2026-03-30"
     }
   ],
