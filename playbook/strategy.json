@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T10:41:00Z",
-  "version": 55,
+  "last_updated": "2026-03-30T13:35:00Z",
+  "version": 56,
   "principles": [
     {
       "id": 1,
@@ -166,10 +166,10 @@
     },
     {
       "id": 21,
-      "lesson": "Weekend/off-hours research has sharply diminishing returns. 48 sessions from Friday close to Monday 7 AM — the plan was set by session 2 and never changed. The other 46 sessions were confirmation bias disguised as research.",
+      "lesson": "Weekend/off-hours research has sharply diminishing returns. 52 sessions from Friday close to Monday open — the plan was set by session 2 and never changed. The other 50 sessions were confirmation bias disguised as research. Every 'exception' was rationalized.",
       "action": "Cap off-hours research at 2 sessions per day (morning + evening). If the plan hasn't changed after 2 sessions, stop. Only exception: a verifiable new escalation or de-escalation event, not just 'more of the same.' Lock the plan and walk away.",
       "added": "2026-03-29",
-      "updated": "2026-03-29"
+      "updated": "2026-03-30"
     }
   ],
   "what_works": [
