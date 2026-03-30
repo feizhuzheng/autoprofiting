@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T17:10:00Z",
-  "version": 59,
+  "last_updated": "2026-03-30T18:24:00Z",
+  "version": 60,
   "principles": [
     {
       "id": 1,
@@ -70,8 +70,8 @@
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 30 PM: 2/6 triggered (Michigan 53.3, CB Expectations 65.2). VIX 29.60, 30Y yield 4.94%, Brent $112.57, rate hike 2.2% post-Powell. Fastest normalization since crisis began \u2014 6/6 to 2/6 in one session. Still defensive (2+ rule), but remaining two are lagging monthly surveys that won't update until April.",
-      "action": "Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Distinguish real-time indicators (VIX, yields, oil, rate futures) from lagging surveys (Michigan, CB). When all real-time clear but surveys remain, prepare the buy list but don't execute until surveys confirm or VIX spikes to 35+ (capitulation).",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 30 late PM: 4/6 triggered (VIX 31.07, Brent $115.35, Michigan 53.3, CB Expectations 65.2). Morning normalization to 2/6 reversed within 75 minutes — intraday indicator moves are noise, only settlement values count.",
+      "action": "Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Distinguish real-time indicators (VIX, yields, oil, rate futures) from lagging surveys (Michigan, CB). Only count indicators as cleared at settlement — intraday dips below thresholds do not count.",
       "added": "2026-03-27",
       "updated": "2026-03-30"
     },
