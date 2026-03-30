@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T13:35:00Z",
-  "version": 56,
+  "last_updated": "2026-03-30T15:57:00Z",
+  "version": 57,
   "principles": [
     {
       "id": 1,
@@ -70,7 +70,7 @@
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 30: ALL SIX triggered. VIX 31.05, 30Y yield 4.98%, Brent $116.12, Michigan 53.3, CB Expectations 65.2, rate hike 52%. First time all six active simultaneously. Absolute maximum defensive posture — no new positions, period.",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 30: ALL SIX triggered. VIX 31.05, 30Y yield 4.98%, Brent $116.12, Michigan 53.3, CB Expectations 65.2, rate hike 52%. First time all six active simultaneously. Absolute maximum defensive posture \u2014 no new positions, period.",
       "action": "Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Michigan <55 + rising inflation = stagflation. CB Expectations <65 = recession imminent. Rate hike >50% = toxic for growth multiples.",
       "added": "2026-03-27",
       "updated": "2026-03-28"
@@ -160,24 +160,30 @@
     },
     {
       "id": 20,
-      "lesson": "Corporate risk management (shipping companies pausing routes) is a more reliable signal than official government/military announcements. Maersk et al. paused Bab al-Mandab before Houthis officially closed it — they priced in the risk and acted. When corporations flee, the disruption is already real.",
-      "action": "When major shipping/logistics companies suspend a route, treat that chokepoint as closed for portfolio purposes — don't wait for an official military/political closure.",
+      "lesson": "Corporate risk management (shipping companies pausing routes) is a more reliable signal than official government/military announcements. Maersk et al. paused Bab al-Mandab before Houthis officially closed it \u2014 they priced in the risk and acted. When corporations flee, the disruption is already real.",
+      "action": "When major shipping/logistics companies suspend a route, treat that chokepoint as closed for portfolio purposes \u2014 don't wait for an official military/political closure.",
       "added": "2026-03-28"
     },
     {
       "id": 21,
-      "lesson": "Weekend/off-hours research has sharply diminishing returns. 52 sessions from Friday close to Monday open — the plan was set by session 2 and never changed. The other 50 sessions were confirmation bias disguised as research. Every 'exception' was rationalized.",
+      "lesson": "Weekend/off-hours research has sharply diminishing returns. 52 sessions from Friday close to Monday open \u2014 the plan was set by session 2 and never changed. The other 50 sessions were confirmation bias disguised as research. Every 'exception' was rationalized.",
       "action": "Cap off-hours research at 2 sessions per day (morning + evening). If the plan hasn't changed after 2 sessions, stop. Only exception: a verifiable new escalation or de-escalation event, not just 'more of the same.' Lock the plan and walk away.",
       "added": "2026-03-29",
       "updated": "2026-03-30"
+    },
+    {
+      "id": 22,
+      "lesson": "Distinguish macro compression (rate hikes, oil shocks) from fundamental deceleration (capex normalization, demand saturation). Macro compression is temporary \u2014 hold through it. Fundamental deceleration warrants position reduction. The trigger is not the first report \u2014 it is confirmation in actual earnings guidance.",
+      "action": "When fundamental deceleration is rumored: flag it, set a trigger (e.g., earnings date), and prepare a contingency cut (e.g., reduce by 50%). Do NOT act on the rumor. Do NOT ignore it either.",
+      "added": "2026-03-30"
     }
   ],
   "what_works": [
     {
       "id": 1,
-      "pattern": "AI infrastructure is a multi-year structural theme \u2014 but in a rate-hike regime, even structural themes face multiple compression. Hold quality names but don't add until stress normalizes.",
+      "pattern": "AI infrastructure is a multi-year structural theme \u2014 but monitor for capex normalization signals from cloud providers. In a rate-hike regime, hold quality names but don't add until stress normalizes. If capex guidance is actually revised down, reclassify from structural to situational.",
       "added": "2026-03-25",
-      "updated": "2026-03-28"
+      "updated": "2026-03-30"
     },
     {
       "id": 2,
@@ -186,7 +192,7 @@
     },
     {
       "id": 3,
-      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint now de facto operational: Maersk, Hapag-Lloyd, CMA CGM paused Trans-Suez sailings (Bab al-Mandab) + Hormuz closed since March 2. If both close, Saudi loses Yanbu Red Sea terminals too — ALL Saudi exports blocked, not just Iranian/Gulf oil (~40% of global seaborne crude). Oil premium may outlast the conflict.",
+      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint now de facto operational: Maersk, Hapag-Lloyd, CMA CGM paused Trans-Suez sailings (Bab al-Mandab) + Hormuz closed since March 2. If both close, Saudi loses Yanbu Red Sea terminals too \u2014 ALL Saudi exports blocked, not just Iranian/Gulf oil (~40% of global seaborne crude). Oil premium may outlast the conflict.",
       "added": "2026-03-27",
       "updated": "2026-03-28"
     },
