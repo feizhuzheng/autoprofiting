@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-29T02:36:00Z",
-  "version": 53,
+  "last_updated": "2026-03-30T04:08:00Z",
+  "version": 54,
   "principles": [
     {
       "id": 1,
@@ -70,7 +70,7 @@
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 28: Michigan 53.3, CB Expectations 65.2, rate hike 52%, VIX 31.05 — 4 triggered. 30Y yield 4.98% (2 bps from 5th trigger). Brent $112.57 (approaching 6th). Maximum defensive posture.",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. As of March 30: ALL SIX triggered. VIX 31.05, 30Y yield 4.98%, Brent $116.12, Michigan 53.3, CB Expectations 65.2, rate hike 52%. First time all six active simultaneously. Absolute maximum defensive posture — no new positions, period.",
       "action": "Before any BUY, check all indicators at official close values. If 2+ triggered, no new positions. Michigan <55 + rising inflation = stagflation. CB Expectations <65 = recession imminent. Rate hike >50% = toxic for growth multiples.",
       "added": "2026-03-27",
       "updated": "2026-03-28"
