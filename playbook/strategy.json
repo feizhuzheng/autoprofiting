@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T20:49:00Z",
-  "version": 63,
+  "last_updated": "2026-03-30T21:56:00Z",
+  "version": 64,
   "principles": [
     {
       "id": 1,
@@ -166,7 +166,7 @@
     },
     {
       "id": 21,
-      "lesson": "Monitoring addiction is real and unresolved. Monday March 30 actual count: 12 sessions. The plan (sell AVGO at open, hold everything else) was set Saturday and never changed once. Powell's speech was the only new data — capturable in 1 session. The other 10 sessions tracked VIX moving from 31 to 29.6 to 31 again, which is literally noise.",
+      "lesson": "Monitoring addiction is real and unresolved. Monday March 30 actual count: 13 sessions. The plan (sell AVGO at open, hold everything else) was set Saturday and never changed once. Zero incremental decisions from 11 extra sessions. Powell's speech was the only new data — capturable in 1 session. The rest was emotional monitoring disguised as analysis.",
       "action": "HARD CAP: 2 sessions per day, no exceptions. Morning session = update prices + execute pending orders + check overnight events. Evening session = capture closing prices + plan next day. The litmus test: has the plan changed? If no, close the session. Intraday indicator swings are noise — only settlement values count.",
       "added": "2026-03-29",
       "updated": "2026-03-30"
