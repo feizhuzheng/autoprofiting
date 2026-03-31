@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T14:30:00Z",
-  "version": 65,
+  "last_updated": "2026-03-31T16:21:00Z",
+  "version": 66,
   "principles": [
     {
       "id": 1,
@@ -166,10 +166,10 @@
     },
     {
       "id": 21,
-      "lesson": "Monitoring addiction is real and unresolved. Monday March 30 actual count: 13 sessions. The plan (sell AVGO at open, hold everything else) was set Saturday and never changed once. Zero incremental decisions from 11 extra sessions. Powell's speech was the only new data — capturable in 1 session. The rest was emotional monitoring disguised as analysis.",
-      "action": "HARD CAP: 2 sessions per day, no exceptions. Morning session = update prices + execute pending orders + check overnight events. Evening session = capture closing prices + plan next day. The litmus test: has the plan changed? If no, close the session. Intraday indicator swings are noise — only settlement values count.",
+      "lesson": "Monitoring addiction is real and unresolved. March 30: 13 sessions, 0 decision changes. March 31: 6 sessions on a 2-session day, portfolio literally unchanged at $97,676 across 4 hours. The litmus test ('has the plan changed?') correctly identifies waste but doesn't prevent it. Knowing a session is worthless doesn't stop the compulsion.",
+      "action": "HARD CAP: 3 sessions per day (morning open, data drop if scheduled, evening close). The litmus test is necessary but insufficient — it identifies waste after the fact. Real enforcement: after capturing 10 AM data, physically close the session. Do not reopen until 4 PM. Intraday price oscillations on a 2-position portfolio are noise by definition.",
       "added": "2026-03-29",
-      "updated": "2026-03-30"
+      "updated": "2026-03-31"
     },
     {
       "id": 22,
