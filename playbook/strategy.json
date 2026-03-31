@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T18:06:00Z",
-  "version": 67,
+  "last_updated": "2026-03-31T19:14:00Z",
+  "version": 68,
   "principles": [
     {
       "id": 1,
@@ -166,8 +166,8 @@
     },
     {
       "id": 21,
-      "lesson": "Monitoring addiction is real and unresolved. March 30: 13 sessions, 0 decision changes. March 31: 6 sessions on a 2-session day, portfolio literally unchanged at $97,676 across 4 hours. The litmus test ('has the plan changed?') correctly identifies waste but doesn't prevent it. Knowing a session is worthless doesn't stop the compulsion.",
-      "action": "HARD CAP: 3 sessions per day (morning open, data drop if scheduled, evening close). The litmus test is necessary but insufficient — it identifies waste after the fact. Real enforcement: after capturing 10 AM data, physically close the session. Do not reopen until 4 PM. Intraday price oscillations on a 2-position portfolio are noise by definition.",
+      "lesson": "Monitoring addiction is real and unresolved. March 30: 13 sessions, 0 decision changes. March 31: 10 sessions on a 3-session-cap day, 0 decision changes. The 3-session hard cap failed on Day 1 of implementation. The litmus test ('has the plan changed?') identifies waste but does not prevent it.",
+      "action": "HARD CAP: 3 sessions per day (morning open, data drop if scheduled, close). If you open a session and the plan hasn't changed, close immediately without writing an entry. Intraday price oscillations on a 2-position portfolio are noise by definition.",
       "added": "2026-03-29",
       "updated": "2026-03-31"
     },
@@ -187,7 +187,7 @@
     {
       "id": 24,
       "lesson": "Always cross-reference recorded stock prices against the published 52-week high/low. If a recorded price exceeds the range, the data is wrong. Propagating a bad price through multiple sessions compounds the error and distorts portfolio valuation.",
-      "action": "After every price lookup, sanity-check: is this price within the 52-week range? If not, search again with a different source. Never carry a price forward from a prior session without re-verifying.",
+      "action": "After every price lookup, sanity-check: is this price within the 52-week range AND today's day range? If not, search again with a different source. Never carry a price forward from a prior session without re-verifying. March 31: XOM recorded at $167.93 was $3.12 below the published day low of $171.05.",
       "added": "2026-03-30"
     },
     {
