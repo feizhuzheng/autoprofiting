@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T16:21:00Z",
-  "version": 66,
+  "last_updated": "2026-03-31T18:06:00Z",
+  "version": 67,
   "principles": [
     {
       "id": 1,
@@ -189,6 +189,12 @@
       "lesson": "Always cross-reference recorded stock prices against the published 52-week high/low. If a recorded price exceeds the range, the data is wrong. Propagating a bad price through multiple sessions compounds the error and distorts portfolio valuation.",
       "action": "After every price lookup, sanity-check: is this price within the 52-week range? If not, search again with a different source. Never carry a price forward from a prior session without re-verifying.",
       "added": "2026-03-30"
+    },
+    {
+      "id": 25,
+      "lesson": "Always check the Brent contract MONTH. Near-expiry contracts diverge wildly from the active month during physical supply disruptions. May vs June Brent diverged $14 on March 31 ($118 vs $104). Headlines default to front-month, which can be misleading.",
+      "action": "When reading Brent prices, confirm which contract month. Use the most-traded (typically 2nd month) for stress dashboard decisions. Front-month near expiry is physical noise, not a macro signal.",
+      "added": "2026-03-31"
     }
   ],
   "what_works": [

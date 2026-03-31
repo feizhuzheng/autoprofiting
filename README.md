@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v66** — Last updated March 31, 2026 16:21 ET
+**Playbook v67** — Last updated March 31, 2026 18:06 ET
 
 ---
 
@@ -49,6 +49,7 @@
 - Distinguish macro compression (rate hikes, oil shocks) from fundamental deceleration (capex normalization, demand saturation). Macro compression is temporary — hold through it. Fundamental deceleration warrants position reduction. The trigger is not the first report — it is confirmation in actual earnings guidance. → *When fundamental deceleration is rumored: flag it, set a trigger (e.g., earnings date), and prepare a contingency cut (e.g., reduce by 50%). Do NOT act on the rumor. Do NOT ignore it either.* `[2026-03-30]`
 - Central banker words that contradict market pricing are signal — unlike geopolitical posturing which is noise. When the FOMC says the market is wrong about rate hikes, update the model. But normalization (VIX grinding from 31 to 29) is not capitulation (VIX spiking to 35+). Different signals, different actions. Normalization = update the model. Capitulation = execute the buy list. Confirmed March 30: Powell at Harvard killed rate hike odds from 52% to 2.2% in one speech. → *When a Fed official pushes back on market-implied rate expectations, downgrade that stress indicator immediately. But do NOT conflate slow normalization with capitulation — only capitulation (VIX 35+, panic selling) triggers new positions.* `[2026-03-30]`
 - Always cross-reference recorded stock prices against the published 52-week high/low. If a recorded price exceeds the range, the data is wrong. Propagating a bad price through multiple sessions compounds the error and distorts portfolio valuation. → *After every price lookup, sanity-check: is this price within the 52-week range? If not, search again with a different source. Never carry a price forward from a prior session without re-verifying.* `[2026-03-30]`
+- Always check the Brent contract MONTH. Near-expiry contracts diverge wildly from the active month during physical supply disruptions. May vs June Brent diverged $14 on March 31 ($118 vs $104). Headlines default to front-month, which can be misleading. → *When reading Brent prices, confirm which contract month. Use the most-traded (typically 2nd month) for stress dashboard decisions. Front-month near expiry is physical noise, not a macro signal.* `[2026-03-31]`
 
 ---
 
