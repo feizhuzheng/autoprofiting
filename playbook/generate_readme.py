@@ -11,30 +11,38 @@ with open(DATA) as f:
 
 updated = datetime.fromisoformat(s["last_updated"].replace("Z", "+00:00")).strftime("%B %d, %Y %H:%M ET")
 
-# Build principles — concise, no examples
+def date_tag(item):
+    """Return [YYYY-MM-DD] date tag from updated or added field."""
+    d = item.get('updated') or item.get('added', '')
+    return f" `[{d}]`" if d else ""
+
+# Build principles — concise, with dates
 principles = ""
 for p in s.get("principles", []):
     rule = p['rule'] if isinstance(p, dict) else str(p)
-    principles += f"- {rule}\n"
+    tag = date_tag(p) if isinstance(p, dict) else ""
+    principles += f"- {rule}{tag}\n"
 
-# Build lessons — concise, no context blocks
+# Build lessons — concise, with dates
 lessons = ""
 for l in s.get("lessons", []):
     if isinstance(l, dict):
         lesson = l.get('lesson', l.get('rule', ''))
         action = l.get('action', '')
+        tag = date_tag(l)
         line = lesson
         if action:
             line += f" → *{action}*"
-        lessons += f"- {line}\n"
+        lessons += f"- {line}{tag}\n"
     else:
         lessons += f"- {l}\n"
 
-# Build what works
+# Build what works — with dates
 works = ""
 for w in s.get("what_works", []):
     if isinstance(w, dict):
-        works += f"- {w.get('pattern', '')}\n"
+        tag = date_tag(w)
+        works += f"- {w.get('pattern', '')}{tag}\n"
     else:
         works += f"- {w}\n"
 
