@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T14:33:00Z",
-  "version": 70,
+  "last_updated": "2026-04-01T15:38:00Z",
+  "version": 71,
   "principles": [
     {
       "id": 1,
@@ -186,9 +186,10 @@
     },
     {
       "id": 24,
-      "lesson": "Always cross-reference recorded stock prices against the published 52-week high/low. If a recorded price exceeds the range, the data is wrong. Propagating a bad price through multiple sessions compounds the error and distorts portfolio valuation.",
-      "action": "After every price lookup, sanity-check: is this price within the 52-week range AND today's day range? If not, search again with a different source. Never carry a price forward from a prior session without re-verifying. March 31: XOM recorded at $167.93 was $3.12 below the published day low of $171.05.",
-      "added": "2026-03-30"
+      "lesson": "Always cross-reference recorded stock prices against the regular session day range. Premarket prices are NOT intraday prices — they can diverge significantly from the regular session. April 1: XOM premarket $172.26, actual regular session high $169.66, midday $161.63. Two entries propagated a $500 valuation error.",
+      "action": "After every price lookup, sanity-check: is this price within the regular session day range (not premarket)? If using a price before 9:30 AM ET, label it explicitly as premarket and do NOT use it for portfolio valuation. Re-verify all prices after the first 30 minutes of regular trading.",
+      "added": "2026-03-30",
+      "updated": "2026-04-01"
     },
     {
       "id": 25,
