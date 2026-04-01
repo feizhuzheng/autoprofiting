@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T13:17:00Z",
-  "version": 69,
+  "last_updated": "2026-04-01T14:33:00Z",
+  "version": 70,
   "principles": [
     {
       "id": 1,
@@ -206,6 +206,12 @@
       "id": 27,
       "lesson": "Scheduled presidential addresses are higher-information binary events than off-the-cuff comments. A prime-time speech requires preparation, implies substance, and moves markets more than hallway remarks. Do not pre-position before one.",
       "action": "When a presidential address is scheduled before the next trading day, freeze all pending orders. Reassess AFTER the speech, not before.",
+      "added": "2026-04-01"
+    },
+    {
+      "id": 28,
+      "lesson": "Regional PMIs (Chicago, NY Empire, Philly Fed) can diverge wildly from the national ISM during supply disruptions. Chicago PMI crashed to 45.4 while national ISM held at 52.7. A single regional survey is not a recession signal.",
+      "action": "Never change the plan based on a regional PMI alone. Wait for the national ISM. If they diverge, trust the national number for macro decisions.",
       "added": "2026-04-01"
     }
   ],
