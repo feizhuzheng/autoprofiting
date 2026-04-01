@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T19:14:00Z",
-  "version": 68,
+  "last_updated": "2026-04-01T13:17:00Z",
+  "version": 69,
   "principles": [
     {
       "id": 1,
@@ -195,6 +195,18 @@
       "lesson": "Always check the Brent contract MONTH. Near-expiry contracts diverge wildly from the active month during physical supply disruptions. May vs June Brent diverged $14 on March 31 ($118 vs $104). Headlines default to front-month, which can be misleading.",
       "action": "When reading Brent prices, confirm which contract month. Use the most-traded (typically 2nd month) for stress dashboard decisions. Front-month near expiry is physical noise, not a macro signal.",
       "added": "2026-03-31"
+    },
+    {
+      "id": 26,
+      "lesson": "A cornered state actor is more dangerous, not less. When Iran attacked 5 neutral Gulf states in one night (Qatar tanker, Kuwait airport, UAE, Bahrain, Saudi Arabia), the market rallied on 'they're losing' logic. The military thesis may be right, but the risk to energy infrastructure INCREASES as desperation grows. Physical damage to non-combatant infrastructure is the signal — not the attacker's probability of winning.",
+      "action": "When a losing state actor expands attacks to neutral states, do NOT reduce energy hedges even if oil price drops on peace rhetoric. The physical risk premium should override the sentiment-driven price move.",
+      "added": "2026-04-01"
+    },
+    {
+      "id": 27,
+      "lesson": "Scheduled presidential addresses are higher-information binary events than off-the-cuff comments. A prime-time speech requires preparation, implies substance, and moves markets more than hallway remarks. Do not pre-position before one.",
+      "action": "When a presidential address is scheduled before the next trading day, freeze all pending orders. Reassess AFTER the speech, not before.",
+      "added": "2026-04-01"
     }
   ],
   "what_works": [

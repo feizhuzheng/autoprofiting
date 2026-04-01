@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v68** — Last updated March 31, 2026 19:14 ET
+**Playbook v69** — Last updated April 01, 2026 13:17 ET
 
 ---
 
@@ -50,6 +50,8 @@
 - Central banker words that contradict market pricing are signal — unlike geopolitical posturing which is noise. When the FOMC says the market is wrong about rate hikes, update the model. But normalization (VIX grinding from 31 to 29) is not capitulation (VIX spiking to 35+). Different signals, different actions. Normalization = update the model. Capitulation = execute the buy list. Confirmed March 30: Powell at Harvard killed rate hike odds from 52% to 2.2% in one speech. → *When a Fed official pushes back on market-implied rate expectations, downgrade that stress indicator immediately. But do NOT conflate slow normalization with capitulation — only capitulation (VIX 35+, panic selling) triggers new positions.* `[2026-03-30]`
 - Always cross-reference recorded stock prices against the published 52-week high/low. If a recorded price exceeds the range, the data is wrong. Propagating a bad price through multiple sessions compounds the error and distorts portfolio valuation. → *After every price lookup, sanity-check: is this price within the 52-week range AND today's day range? If not, search again with a different source. Never carry a price forward from a prior session without re-verifying. March 31: XOM recorded at $167.93 was $3.12 below the published day low of $171.05.* `[2026-03-30]`
 - Always check the Brent contract MONTH. Near-expiry contracts diverge wildly from the active month during physical supply disruptions. May vs June Brent diverged $14 on March 31 ($118 vs $104). Headlines default to front-month, which can be misleading. → *When reading Brent prices, confirm which contract month. Use the most-traded (typically 2nd month) for stress dashboard decisions. Front-month near expiry is physical noise, not a macro signal.* `[2026-03-31]`
+- A cornered state actor is more dangerous, not less. When Iran attacked 5 neutral Gulf states in one night (Qatar tanker, Kuwait airport, UAE, Bahrain, Saudi Arabia), the market rallied on 'they're losing' logic. The military thesis may be right, but the risk to energy infrastructure INCREASES as desperation grows. Physical damage to non-combatant infrastructure is the signal — not the attacker's probability of winning. → *When a losing state actor expands attacks to neutral states, do NOT reduce energy hedges even if oil price drops on peace rhetoric. The physical risk premium should override the sentiment-driven price move.* `[2026-04-01]`
+- Scheduled presidential addresses are higher-information binary events than off-the-cuff comments. A prime-time speech requires preparation, implies substance, and moves markets more than hallway remarks. Do not pre-position before one. → *When a presidential address is scheduled before the next trading day, freeze all pending orders. Reassess AFTER the speech, not before.* `[2026-04-01]`
 
 ---
 
