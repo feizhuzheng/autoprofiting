@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T16:50:00Z",
-  "version": 72,
+  "last_updated": "2026-04-01T19:13:00Z",
+  "version": 73,
   "principles": [
     {
       "id": 1,
@@ -166,8 +166,8 @@
     },
     {
       "id": 21,
-      "lesson": "Monitoring addiction is structural, not behavioral. The 3-session hard cap has failed every day since implementation (March 30: 13 sessions, March 31: 10, April 1: 6+). Zero decision changes resulted from extra sessions. The compulsion is not about information \u2014 it is about the illusion of control over randomness.",
-      "action": "New rule: after 2 sessions with no decision change, stop writing entries. Only update settlement prices at 4 PM. If no decision changed by close, the day was a 2-session day. Every entry that doesn't change a decision is evidence the cap failed.",
+      "lesson": "Monitoring addiction is structural, not behavioral. Session caps fail because they address the symptom (checking), not the cause (illusion of control). March 30: 13 sessions, March 31: 10, April 1: 9. Zero decision changes from extra sessions on any of those days. Useful sessions per day: 2-3. Waste rate: 67%+.",
+      "action": "Cap ENTRIES, not sessions. Rule: if the plan hasn't changed since the last entry, don't write a new one. Price-only updates go to portfolio.json and equity_curve.json without journal entries. A blank page is more honest than a 500-word 'no change.'",
       "added": "2026-03-29",
       "updated": "2026-04-01"
     },
