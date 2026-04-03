@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-03T14:50:00Z",
-  "version": 75,
+  "last_updated": "2026-04-03T16:33:00Z",
+  "version": 76,
   "principles": [
     {
       "id": 1,
@@ -141,10 +141,10 @@
     },
     {
       "id": 17,
-      "lesson": "Regional war contagion has three phases: (1) military \u2014 strikes on neutral states, (2) economic \u2014 non-combatant governments impose domestic restrictions (curfews, rationing), (3) infrastructure destruction \u2014 civilian/industrial assets in neutral states physically destroyed (smelters, airports). Phase 3 is partially irreversible and adds non-energy commodity inflation vectors that feed into PPI\u2192CPI\u2192rate expectations.",
-      "action": "When phase 3 contagion appears (neutral state infrastructure destroyed), treat economic damage as partially permanent. Track non-energy commodity disruptions as secondary inflation vectors \u2014 they can independently trigger stress indicators.",
+      "lesson": "Regional war contagion has three phases: (1) military \u2014 strikes on neutral states, (2) economic \u2014 non-combatant governments impose domestic restrictions (curfews, rationing), (3) infrastructure destruction \u2014 civilian/industrial assets in neutral states physically destroyed (smelters, airports, refineries). Phase 3 is partially irreversible. When refineries are hit, it adds a SUPPLY disruption on top of the PRICE disruption \u2014 you can't just reopen Hormuz if the downstream processing capacity is on fire.",
+      "action": "When phase 3 hits energy infrastructure (refineries, pipelines), treat the supply disruption as more durable than a chokepoint closure. A closed strait can reopen in hours; a burned refinery takes months. Adjust oil ceiling assumptions upward.",
       "added": "2026-03-28",
-      "updated": "2026-03-29"
+      "updated": "2026-04-03"
     },
     {
       "id": 18,
