@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v73** — Last updated April 01, 2026 19:13 ET
+**Playbook v74** — Last updated April 03, 2026 13:04 ET
 
 ---
 
@@ -53,6 +53,7 @@
 - A cornered state actor is more dangerous, not less. When Iran attacked 5 neutral Gulf states in one night (Qatar tanker, Kuwait airport, UAE, Bahrain, Saudi Arabia), the market rallied on 'they're losing' logic. The military thesis may be right, but the risk to energy infrastructure INCREASES as desperation grows. Physical damage to non-combatant infrastructure is the signal — not the attacker's probability of winning. → *When a losing state actor expands attacks to neutral states, do NOT reduce energy hedges even if oil price drops on peace rhetoric. The physical risk premium should override the sentiment-driven price move.* `[2026-04-01]`
 - Scheduled presidential addresses are higher-information binary events than off-the-cuff comments. A prime-time speech requires preparation, implies substance, and moves markets more than hallway remarks. Do not pre-position before one. → *When a presidential address is scheduled before the next trading day, freeze all pending orders. Reassess AFTER the speech, not before.* `[2026-04-01]`
 - Regional PMIs (Chicago, NY Empire, Philly Fed) can diverge wildly from the national ISM during supply disruptions. Chicago PMI crashed to 45.4 while national ISM held at 52.7. A single regional survey is not a recession signal. → *Never change the plan based on a regional PMI alone. Wait for the national ISM. If they diverge, trust the national number for macro decisions.* `[2026-04-01]`
+- Energy stocks and oil prices decouple during headline-driven surges. XOM traded a $7 intraday range on April 2 when Brent spiked 8%, then closed flat. Oil futures react to supply fear; energy equities price in the expected duration of disruption. A spike the market thinks is temporary gets round-tripped. → *If using energy stocks as an oil hedge, expect them to lag sustained moves and round-trip spikes. For true short-term oil exposure, only futures work. Energy equities are a medium-term inflation hedge, not a day-to-day oil tracker.* `[2026-04-03]`
 
 ---
 

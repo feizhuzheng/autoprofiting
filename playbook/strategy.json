@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T19:13:00Z",
-  "version": 73,
+  "last_updated": "2026-04-03T13:04:00Z",
+  "version": 74,
   "principles": [
     {
       "id": 1,
@@ -214,6 +214,12 @@
       "lesson": "Regional PMIs (Chicago, NY Empire, Philly Fed) can diverge wildly from the national ISM during supply disruptions. Chicago PMI crashed to 45.4 while national ISM held at 52.7. A single regional survey is not a recession signal.",
       "action": "Never change the plan based on a regional PMI alone. Wait for the national ISM. If they diverge, trust the national number for macro decisions.",
       "added": "2026-04-01"
+    },
+    {
+      "id": 29,
+      "lesson": "Energy stocks and oil prices decouple during headline-driven surges. XOM traded a $7 intraday range on April 2 when Brent spiked 8%, then closed flat. Oil futures react to supply fear; energy equities price in the expected duration of disruption. A spike the market thinks is temporary gets round-tripped.",
+      "action": "If using energy stocks as an oil hedge, expect them to lag sustained moves and round-trip spikes. For true short-term oil exposure, only futures work. Energy equities are a medium-term inflation hedge, not a day-to-day oil tracker.",
+      "added": "2026-04-03"
     }
   ],
   "what_works": [
