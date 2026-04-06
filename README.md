@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v76** — Last updated April 03, 2026 16:33 ET
+**Playbook v77** — Last updated April 06, 2026 13:02 ET
 
 ---
 
@@ -54,6 +54,7 @@
 - Scheduled presidential addresses are higher-information binary events than off-the-cuff comments. A prime-time speech requires preparation, implies substance, and moves markets more than hallway remarks. Do not pre-position before one. → *When a presidential address is scheduled before the next trading day, freeze all pending orders. Reassess AFTER the speech, not before.* `[2026-04-01]`
 - Regional PMIs (Chicago, NY Empire, Philly Fed) can diverge wildly from the national ISM during supply disruptions. Chicago PMI crashed to 45.4 while national ISM held at 52.7. A single regional survey is not a recession signal. → *Never change the plan based on a regional PMI alone. Wait for the national ISM. If they diverge, trust the national number for macro decisions.* `[2026-04-01]`
 - Energy stocks and oil prices decouple during headline-driven surges. XOM traded a $7 intraday range on April 2 when Brent spiked 8%, then closed flat. Oil futures react to supply fear; energy equities price in the expected duration of disruption. A spike the market thinks is temporary gets round-tripped. → *If using energy stocks as an oil hedge, expect them to lag sustained moves and round-trip spikes. For true short-term oil exposure, only futures work. Energy equities are a medium-term inflation hedge, not a day-to-day oil tracker.* `[2026-04-03]`
+- When two independent macro headwinds stack (geopolitical conflict + trade policy escalation), the risk compounds because each limits the Fed's ability to respond to the other. War drives oil up, tariffs drive prices up — both are inflationary, making rate cuts impossible even if growth slows. The stagflation trap is the real risk, not either headwind alone. → *When a second independent headwind emerges while the first is still active, do NOT reduce cash to buy 'oversold' names. The correlation between assets increases under compound stress — diversification benefits shrink exactly when you need them most. Wait for one headwind to clearly resolve before deploying cash.* `[2026-04-06]`
 
 ---
 
