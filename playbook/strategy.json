@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T18:37:00Z",
-  "version": 87,
+  "last_updated": "2026-04-08T19:10:00Z",
+  "version": 88,
   "principles": [
     {
       "id": 1,
@@ -247,6 +247,12 @@
       "id": 33,
       "lesson": "When geopolitical relief (ceasefire) fades intraday but tariff headwinds remain, the tariff headwind is the dominant force. April 8: ceasefire sent NVDA to $184.61 premarket but tariff gravity pulled it back to $178 by midday. Oil crashed 16% but NVDA gave back all gains. Tariffs are structural; ceasefires are temporary. The structural force wins by lunchtime.",
       "action": "In a dual-headwind environment, a resolution of the temporary headwind only creates a tradeable bounce — not a trend change. The structural headwind (tariffs) determines the trend. Don't mistake a temporary headwind resolution for an all-clear.",
+      "added": "2026-04-08"
+    },
+    {
+      "id": 34,
+      "lesson": "When one headwind in a compound regime clears (ceasefire), the remaining headwind (tariffs) becomes more visible and differentiated by sector. NVDA -1.24% vs Nasdaq +2.8% on ceasefire day — oil risk masked tariff-specific risk in semis. Clearing geopolitical noise exposed China 145% tariff as NVDA's real problem.",
+      "action": "After a compound headwind partially clears, re-evaluate which holdings have exposure to the REMAINING headwind. The stock that lags the relief rally is the one most exposed to the unresolved problem.",
       "added": "2026-04-08"
     }
   ],

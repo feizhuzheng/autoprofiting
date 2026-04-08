@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v87** — Last updated April 08, 2026 18:37 ET
+**Playbook v88** — Last updated April 08, 2026 19:10 ET
 
 ---
 
@@ -58,6 +58,7 @@
 - A temporary ceasefire collapses risk premium asymmetrically — oil fell 15%+ in hours after weeks of gradual escalation building it up. CONFIRMED April 8: XOM lost 5.8% at open, bounced to $163 midday, then crashed back to $153 by 1:24 PM. Insurance position that survived the first sell lost another $0.50/share waiting. The 'keep 25% insurance' rule costs money when Brent breaks below exit threshold. → *On ceasefire announcement: sell ALL energy hedge at open, not just 50%. If Brent drops below $95 (Lesson #3 exit threshold), the insurance has no value — the premium is gone AND the underlying commodity thesis is broken. Don't keep insurance against a risk the market has already priced out.* `[2026-04-08]`
 - Markets price temporary ceasefires as permanent resolutions — VIX dropped from 25.8 to 20 on a 2-week deal. CONFIRMED April 8: the rally round-tripped in ALL sectors within 3 hours. NVDA: premarket $184.61 → $178 regular. XOM: $152 open → $163.82 midday bounce → $153.83 by 1:24 PM. VIX rebounded from 20 to ~24. Ceasefire euphoria has a half-life of ~3 hours, no exceptions. → *After a ceasefire rally: do NOT chase the gap-up. Do NOT trust the midday bounce either — it round-trips too. Wait for next-day price action to see if any gains hold. If the rally fades below previous close by afternoon, the market is telling you the deal changes nothing.* `[2026-04-08]`
 - When geopolitical relief (ceasefire) fades intraday but tariff headwinds remain, the tariff headwind is the dominant force. April 8: ceasefire sent NVDA to $184.61 premarket but tariff gravity pulled it back to $178 by midday. Oil crashed 16% but NVDA gave back all gains. Tariffs are structural; ceasefires are temporary. The structural force wins by lunchtime. → *In a dual-headwind environment, a resolution of the temporary headwind only creates a tradeable bounce — not a trend change. The structural headwind (tariffs) determines the trend. Don't mistake a temporary headwind resolution for an all-clear.* `[2026-04-08]`
+- When one headwind in a compound regime clears (ceasefire), the remaining headwind (tariffs) becomes more visible and differentiated by sector. NVDA -1.24% vs Nasdaq +2.8% on ceasefire day — oil risk masked tariff-specific risk in semis. Clearing geopolitical noise exposed China 145% tariff as NVDA's real problem. → *After a compound headwind partially clears, re-evaluate which holdings have exposure to the REMAINING headwind. The stock that lags the relief rally is the one most exposed to the unresolved problem.* `[2026-04-08]`
 
 ---
 
