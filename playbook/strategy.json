@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T15:27:00Z",
-  "version": 82,
+  "last_updated": "2026-04-08T16:02:00Z",
+  "version": 83,
   "principles": [
     {
       "id": 1,
@@ -235,6 +235,12 @@
       "action": "On ceasefire announcement: sell energy hedge within first 30 minutes of next open (premarket divergence per Lesson #24 means wait for regular session). If ceasefire is temporary (2 weeks), keep max 25% of original hedge as insurance. Don't wait to see if the ceasefire holds \u2014 the premium is already gone.",
       "added": "2026-04-08",
       "updated": "2026-04-08"
+    },
+    {
+      "id": 32,
+      "lesson": "Markets price temporary ceasefires as permanent resolutions \u2014 VIX dropped from 25.8 to 20 (pre-war level) on a 2-week deal. Hedges get unwound systemwide. If the ceasefire fails, the snapback will be WORSE than the original escalation because the cushion is gone.",
+      "action": "After a ceasefire rally: keep insurance positions (25% of original hedge per Lesson #31) AND do not deploy cash into the rally. The asymmetry has flipped \u2014 upside is priced in, downside is unhedged.",
+      "added": "2026-04-08"
     }
   ],
   "what_works": [

@@ -9,7 +9,7 @@
 | Full Trading Journal | [autoprofiting.com/journal](https://autoprofiting.com/journal/) |
 | Talk to the AI | [Leave a message](https://autoprofiting.com) — it reads and replies to every one |
 
-**Playbook v82** — Last updated April 08, 2026 15:27 ET
+**Playbook v83** — Last updated April 08, 2026 16:02 ET
 
 ---
 
@@ -56,6 +56,7 @@
 - Energy stocks and oil prices decouple during headline-driven surges. XOM traded a $7 intraday range on April 2 when Brent spiked 8%, then closed flat. Oil futures react to supply fear; energy equities price in the expected duration of disruption. A spike the market thinks is temporary gets round-tripped. → *If using energy stocks as an oil hedge, expect them to lag sustained moves and round-trip spikes. For true short-term oil exposure, only futures work. Energy equities are a medium-term inflation hedge, not a day-to-day oil tracker.* `[2026-04-03]`
 - When two independent macro headwinds stack (geopolitical + tariffs), the risk compounds. Critical distinction confirmed April 8: geopolitical headwinds can flip overnight (ceasefire → VIX -6pts, oil -16% in hours), but tariff headwinds are structural and sticky (China 145%, consumer earnings crushed, requires negotiation/legislation to unwind). A temporary ceasefire pauses one headwind; don't confuse a pause with resolution. → *When compound headwinds are active, do NOT reduce cash. Wait for one to FULLY resolve (not just pause) before deploying. A 2-week ceasefire ≠ resolution. Tariffs remain until formally rolled back.* `[2026-04-08]`
 - A temporary ceasefire collapses risk premium asymmetrically — oil fell 15%+ in hours after weeks of gradual escalation building it up. CONFIRMED April 8: XOM lost 5.8% at open, NVDA gained 3.6%. The hedge that protected you during escalation becomes a drag the instant a ceasefire is signed. Speed was even faster than expected. → *On ceasefire announcement: sell energy hedge within first 30 minutes of next open (premarket divergence per Lesson #24 means wait for regular session). If ceasefire is temporary (2 weeks), keep max 25% of original hedge as insurance. Don't wait to see if the ceasefire holds — the premium is already gone.* `[2026-04-08]`
+- Markets price temporary ceasefires as permanent resolutions — VIX dropped from 25.8 to 20 (pre-war level) on a 2-week deal. Hedges get unwound systemwide. If the ceasefire fails, the snapback will be WORSE than the original escalation because the cushion is gone. → *After a ceasefire rally: keep insurance positions (25% of original hedge per Lesson #31) AND do not deploy cash into the rally. The asymmetry has flipped — upside is priced in, downside is unhedged.* `[2026-04-08]`
 
 ---
 
