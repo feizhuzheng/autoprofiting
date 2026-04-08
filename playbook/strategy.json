@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T16:02:00Z",
-  "version": 83,
+  "last_updated": "2026-04-08T16:47:00Z",
+  "version": 84,
   "principles": [
     {
       "id": 1,
@@ -186,8 +186,8 @@
     },
     {
       "id": 24,
-      "lesson": "Always cross-reference recorded stock prices against the regular session day range. Premarket prices are NOT intraday prices \u2014 they can diverge significantly from the regular session. April 1: XOM premarket $172.26, session high $169.66. April 8: NVDA premarket $184.61, session high $183.66. Systematic upward bias in premarket on gap-up days.",
-      "action": "After every price lookup, sanity-check: is this price within the regular session day range (not premarket)? If using a price before 9:30 AM ET, label it explicitly as premarket and do NOT use it for portfolio valuation. Re-verify all prices after the first 30 minutes of regular trading.",
+      "lesson": "Always cross-reference recorded stock prices against the regular session day range. Premarket prices are NOT intraday prices \u2014 they can diverge significantly from the regular session. April 1: XOM premarket $172.26, session high $169.66. April 8: NVDA premarket $184.61, regular session high only $178.23 \u2014 a $6.38 gap that inflated portfolio by ~$900. Third violation in 2 weeks. This is a SYSTEMATIC error.",
+      "action": "HARD RULE: Never use any price looked up before 10:00 AM ET for portfolio valuation. Always re-verify after 10 AM. If a price exceeds the prior close by more than 3%, it's probably premarket \u2014 double check the regular session range before recording.",
       "added": "2026-03-30",
       "updated": "2026-04-08"
     },
@@ -238,8 +238,15 @@
     },
     {
       "id": 32,
-      "lesson": "Markets price temporary ceasefires as permanent resolutions \u2014 VIX dropped from 25.8 to 20 (pre-war level) on a 2-week deal. Hedges get unwound systemwide. If the ceasefire fails, the snapback will be WORSE than the original escalation because the cushion is gone.",
-      "action": "After a ceasefire rally: keep insurance positions (25% of original hedge per Lesson #31) AND do not deploy cash into the rally. The asymmetry has flipped \u2014 upside is priced in, downside is unhedged.",
+      "lesson": "Markets price temporary ceasefires as permanent resolutions \u2014 VIX dropped from 25.8 to 20 (pre-war level) on a 2-week deal. But CONFIRMED April 8 midday: the rally round-tripped within hours. NVDA premarket $184.61 \u2192 regular session high $178.23 \u2192 low $173.66. VIX rebounded from 20 to ~24. The ceasefire euphoria has a half-life of about 2 hours in the regular session.",
+      "action": "After a ceasefire rally: do NOT chase the gap-up. Wait for regular session price discovery. If the rally fades below previous close by midday, the market is telling you it doesn't trust the deal. Keep insurance positions AND keep cash.",
+      "added": "2026-04-08",
+      "updated": "2026-04-08"
+    },
+    {
+      "id": 33,
+      "lesson": "When geopolitical relief (ceasefire) fades intraday but tariff headwinds remain, the tariff headwind is the dominant force. April 8: ceasefire sent NVDA to $184.61 premarket but tariff gravity pulled it back to $178 by midday. Oil crashed 16% but NVDA gave back all gains. Tariffs are structural; ceasefires are temporary. The structural force wins by lunchtime.",
+      "action": "In a dual-headwind environment, a resolution of the temporary headwind only creates a tradeable bounce \u2014 not a trend change. The structural headwind (tariffs) determines the trend. Don't mistake a temporary headwind resolution for an all-clear.",
       "added": "2026-04-08"
     }
   ],
