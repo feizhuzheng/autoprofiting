@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-08T13:02:00Z",
-  "version": 78,
+  "last_updated": "2026-04-08T13:37:00Z",
+  "version": 79,
   "principles": [
     {
       "id": 1,
-      "rule": "Cash is a position. Holding 50%+ cash in a correction isn't cowardice — it's ammunition for the recovery. Week 1: -2.94% vs Nasdaq -11%+.",
+      "rule": "Cash is a position. Holding 50%+ cash in a correction isn't cowardice \u2014 it's ammunition for the recovery. Week 1: -2.94% vs Nasdaq -11%+.",
       "added": "2026-03-25",
       "updated": "2026-03-28"
     },
@@ -63,15 +63,15 @@
     },
     {
       "id": 5,
-      "lesson": "Stocks closing near the day's low on a Friday signal institutional risk reduction — expect Monday weakness.",
+      "lesson": "Stocks closing near the day's low on a Friday signal institutional risk reduction \u2014 expect Monday weakness.",
       "action": "Don't buy above 5% of target entry. Friday close near day-low is the most bearish short-term signal.",
       "added": "2026-03-25",
       "updated": "2026-03-28"
     },
     {
       "id": 6,
-      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. Lagging surveys (Michigan, CB) create a structural floor — they stay triggered for 3-4 weeks regardless of market improvement. When all 4 real-time indicators clear but 2 surveys remain, treat it as 'conditional green' — small adds OK, full conviction buys wait for surveys to clear.",
-      "action": "Before any BUY, check all indicators at official close values. If 2+ triggered with real-time indicators, no new positions. If only lagging surveys remain triggered and all real-time cleared at settlement, small positions OK (half normal size). Only count indicators as cleared at settlement — intraday moves don't count.",
+      "lesson": "Track macro stress thresholds: VIX 30, 30Y yield 5%, Brent $115, Michigan Sentiment <55, Conference Board Expectations <80, rate hike probability >50%. When 2+ cluster, go fully defensive. Lagging surveys (Michigan, CB) create a structural floor \u2014 they stay triggered for 3-4 weeks regardless of market improvement. When all 4 real-time indicators clear but 2 surveys remain, treat it as 'conditional green' \u2014 small adds OK, full conviction buys wait for surveys to clear.",
+      "action": "Before any BUY, check all indicators at official close values. If 2+ triggered with real-time indicators, no new positions. If only lagging surveys remain triggered and all real-time cleared at settlement, small positions OK (half normal size). Only count indicators as cleared at settlement \u2014 intraday moves don't count.",
       "added": "2026-03-27",
       "updated": "2026-03-31"
     },
@@ -118,12 +118,12 @@
     {
       "id": 13,
       "lesson": "When both sides make maximalist demands publicly, neither can back down without losing face. This 'credibility trap' makes escalation the path of least political resistance.",
-      "action": "After a public rejection of peace terms, treat the next deadline as a cliff, not a ramp. Exit situational positions immediately — don't wait for the deadline.",
+      "action": "After a public rejection of peace terms, treat the next deadline as a cliff, not a ramp. Exit situational positions immediately \u2014 don't wait for the deadline.",
       "added": "2026-03-28"
     },
     {
       "id": 14,
-      "lesson": "When a high-growth stock's forward PE drops below the market average, it's a historic buy signal — but only if stress indicators are normalizing. NVDA at 20x forward PE with 73% growth is compelling, but not actionable at VIX 27+ and Brent $112+.",
+      "lesson": "When a high-growth stock's forward PE drops below the market average, it's a historic buy signal \u2014 but only if stress indicators are normalizing. NVDA at 20x forward PE with 73% growth is compelling, but not actionable at VIX 27+ and Brent $112+.",
       "action": "Track the delta between the stock's forward PE and S&P 500 forward PE. When the stock is cheaper AND VIX is falling AND Brent is stabilizing, that's the entry window.",
       "added": "2026-03-28"
     },
@@ -141,7 +141,7 @@
     },
     {
       "id": 17,
-      "lesson": "Regional war contagion has three phases: (1) military — strikes on neutral states, (2) economic — non-combatant governments impose domestic restrictions (curfews, rationing), (3) infrastructure destruction — civilian/industrial assets in neutral states physically destroyed (smelters, airports, refineries). Phase 3 is partially irreversible. When refineries are hit, it adds a SUPPLY disruption on top of the PRICE disruption — you can't just reopen Hormuz if the downstream processing capacity is on fire.",
+      "lesson": "Regional war contagion has three phases: (1) military \u2014 strikes on neutral states, (2) economic \u2014 non-combatant governments impose domestic restrictions (curfews, rationing), (3) infrastructure destruction \u2014 civilian/industrial assets in neutral states physically destroyed (smelters, airports, refineries). Phase 3 is partially irreversible. When refineries are hit, it adds a SUPPLY disruption on top of the PRICE disruption \u2014 you can't just reopen Hormuz if the downstream processing capacity is on fire.",
       "action": "When phase 3 hits energy infrastructure (refineries, pipelines), treat the supply disruption as more durable than a chokepoint closure. A closed strait can reopen in hours; a burned refinery takes months. Adjust oil ceiling assumptions upward.",
       "added": "2026-03-28",
       "updated": "2026-04-03"
@@ -160,8 +160,8 @@
     },
     {
       "id": 20,
-      "lesson": "Corporate risk management (shipping companies pausing routes) is a more reliable signal than official government/military announcements. Maersk et al. paused Bab al-Mandab before Houthis officially closed it — they priced in the risk and acted. When corporations flee, the disruption is already real.",
-      "action": "When major shipping/logistics companies suspend a route, treat that chokepoint as closed for portfolio purposes — don't wait for an official military/political closure.",
+      "lesson": "Corporate risk management (shipping companies pausing routes) is a more reliable signal than official government/military announcements. Maersk et al. paused Bab al-Mandab before Houthis officially closed it \u2014 they priced in the risk and acted. When corporations flee, the disruption is already real.",
+      "action": "When major shipping/logistics companies suspend a route, treat that chokepoint as closed for portfolio purposes \u2014 don't wait for an official military/political closure.",
       "added": "2026-03-28"
     },
     {
@@ -173,20 +173,20 @@
     },
     {
       "id": 22,
-      "lesson": "Distinguish macro compression (rate hikes, oil shocks) from fundamental deceleration (capex normalization, demand saturation). Macro compression is temporary — hold through it. Fundamental deceleration warrants position reduction. The trigger is not the first report — it is confirmation in actual earnings guidance.",
+      "lesson": "Distinguish macro compression (rate hikes, oil shocks) from fundamental deceleration (capex normalization, demand saturation). Macro compression is temporary \u2014 hold through it. Fundamental deceleration warrants position reduction. The trigger is not the first report \u2014 it is confirmation in actual earnings guidance.",
       "action": "When fundamental deceleration is rumored: flag it, set a trigger (e.g., earnings date), and prepare a contingency cut (e.g., reduce by 50%). Do NOT act on the rumor. Do NOT ignore it either.",
       "added": "2026-03-30"
     },
     {
       "id": 23,
-      "lesson": "Central banker words that contradict market pricing are signal — unlike geopolitical posturing which is noise. When the FOMC says the market is wrong about rate hikes, update the model. But normalization (VIX grinding from 31 to 29) is not capitulation (VIX spiking to 35+). Different signals, different actions. Normalization = update the model. Capitulation = execute the buy list. Confirmed March 30: Powell at Harvard killed rate hike odds from 52% to 2.2% in one speech.",
-      "action": "When a Fed official pushes back on market-implied rate expectations, downgrade that stress indicator immediately. But do NOT conflate slow normalization with capitulation — only capitulation (VIX 35+, panic selling) triggers new positions.",
+      "lesson": "Central banker words that contradict market pricing are signal \u2014 unlike geopolitical posturing which is noise. When the FOMC says the market is wrong about rate hikes, update the model. But normalization (VIX grinding from 31 to 29) is not capitulation (VIX spiking to 35+). Different signals, different actions. Normalization = update the model. Capitulation = execute the buy list. Confirmed March 30: Powell at Harvard killed rate hike odds from 52% to 2.2% in one speech.",
+      "action": "When a Fed official pushes back on market-implied rate expectations, downgrade that stress indicator immediately. But do NOT conflate slow normalization with capitulation \u2014 only capitulation (VIX 35+, panic selling) triggers new positions.",
       "added": "2026-03-30",
       "updated": "2026-03-30"
     },
     {
       "id": 24,
-      "lesson": "Always cross-reference recorded stock prices against the regular session day range. Premarket prices are NOT intraday prices — they can diverge significantly from the regular session. April 1: XOM premarket $172.26, actual regular session high $169.66, midday $161.63. Two entries propagated a $500 valuation error.",
+      "lesson": "Always cross-reference recorded stock prices against the regular session day range. Premarket prices are NOT intraday prices \u2014 they can diverge significantly from the regular session. April 1: XOM premarket $172.26, actual regular session high $169.66, midday $161.63. Two entries propagated a $500 valuation error.",
       "action": "After every price lookup, sanity-check: is this price within the regular session day range (not premarket)? If using a price before 9:30 AM ET, label it explicitly as premarket and do NOT use it for portfolio valuation. Re-verify all prices after the first 30 minutes of regular trading.",
       "added": "2026-03-30",
       "updated": "2026-04-01"
@@ -224,21 +224,22 @@
     },
     {
       "id": 30,
-      "lesson": "When two independent macro headwinds stack (geopolitical conflict + trade policy escalation), the risk compounds because each limits the Fed's ability to respond to the other. War drives oil up, tariffs drive prices up — both are inflationary, making rate cuts impossible even if growth slows. The stagflation trap is the real risk, not either headwind alone.",
-      "action": "When a second independent headwind emerges while the first is still active, do NOT reduce cash to buy 'oversold' names. The correlation between assets increases under compound stress — diversification benefits shrink exactly when you need them most. Wait for one headwind to clearly resolve before deploying cash.",
+      "lesson": "When two independent macro headwinds stack (geopolitical conflict + trade policy escalation), the risk compounds because each limits the Fed's ability to respond to the other. War drives oil up, tariffs drive prices up \u2014 both are inflationary, making rate cuts impossible even if growth slows. The stagflation trap is the real risk, not either headwind alone.",
+      "action": "When a second independent headwind emerges while the first is still active, do NOT reduce cash to buy 'oversold' names. The correlation between assets increases under compound stress \u2014 diversification benefits shrink exactly when you need them most. Wait for one headwind to clearly resolve before deploying cash.",
       "added": "2026-04-06"
     },
     {
       "id": 31,
-      "lesson": "A temporary ceasefire collapses risk premium asymmetrically — oil fell 15% in hours after weeks of gradual escalation building it up. Relief is binary (deal or no deal) while escalation was gradual. April 8: Brent $118→$96 overnight, XOM -6.5% premarket vs NVDA +3.7%. The hedge that protected you during escalation becomes a drag the instant a ceasefire is signed.",
-      "action": "On ceasefire announcement: sell energy hedge within first 30 minutes of next open (premarket divergence per Lesson #24 means wait for regular session). If ceasefire is temporary (2 weeks), keep max 25% of original hedge as insurance. Don't wait to see if the ceasefire holds — the premium is already gone.",
-      "added": "2026-04-08"
+      "lesson": "A temporary ceasefire collapses risk premium asymmetrically \u2014 oil fell 15%+ in hours after weeks of gradual escalation building it up. CONFIRMED April 8: XOM lost 5.8% at open, NVDA gained 3.6%. The hedge that protected you during escalation becomes a drag the instant a ceasefire is signed. Speed was even faster than expected.",
+      "action": "On ceasefire announcement: sell energy hedge within first 30 minutes of next open (premarket divergence per Lesson #24 means wait for regular session). If ceasefire is temporary (2 weeks), keep max 25% of original hedge as insurance. Don't wait to see if the ceasefire holds \u2014 the premium is already gone.",
+      "added": "2026-04-08",
+      "updated": "2026-04-08"
     }
   ],
   "what_works": [
     {
       "id": 1,
-      "pattern": "AI infrastructure is a multi-year structural theme — but monitor for capex normalization signals from cloud providers. In a rate-hike regime, hold quality names but don't add until stress normalizes. If capex guidance is actually revised down, reclassify from structural to situational.",
+      "pattern": "AI infrastructure is a multi-year structural theme \u2014 but monitor for capex normalization signals from cloud providers. In a rate-hike regime, hold quality names but don't add until stress normalizes. If capex guidance is actually revised down, reclassify from structural to situational.",
       "added": "2026-03-25",
       "updated": "2026-03-30"
     },
@@ -249,7 +250,7 @@
     },
     {
       "id": 3,
-      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs — but has a sharp expiry on ceasefire. XOM +5.9% vs NVDA -5.6% in Week 1 proved the thesis. April 8 ceasefire proved the exit: XOM gave back 6.5% overnight while NVDA gained 3.7%. Net lesson: energy hedges work during escalation but must be cut fast on de-escalation. The hedge is a rental, not an investment.",
+      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs \u2014 but has a sharp expiry on ceasefire. XOM +5.9% vs NVDA -5.6% in Week 1 proved the thesis. April 8 ceasefire proved the exit: XOM gave back 6.5% overnight while NVDA gained 3.7%. Net lesson: energy hedges work during escalation but must be cut fast on de-escalation. The hedge is a rental, not an investment.",
       "added": "2026-03-27",
       "updated": "2026-04-08"
     },
@@ -266,12 +267,12 @@
     },
     {
       "id": 6,
-      "pattern": "In a broadening correction, relative performance matters more than absolute returns. Being down -2.94% when indices are down -10% means the strategy is working — don't panic-sell into strength.",
+      "pattern": "In a broadening correction, relative performance matters more than absolute returns. Being down -2.94% when indices are down -10% means the strategy is working \u2014 don't panic-sell into strength.",
       "added": "2026-03-28"
     },
     {
       "id": 7,
-      "pattern": "Morningstar P/FV below 0.90 and sector discounts >20% are contrarian buy signals — but only actionable when stress indicators normalize. Tech at 23% discount has only occurred at 2022 bottom and 2011 crisis. Valuation tells you WHAT to buy; macro tells you WHEN.",
+      "pattern": "Morningstar P/FV below 0.90 and sector discounts >20% are contrarian buy signals \u2014 but only actionable when stress indicators normalize. Tech at 23% discount has only occurred at 2022 bottom and 2011 crisis. Valuation tells you WHAT to buy; macro tells you WHEN.",
       "added": "2026-03-28",
       "updated": "2026-03-28"
     },
