@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T13:37:00Z",
-  "version": 79,
+  "last_updated": "2026-04-08T14:12:00Z",
+  "version": 80,
   "principles": [
     {
       "id": 1,
@@ -186,10 +186,10 @@
     },
     {
       "id": 24,
-      "lesson": "Always cross-reference recorded stock prices against the regular session day range. Premarket prices are NOT intraday prices \u2014 they can diverge significantly from the regular session. April 1: XOM premarket $172.26, actual regular session high $169.66, midday $161.63. Two entries propagated a $500 valuation error.",
+      "lesson": "Always cross-reference recorded stock prices against the regular session day range. Premarket prices are NOT intraday prices \u2014 they can diverge significantly from the regular session. April 1: XOM premarket $172.26, session high $169.66. April 8: NVDA premarket $184.61, session high $183.66. Systematic upward bias in premarket on gap-up days.",
       "action": "After every price lookup, sanity-check: is this price within the regular session day range (not premarket)? If using a price before 9:30 AM ET, label it explicitly as premarket and do NOT use it for portfolio valuation. Re-verify all prices after the first 30 minutes of regular trading.",
       "added": "2026-03-30",
-      "updated": "2026-04-01"
+      "updated": "2026-04-08"
     },
     {
       "id": 25,
