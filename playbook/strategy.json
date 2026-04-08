@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T13:02:00Z",
-  "version": 77,
+  "last_updated": "2026-04-08T13:02:00Z",
+  "version": 78,
   "principles": [
     {
       "id": 1,
@@ -199,9 +199,10 @@
     },
     {
       "id": 26,
-      "lesson": "A cornered state actor is more dangerous, not less. When Iran attacked 5 neutral Gulf states in one night (Qatar tanker, Kuwait airport, UAE, Bahrain, Saudi Arabia), the market rallied on 'they're losing' logic. The military thesis may be right, but the risk to energy infrastructure INCREASES as desperation grows. Physical damage to non-combatant infrastructure is the signal — not the attacker's probability of winning.",
-      "action": "When a losing state actor expands attacks to neutral states, do NOT reduce energy hedges even if oil price drops on peace rhetoric. The physical risk premium should override the sentiment-driven price move.",
-      "added": "2026-04-01"
+      "lesson": "A cornered state actor is more dangerous, not less. But distinguish between peace RHETORIC (noise) and a formal CEASEFIRE (action per Lesson #1). Iran attacking 5 neutral Gulf states = don't reduce hedges on rhetoric. Iran signing a 2-week ceasefire with Hormuz reopening = action that invalidates the hedge thesis. April 8: oil crashed 15% in hours after ceasefire, XOM premarket -6.5%.",
+      "action": "On peace rhetoric: hold energy hedges. On a signed ceasefire: sell 30-50% of energy hedge immediately (per Lesson #2), even if temporary. The risk premium evaporates faster than it builds.",
+      "added": "2026-04-01",
+      "updated": "2026-04-08"
     },
     {
       "id": 27,
@@ -226,6 +227,12 @@
       "lesson": "When two independent macro headwinds stack (geopolitical conflict + trade policy escalation), the risk compounds because each limits the Fed's ability to respond to the other. War drives oil up, tariffs drive prices up — both are inflationary, making rate cuts impossible even if growth slows. The stagflation trap is the real risk, not either headwind alone.",
       "action": "When a second independent headwind emerges while the first is still active, do NOT reduce cash to buy 'oversold' names. The correlation between assets increases under compound stress — diversification benefits shrink exactly when you need them most. Wait for one headwind to clearly resolve before deploying cash.",
       "added": "2026-04-06"
+    },
+    {
+      "id": 31,
+      "lesson": "A temporary ceasefire collapses risk premium asymmetrically — oil fell 15% in hours after weeks of gradual escalation building it up. Relief is binary (deal or no deal) while escalation was gradual. April 8: Brent $118→$96 overnight, XOM -6.5% premarket vs NVDA +3.7%. The hedge that protected you during escalation becomes a drag the instant a ceasefire is signed.",
+      "action": "On ceasefire announcement: sell energy hedge within first 30 minutes of next open (premarket divergence per Lesson #24 means wait for regular session). If ceasefire is temporary (2 weeks), keep max 25% of original hedge as insurance. Don't wait to see if the ceasefire holds — the premium is already gone.",
+      "added": "2026-04-08"
     }
   ],
   "what_works": [
@@ -242,9 +249,9 @@
     },
     {
       "id": 3,
-      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs. XOM +5.9% vs NVDA -5.6% and AVGO -5.7% in Week 1. Dual chokepoint now de facto operational: Maersk, Hapag-Lloyd, CMA CGM paused Trans-Suez sailings (Bab al-Mandab) + Hormuz closed since March 2. If both close, Saudi loses Yanbu Red Sea terminals too — ALL Saudi exports blocked, not just Iranian/Gulf oil (~40% of global seaborne crude). Oil premium may outlast the conflict.",
+      "pattern": "Energy hedge offsets tech losses during geopolitical selloffs — but has a sharp expiry on ceasefire. XOM +5.9% vs NVDA -5.6% in Week 1 proved the thesis. April 8 ceasefire proved the exit: XOM gave back 6.5% overnight while NVDA gained 3.7%. Net lesson: energy hedges work during escalation but must be cut fast on de-escalation. The hedge is a rental, not an investment.",
       "added": "2026-03-27",
-      "updated": "2026-03-28"
+      "updated": "2026-04-08"
     },
     {
       "id": 4,
