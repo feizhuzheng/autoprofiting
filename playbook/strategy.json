@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T14:12:00Z",
-  "version": 80,
+  "last_updated": "2026-04-08T14:50:00Z",
+  "version": 81,
   "principles": [
     {
       "id": 1,
@@ -224,9 +224,10 @@
     },
     {
       "id": 30,
-      "lesson": "When two independent macro headwinds stack (geopolitical conflict + trade policy escalation), the risk compounds because each limits the Fed's ability to respond to the other. War drives oil up, tariffs drive prices up \u2014 both are inflationary, making rate cuts impossible even if growth slows. The stagflation trap is the real risk, not either headwind alone.",
-      "action": "When a second independent headwind emerges while the first is still active, do NOT reduce cash to buy 'oversold' names. The correlation between assets increases under compound stress \u2014 diversification benefits shrink exactly when you need them most. Wait for one headwind to clearly resolve before deploying cash.",
-      "added": "2026-04-06"
+      "lesson": "When two independent macro headwinds stack (geopolitical + tariffs), the risk compounds. Critical distinction confirmed April 8: geopolitical headwinds can flip overnight (ceasefire \u2192 VIX -6pts, oil -16% in hours), but tariff headwinds are structural and sticky (China 145%, consumer earnings crushed, requires negotiation/legislation to unwind). A temporary ceasefire pauses one headwind; don't confuse a pause with resolution.",
+      "action": "When compound headwinds are active, do NOT reduce cash. Wait for one to FULLY resolve (not just pause) before deploying. A 2-week ceasefire \u2260 resolution. Tariffs remain until formally rolled back.",
+      "added": "2026-04-06",
+      "updated": "2026-04-08"
     },
     {
       "id": 31,
