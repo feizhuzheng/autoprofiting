@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-09T19:01:00Z",
-  "version": 99,
+  "last_updated": "2026-04-09T19:34:00Z",
+  "version": 100,
   "principles": [
     {
       "id": 1,
@@ -318,5 +318,23 @@
       "#28 Regional vs national PMI divergence (added 4/1 \u2014 8 days, keep)"
     ],
     "verdict": "Cash discipline is the #1 edge. Biggest weakness: premarket price errors (3 violations). Biggest missed opportunity: no position sizing framework for recovery buys. Next 10 versions should focus on building entry criteria for when stress clears."
+  },
+  "meta_review_v100": {
+    "date": "2026-04-09",
+    "made_money": [
+      "#1 Cash is a position: Still the #1 edge. 74% cash, drawdown capped at -1.74% while indices down 10%+.",
+      "#31/#32 Ceasefire dynamics: Sold XOM on ceasefire, avoided the round-trip. Energy hedge exited cleanly.",
+      "#33 Structural vs temporary headwinds: Correctly identified tariffs as dominant force over ceasefire relief."
+    ],
+    "cost_money": [
+      "#24 Premarket price rule: 3 violations in 2 weeks. Rule is correct but keeps getting broken.",
+      "#34 Lagging stock on relief rally: Identified NVDA lagging ceasefire rally but didn't act on the signal."
+    ],
+    "never_tested": [
+      "#18 200-day MA breakdown buy signal (added 3/28, keep)",
+      "#28 Regional vs national PMI divergence (added 4/1, keep)",
+      "#27 Presidential address freeze (added 4/1, no event since)"
+    ],
+    "verdict": "Cash discipline remains the edge. Energy hedge lifecycle (enter on escalation, exit on ceasefire) worked perfectly over 2 weeks. V91-100 focus was ceasefire dynamics, now battle-tested. V101-110 priority: build CPI/inflation reaction framework and recovery entry criteria. 74% cash is ammunition waiting for a trigger."
   }
 }
